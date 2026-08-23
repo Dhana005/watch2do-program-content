@@ -1,0 +1,20 @@
+{
+  "id": "gate-pose",
+  "name": "Gate Pose (Parighasana)",
+  "level": "Beginner",
+  "durationLabel": "5-10 min",
+  "equipment": "A yoga mat",
+  "primaryMuscle": "Obliques & Hips",
+  "secondaryMuscles": [
+    "Shoulders",
+    "Hamstrings"
+  ],
+  "instructions": [
+    "Kneel and extend one leg straight out to the side, foot flat on the floor.",
+    "Raise your arms out to the sides, then reach over toward your extended leg.",
+    "Keep both hips facing forward as you lengthen through your side body."
+  ],
+  "sets": 1,
+  "reps": "20-30 sec",
+  "restSec": 15
+}

@@ -1,0 +1,24 @@
+{
+  "id": "loving-kindness-15min",
+  "name": "Loving-Kindness (Metta) Meditation",
+  "level": "Intermediate",
+  "durationLabel": "15 min",
+  "equipment": "A quiet space and a comfortable seat",
+  "primaryMuscle": "Compassion & Connection",
+  "secondaryMuscles": [
+    "Emotional Wellbeing",
+    "Empathy"
+  ],
+  "instructions": [
+    "Settle into a comfortable seated position, close your eyes, and take several deep, grounding breaths.",
+    "Start with yourself, silently repeating: \"May I be happy. May I be healthy. May I be safe. May I live with ease.\"",
+    "Bring to mind a loved one, picturing them clearly, and offer them the same four phrases.",
+    "Extend the phrases next to a neutral acquaintance, noticing any resistance without judging it.",
+    "Now bring to mind someone you have difficulty with, and gently offer the phrases, even if it feels challenging.",
+    "Widen your circle to include your community, then all beings everywhere, repeating the phrases once more.",
+    "Sit for a moment in whatever feeling remains, then take a deep breath and slowly open your eyes."
+  ],
+  "sets": 1,
+  "reps": "15 min",
+  "restSec": 60
+}

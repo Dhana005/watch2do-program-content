@@ -1,0 +1,20 @@
+{
+  "id": "half-moon-pose",
+  "name": "Half Moon Pose (Ardha Chandrasana)",
+  "level": "Intermediate",
+  "durationLabel": "5-10 min",
+  "equipment": "A yoga mat",
+  "primaryMuscle": "Balance & Hamstrings",
+  "secondaryMuscles": [
+    "Core",
+    "Glutes"
+  ],
+  "instructions": [
+    "From triangle pose, shift your weight onto your front hand and lift your back leg parallel to the floor.",
+    "Stack your hips and shoulders, extending your top arm toward the ceiling.",
+    "Keep your standing leg strong and your gaze steady for balance."
+  ],
+  "sets": 1,
+  "reps": "20-30 sec",
+  "restSec": 15
+}

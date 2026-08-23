@@ -1,0 +1,19 @@
+{
+  "id": "boat-pose",
+  "name": "Boat Pose (Navasana)",
+  "level": "Intermediate",
+  "durationLabel": "5-10 min",
+  "equipment": "A yoga mat",
+  "primaryMuscle": "Core & Hip Flexors",
+  "secondaryMuscles": [
+    "Lower Back"
+  ],
+  "instructions": [
+    "Sit with knees bent, feet flat, and lean back slightly while keeping your spine straight.",
+    "Lift your feet off the floor, shins parallel to the ground, balancing on your sitting bones.",
+    "If comfortable, straighten your legs to a V-shape and extend your arms forward."
+  ],
+  "sets": 1,
+  "reps": "20-30 sec",
+  "restSec": 15
+}

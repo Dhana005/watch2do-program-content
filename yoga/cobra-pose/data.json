@@ -1,0 +1,19 @@
+{
+  "id": "cobra-pose",
+  "name": "Cobra Pose (Bhujangasana)",
+  "level": "Beginner",
+  "durationLabel": "5-10 min",
+  "equipment": "A yoga mat",
+  "primaryMuscle": "Spine & Chest",
+  "secondaryMuscles": [
+    "Shoulders"
+  ],
+  "instructions": [
+    "Lie face-down with your hands under your shoulders, elbows hugged in.",
+    "Press into your hands and lift your chest off the floor, keeping your elbows slightly bent.",
+    "Keep your shoulders relaxed away from your ears and your gaze forward or slightly up."
+  ],
+  "sets": 1,
+  "reps": "20-30 sec",
+  "restSec": 15
+}

@@ -1,0 +1,22 @@
+{
+  "id": "thought-observation-5min",
+  "name": "Mindful Thought Observation",
+  "level": "Beginner",
+  "durationLabel": "5 min",
+  "equipment": "A quiet space and a comfortable seat",
+  "primaryMuscle": "Present-Moment Awareness",
+  "secondaryMuscles": [
+    "Mental Clarity",
+    "Emotional Regulation"
+  ],
+  "instructions": [
+    "Sit comfortably with your eyes closed or gaze softened, and take a few settling breaths.",
+    "Imagine your thoughts as clouds passing across the sky of your mind.",
+    "As each thought arises, simply notice it without following it, and let it drift by.",
+    "If you get caught up in a thought, gently note \"thinking\" and return to watching.",
+    "After 5 minutes, take a deep breath and open your eyes."
+  ],
+  "sets": 1,
+  "reps": "5 min",
+  "restSec": 30
+}

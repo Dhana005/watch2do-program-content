@@ -1,0 +1,24 @@
+{
+  "id": "breath-awareness-15min",
+  "name": "Breath Awareness Meditation",
+  "level": "Intermediate",
+  "durationLabel": "15 min",
+  "equipment": "A quiet space and a comfortable seat",
+  "primaryMuscle": "Breath & Attention",
+  "secondaryMuscles": [
+    "Stress Relief",
+    "Focus"
+  ],
+  "instructions": [
+    "Settle into a comfortable seated posture, spine tall, hands resting gently in your lap.",
+    "Take three slow, deep breaths, then let your breathing settle into its natural rhythm.",
+    "Rest your attention on the physical sensation of breathing — the rise and fall of the chest or belly, or air passing the nostrils.",
+    "Start counting each exhale from one to ten, then begin again — if you lose count, simply start over without frustration.",
+    "When the mind wanders, notice where it went, then kindly escort your attention back to the breath.",
+    "In the final minutes, let go of counting and rest in open awareness of the breath alone.",
+    "Slowly deepen your breath, wiggle your fingers and toes, and open your eyes when ready."
+  ],
+  "sets": 1,
+  "reps": "15 min",
+  "restSec": 60
+}

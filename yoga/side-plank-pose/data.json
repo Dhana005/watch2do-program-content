@@ -1,0 +1,20 @@
+{
+  "id": "side-plank-pose",
+  "name": "Side Plank (Vasisthasana)",
+  "level": "Intermediate",
+  "durationLabel": "5-10 min",
+  "equipment": "A yoga mat",
+  "primaryMuscle": "Obliques & Core",
+  "secondaryMuscles": [
+    "Shoulders",
+    "Arms"
+  ],
+  "instructions": [
+    "From plank pose, shift your weight onto one hand and rotate your body open to that side.",
+    "Stack your feet or stagger them for more stability, and reach your top arm toward the ceiling.",
+    "Keep your hips lifted and your core engaged throughout."
+  ],
+  "sets": 1,
+  "reps": "15-20 sec",
+  "restSec": 15
+}

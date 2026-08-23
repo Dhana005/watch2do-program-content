@@ -1,0 +1,20 @@
+{
+  "id": "mountain-pose",
+  "name": "Mountain Pose (Tadasana)",
+  "level": "Beginner",
+  "durationLabel": "5-10 min",
+  "equipment": "A yoga mat",
+  "primaryMuscle": "Posture & Alignment",
+  "secondaryMuscles": [
+    "Legs",
+    "Core"
+  ],
+  "instructions": [
+    "Stand with your feet hip-width apart, weight evenly spread across both feet.",
+    "Engage your thighs, lengthen your spine, and roll your shoulders back and down.",
+    "Let your arms rest at your sides, palms facing forward, and breathe steadily."
+  ],
+  "sets": 1,
+  "reps": "5 breaths",
+  "restSec": 15
+}

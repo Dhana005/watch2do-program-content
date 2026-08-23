@@ -1,0 +1,22 @@
+{
+  "id": "gratitude-reflection-5min",
+  "name": "Gratitude & Reflection Meditation",
+  "level": "Beginner",
+  "durationLabel": "5 min",
+  "equipment": "A quiet space and a comfortable seat",
+  "primaryMuscle": "Gratitude & Perspective",
+  "secondaryMuscles": [
+    "Positive Mood",
+    "Perspective"
+  ],
+  "instructions": [
+    "Sit comfortably and take a few deep, settling breaths.",
+    "Bring to mind one thing you're grateful for today, picturing it clearly.",
+    "Notice how gratitude feels in your body — warmth, lightness, ease.",
+    "Silently thank yourself for taking this moment to reflect.",
+    "Take a final deep breath before opening your eyes."
+  ],
+  "sets": 1,
+  "reps": "5 min",
+  "restSec": 30
+}

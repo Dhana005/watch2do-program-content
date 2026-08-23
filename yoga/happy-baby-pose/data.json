@@ -1,0 +1,19 @@
+{
+  "id": "happy-baby-pose",
+  "name": "Happy Baby Pose (Ananda Balasana)",
+  "level": "Beginner",
+  "durationLabel": "5-10 min",
+  "equipment": "A yoga mat",
+  "primaryMuscle": "Hips & Inner Thighs",
+  "secondaryMuscles": [
+    "Lower Back"
+  ],
+  "instructions": [
+    "Lie on your back and draw your knees toward your chest.",
+    "Grab the outer edges of your feet, opening your knees toward your armpits.",
+    "Gently rock side to side to massage the lower back."
+  ],
+  "sets": 1,
+  "reps": "45-60 sec",
+  "restSec": 15
+}

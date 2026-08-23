@@ -1,0 +1,24 @@
+{
+  "id": "progressive-muscle-relaxation-15min",
+  "name": "Progressive Muscle Relaxation",
+  "level": "Intermediate",
+  "durationLabel": "15 min",
+  "equipment": "A quiet space to lie down (or sit comfortably)",
+  "primaryMuscle": "Physical Release & Calm",
+  "secondaryMuscles": [
+    "Sleep Support",
+    "Tension Relief"
+  ],
+  "instructions": [
+    "Lie down in a comfortable position and take several deep, settling breaths.",
+    "Beginning at your feet, tense the muscles firmly for 5-7 seconds, then release and breathe into the relaxation.",
+    "Work upward through your calves, thighs, and glutes, tensing and releasing each muscle group in turn.",
+    "Continue through your abdomen, chest, and lower back, noticing the contrast between tension and ease.",
+    "Move to your hands, forearms, and upper arms, then your shoulders, neck, and jaw, releasing fully each time.",
+    "Finish with your entire face, scrunching tightly before letting it go completely soft.",
+    "Take a moment to notice your whole body resting heavily, then take a final deep breath before slowly returning to alertness."
+  ],
+  "sets": 1,
+  "reps": "15 min",
+  "restSec": 60
+}

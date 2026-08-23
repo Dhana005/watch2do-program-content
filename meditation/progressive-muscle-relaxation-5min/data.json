@@ -1,0 +1,22 @@
+{
+  "id": "progressive-muscle-relaxation-5min",
+  "name": "Progressive Muscle Relaxation",
+  "level": "Beginner",
+  "durationLabel": "5 min",
+  "equipment": "A quiet space to lie down (or sit comfortably)",
+  "primaryMuscle": "Physical Release & Calm",
+  "secondaryMuscles": [
+    "Sleep Support",
+    "Tension Relief"
+  ],
+  "instructions": [
+    "Sit or lie down comfortably, and take a few deep breaths.",
+    "Clench your fists tightly for 5 seconds, then release, noticing the difference.",
+    "Do the same with your shoulders — raise them to your ears, hold, then let go.",
+    "Scrunch your face muscles tightly, then release completely.",
+    "Take a final deep breath, noticing the relaxation throughout your body."
+  ],
+  "sets": 1,
+  "reps": "5 min",
+  "restSec": 30
+}

@@ -1,0 +1,24 @@
+{
+  "id": "thought-observation-15min",
+  "name": "Mindful Thought Observation",
+  "level": "Intermediate",
+  "durationLabel": "15 min",
+  "equipment": "A quiet space and a comfortable seat",
+  "primaryMuscle": "Present-Moment Awareness",
+  "secondaryMuscles": [
+    "Mental Clarity",
+    "Emotional Regulation"
+  ],
+  "instructions": [
+    "Settle into a comfortable seated position, close your eyes, and take several grounding breaths.",
+    "Shift your attention to the mind itself, observing thoughts as they arise without trying to control them.",
+    "As each thought appears, gently label its category — \"planning,\" \"judging,\" \"remembering\" — and watch it dissolve.",
+    "Notice any patterns or recurring themes in your thoughts, observing them with curiosity rather than criticism.",
+    "Rest in the quiet gaps between thoughts, letting your awareness rest there a little longer each time.",
+    "If strong emotions arise with a thought, acknowledge them kindly before returning to observation.",
+    "In the final minute, let go of labeling and simply rest in open, spacious awareness before slowly opening your eyes."
+  ],
+  "sets": 1,
+  "reps": "15 min",
+  "restSec": 60
+}

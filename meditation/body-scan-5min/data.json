@@ -1,0 +1,22 @@
+{
+  "id": "body-scan-5min",
+  "name": "Body Scan Meditation",
+  "level": "Beginner",
+  "durationLabel": "5 min",
+  "equipment": "A quiet space to lie down (or sit comfortably)",
+  "primaryMuscle": "Body Awareness",
+  "secondaryMuscles": [
+    "Stress Relief",
+    "Sleep Support"
+  ],
+  "instructions": [
+    "Lie down or sit comfortably, and let your eyes close gently.",
+    "Take a few deep breaths to settle in.",
+    "Bring your attention to your feet, noticing any sensations without trying to change them.",
+    "Slowly move your attention upward — ankles, legs, hips, torso, arms, and head — pausing briefly at each area.",
+    "Finish by taking a deep breath and noticing your body as a whole before opening your eyes."
+  ],
+  "sets": 1,
+  "reps": "5 min",
+  "restSec": 30
+}

@@ -1,0 +1,20 @@
+{
+  "id": "bridge-pose",
+  "name": "Bridge Pose (Setu Bandhasana)",
+  "level": "Beginner",
+  "durationLabel": "5-10 min",
+  "equipment": "A yoga mat",
+  "primaryMuscle": "Glutes & Spine",
+  "secondaryMuscles": [
+    "Hamstrings",
+    "Chest"
+  ],
+  "instructions": [
+    "Lie on your back with knees bent, feet flat and hip-width apart, close to your glutes.",
+    "Press into your feet and lift your hips toward the ceiling.",
+    "Clasp your hands beneath you if comfortable, and keep your neck relaxed."
+  ],
+  "sets": 1,
+  "reps": "30-45 sec",
+  "restSec": 15
+}

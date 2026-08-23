@@ -1,0 +1,24 @@
+{
+  "id": "body-scan-15min",
+  "name": "Body Scan Meditation",
+  "level": "Intermediate",
+  "durationLabel": "15 min",
+  "equipment": "A quiet space to lie down (or sit comfortably)",
+  "primaryMuscle": "Body Awareness",
+  "secondaryMuscles": [
+    "Stress Relief",
+    "Sleep Support"
+  ],
+  "instructions": [
+    "Lie down in a comfortable position with your arms relaxed at your sides, and close your eyes.",
+    "Take several deep breaths, consciously relaxing your body with each exhale.",
+    "Begin at the top of your head, slowly bringing attention down through your face, jaw, and neck, noticing and softening any tension.",
+    "Continue down through your shoulders, arms, hands, chest, and back, spending extra time on any areas holding stress.",
+    "Move through your belly, hips, thighs, knees, calves, and feet, pausing to breathe into each area before moving on.",
+    "Once you reach your toes, take a moment to sense your entire body resting, breathing as one connected whole.",
+    "Gently wiggle your fingers and toes, take a deep breath, and slowly open your eyes."
+  ],
+  "sets": 1,
+  "reps": "15 min",
+  "restSec": 60
+}

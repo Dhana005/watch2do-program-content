@@ -1,0 +1,22 @@
+{
+  "id": "breath-awareness-5min",
+  "name": "Breath Awareness Meditation",
+  "level": "Beginner",
+  "durationLabel": "5 min",
+  "equipment": "A quiet space and a comfortable seat",
+  "primaryMuscle": "Breath & Attention",
+  "secondaryMuscles": [
+    "Stress Relief",
+    "Focus"
+  ],
+  "instructions": [
+    "Find a comfortable seated position with your spine tall and shoulders relaxed.",
+    "Close your eyes or soften your gaze, and take three slow, deep breaths.",
+    "Let your breathing return to its natural rhythm, and simply notice the sensation of air moving in and out.",
+    "Whenever your mind wanders, gently guide your attention back to the breath without judgment.",
+    "Continue for the full 5 minutes, then slowly open your eyes and notice how you feel."
+  ],
+  "sets": 1,
+  "reps": "5 min",
+  "restSec": 30
+}

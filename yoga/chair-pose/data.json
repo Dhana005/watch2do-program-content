@@ -1,0 +1,20 @@
+{
+  "id": "chair-pose",
+  "name": "Chair Pose (Utkatasana)",
+  "level": "Beginner",
+  "durationLabel": "5-10 min",
+  "equipment": "A yoga mat",
+  "primaryMuscle": "Quadriceps & Glutes",
+  "secondaryMuscles": [
+    "Core",
+    "Shoulders"
+  ],
+  "instructions": [
+    "Stand with feet together or hip-width apart, then bend your knees as if sitting into a chair.",
+    "Raise your arms overhead, keeping your weight in your heels.",
+    "Keep your chest lifted and your spine long as you sink lower."
+  ],
+  "sets": 1,
+  "reps": "30-45 sec",
+  "restSec": 15
+}

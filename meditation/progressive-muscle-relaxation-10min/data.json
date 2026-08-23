@@ -1,0 +1,23 @@
+{
+  "id": "progressive-muscle-relaxation-10min",
+  "name": "Progressive Muscle Relaxation",
+  "level": "Beginner",
+  "durationLabel": "10 min",
+  "equipment": "A quiet space to lie down (or sit comfortably)",
+  "primaryMuscle": "Physical Release & Calm",
+  "secondaryMuscles": [
+    "Sleep Support",
+    "Tension Relief"
+  ],
+  "instructions": [
+    "Lie down or sit comfortably, and take several slow breaths to settle in.",
+    "Starting with your feet, tense the muscles tightly for 5 seconds, then release and notice the relaxation.",
+    "Move up to your calves and thighs, tensing and releasing each in turn.",
+    "Continue with your abdomen, hands, and arms, holding tension briefly before letting go.",
+    "Tense your shoulders and neck, then your face, before releasing everything at once.",
+    "Finish with a few deep breaths, noticing your whole body feeling looser than when you began."
+  ],
+  "sets": 1,
+  "reps": "10 min",
+  "restSec": 45
+}

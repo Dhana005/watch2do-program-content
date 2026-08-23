@@ -1,0 +1,20 @@
+{
+  "id": "revolved-triangle-pose",
+  "name": "Revolved Triangle (Parivrtta Trikonasana)",
+  "level": "Intermediate",
+  "durationLabel": "5-10 min",
+  "equipment": "A yoga mat",
+  "primaryMuscle": "Spine & Hamstrings",
+  "secondaryMuscles": [
+    "Obliques",
+    "Hips"
+  ],
+  "instructions": [
+    "From a staggered stance, square your hips toward your front foot.",
+    "Hinge forward and place your opposite hand on a block or the floor beside your front foot.",
+    "Rotate your torso open and reach your top arm toward the ceiling."
+  ],
+  "sets": 1,
+  "reps": "20-30 sec",
+  "restSec": 15
+}

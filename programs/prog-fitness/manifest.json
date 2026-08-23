@@ -1,0 +1,294 @@
+{
+  "programId": "prog-fitness",
+  "title": "6-Week Strength Builder",
+  "days": {
+    "1": [
+      "bodyweight-squat",
+      "bodyweight-walking-lunge",
+      "sit-squats",
+      "rear-leg-raises",
+      "one-half-locust",
+      "carioca-quick-step"
+    ],
+    "2": [
+      "clock-push-up",
+      "decline-push-up",
+      "incline-push-up",
+      "incline-push-up-medium",
+      "incline-push-up-reverse-grip",
+      "incline-push-up-wide"
+    ],
+    "3": [
+      "3-4-sit-up",
+      "bent-knee-hip-raise",
+      "butt-ups",
+      "cross-body-crunch",
+      "crunches",
+      "decline-crunch"
+    ],
+    "4": [
+      "90-90-hamstring",
+      "floor-glute-ham-raise",
+      "front-leg-raises",
+      "inchworm",
+      "knee-tuck-jump",
+      "natural-glute-ham-raise"
+    ],
+    "5": [
+      "alternate-leg-diagonal-bound",
+      "bench-jump",
+      "double-leg-butt-kick",
+      "fast-skipping",
+      "freehand-jump-squat",
+      "frog-hops"
+    ],
+    "6": [
+      "air-bike",
+      "bottoms-up",
+      "cocoons",
+      "crunch-hands-overhead",
+      "dead-bug",
+      "decline-oblique-crunch"
+    ],
+    "8": [
+      "groiners",
+      "lateral-bound",
+      "side-leg-raises",
+      "hip-circles-prone",
+      "standing-hip-circles",
+      "windmills"
+    ],
+    "9": [
+      "isometric-chest-squeezes",
+      "isometric-wipers",
+      "plyo-push-up",
+      "push-up-to-side-plank",
+      "push-up-wide",
+      "push-ups-with-feet-elevated"
+    ],
+    "10": [
+      "decline-reverse-crunch",
+      "flat-bench-leg-pull-in",
+      "frog-sit-ups",
+      "janda-sit-up",
+      "lower-back-curl",
+      "oblique-crunches"
+    ],
+    "11": [
+      "split-squats",
+      "standing-toe-touches",
+      "butt-lift-bridge",
+      "glute-kickback",
+      "leg-lift",
+      "single-leg-glute-bridge"
+    ],
+    "12": [
+      "mountain-climbers",
+      "rocket-jump",
+      "scissors-jump",
+      "side-standing-long-jump",
+      "single-leg-butt-kick",
+      "split-jump"
+    ],
+    "13": [
+      "elbow-to-knee",
+      "flutter-kicks",
+      "jackknife-sit-up",
+      "leg-pull-in",
+      "oblique-crunch-standing",
+      "plank"
+    ],
+    "15": [
+      "bodyweight-squat",
+      "bodyweight-walking-lunge",
+      "sit-squats",
+      "rear-leg-raises",
+      "one-half-locust",
+      "carioca-quick-step"
+    ],
+    "16": [
+      "pushups",
+      "pushups-close-and-wide-hand-positions",
+      "single-arm-push-up",
+      "bench-dips",
+      "body-tricep-press",
+      "body-up"
+    ],
+    "17": [
+      "reverse-crunch",
+      "scissor-kick",
+      "sit-up",
+      "stomach-vacuum",
+      "tuck-crunch",
+      "3-4-sit-up"
+    ],
+    "18": [
+      "step-up-knee-raise",
+      "superman",
+      "crossover-reverse-lunge",
+      "hyperextensions-no-bench",
+      "pelvic-tilt-into-bridge",
+      "90-90-hamstring"
+    ],
+    "19": [
+      "standing-long-jump",
+      "star-jump",
+      "alternate-leg-diagonal-bound",
+      "bench-jump",
+      "double-leg-butt-kick",
+      "fast-skipping"
+    ],
+    "20": [
+      "russian-twist",
+      "seated-leg-tucks",
+      "spider-crawl",
+      "toe-touchers",
+      "wind-sprints",
+      "arm-circles"
+    ],
+    "22": [
+      "groiners",
+      "lateral-bound",
+      "side-leg-raises",
+      "hip-circles-prone",
+      "standing-hip-circles",
+      "windmills"
+    ],
+    "23": [
+      "dips-triceps-version",
+      "incline-push-up-close-grip",
+      "push-ups-close-triceps-position",
+      "standing-towel-triceps-extension",
+      "clock-push-up",
+      "decline-push-up"
+    ],
+    "24": [
+      "bent-knee-hip-raise",
+      "butt-ups",
+      "cross-body-crunch",
+      "crunches",
+      "decline-crunch",
+      "decline-reverse-crunch"
+    ],
+    "25": [
+      "floor-glute-ham-raise",
+      "front-leg-raises",
+      "inchworm",
+      "knee-tuck-jump",
+      "natural-glute-ham-raise",
+      "split-squats"
+    ],
+    "26": [
+      "freehand-jump-squat",
+      "frog-hops",
+      "mountain-climbers",
+      "rocket-jump",
+      "scissors-jump",
+      "side-standing-long-jump"
+    ],
+    "27": [
+      "elbow-circles",
+      "shoulder-circles",
+      "knee-circles",
+      "air-bike",
+      "bottoms-up",
+      "cocoons"
+    ],
+    "29": [
+      "bodyweight-squat",
+      "bodyweight-walking-lunge",
+      "sit-squats",
+      "rear-leg-raises",
+      "one-half-locust",
+      "carioca-quick-step"
+    ],
+    "30": [
+      "incline-push-up",
+      "incline-push-up-medium",
+      "incline-push-up-reverse-grip",
+      "incline-push-up-wide",
+      "isometric-chest-squeezes",
+      "isometric-wipers"
+    ],
+    "31": [
+      "flat-bench-leg-pull-in",
+      "frog-sit-ups",
+      "janda-sit-up",
+      "lower-back-curl",
+      "oblique-crunches",
+      "reverse-crunch"
+    ],
+    "32": [
+      "standing-toe-touches",
+      "butt-lift-bridge",
+      "glute-kickback",
+      "leg-lift",
+      "single-leg-glute-bridge",
+      "step-up-knee-raise"
+    ],
+    "33": [
+      "single-leg-butt-kick",
+      "split-jump",
+      "standing-long-jump",
+      "star-jump",
+      "alternate-leg-diagonal-bound",
+      "bench-jump"
+    ],
+    "34": [
+      "crunch-hands-overhead",
+      "dead-bug",
+      "decline-oblique-crunch",
+      "elbow-to-knee",
+      "flutter-kicks",
+      "jackknife-sit-up"
+    ],
+    "36": [
+      "groiners",
+      "lateral-bound",
+      "side-leg-raises",
+      "hip-circles-prone",
+      "standing-hip-circles",
+      "windmills"
+    ],
+    "37": [
+      "plyo-push-up",
+      "push-up-to-side-plank",
+      "push-up-wide",
+      "push-ups-with-feet-elevated",
+      "pushups",
+      "pushups-close-and-wide-hand-positions"
+    ],
+    "38": [
+      "scissor-kick",
+      "sit-up",
+      "stomach-vacuum",
+      "tuck-crunch",
+      "3-4-sit-up",
+      "bent-knee-hip-raise"
+    ],
+    "39": [
+      "superman",
+      "crossover-reverse-lunge",
+      "hyperextensions-no-bench",
+      "pelvic-tilt-into-bridge",
+      "90-90-hamstring",
+      "floor-glute-ham-raise"
+    ],
+    "40": [
+      "double-leg-butt-kick",
+      "fast-skipping",
+      "freehand-jump-squat",
+      "frog-hops",
+      "mountain-climbers",
+      "rocket-jump"
+    ],
+    "41": [
+      "leg-pull-in",
+      "oblique-crunch-standing",
+      "plank",
+      "russian-twist",
+      "seated-leg-tucks",
+      "spider-crawl"
+    ]
+  }
+}

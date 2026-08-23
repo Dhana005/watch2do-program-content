@@ -1,0 +1,20 @@
+{
+  "id": "eagle-pose",
+  "name": "Eagle Pose (Garudasana)",
+  "level": "Intermediate",
+  "durationLabel": "5-10 min",
+  "equipment": "A yoga mat",
+  "primaryMuscle": "Balance & Shoulders",
+  "secondaryMuscles": [
+    "Hips",
+    "Thighs"
+  ],
+  "instructions": [
+    "Cross one thigh over the other, hooking your foot behind your standing calf if possible.",
+    "Cross your arms in front of you, wrapping your forearms and pressing your palms together.",
+    "Sink your hips back slightly, keeping your balance steady and your gaze fixed ahead."
+  ],
+  "sets": 1,
+  "reps": "20-30 sec",
+  "restSec": 15
+}

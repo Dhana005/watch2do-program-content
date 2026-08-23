@@ -1,0 +1,19 @@
+{
+  "id": "frog-pose",
+  "name": "Frog Pose (Bhekasana)",
+  "level": "Intermediate",
+  "durationLabel": "5-10 min",
+  "equipment": "A yoga mat",
+  "primaryMuscle": "Inner Thighs & Groin",
+  "secondaryMuscles": [
+    "Hips"
+  ],
+  "instructions": [
+    "From hands and knees, widen your knees out to the sides as far as comfortable.",
+    "Flex your feet so your ankles line up under your knees, and lower onto your forearms.",
+    "Breathe steadily, easing your hips back only as far as feels sustainable."
+  ],
+  "sets": 1,
+  "reps": "30-45 sec",
+  "restSec": 15
+}

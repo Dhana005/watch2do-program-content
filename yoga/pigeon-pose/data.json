@@ -1,0 +1,19 @@
+{
+  "id": "pigeon-pose",
+  "name": "Pigeon Pose (Eka Pada Rajakapotasana)",
+  "level": "Intermediate",
+  "durationLabel": "5-10 min",
+  "equipment": "A yoga mat",
+  "primaryMuscle": "Hips & Glutes",
+  "secondaryMuscles": [
+    "Lower Back"
+  ],
+  "instructions": [
+    "From hands and knees, bring one knee forward behind your wrist, shin angled across the mat.",
+    "Slide your back leg straight behind you, hips squared toward the front.",
+    "Fold forward over your front leg, breathing into any tightness in the hip."
+  ],
+  "sets": 1,
+  "reps": "45-60 sec",
+  "restSec": 15
+}

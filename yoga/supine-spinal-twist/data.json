@@ -1,0 +1,20 @@
+{
+  "id": "supine-spinal-twist",
+  "name": "Supine Twist (Supta Matsyendrasana)",
+  "level": "Beginner",
+  "durationLabel": "5-10 min",
+  "equipment": "A yoga mat",
+  "primaryMuscle": "Spine & Lower Back",
+  "secondaryMuscles": [
+    "Glutes",
+    "Obliques"
+  ],
+  "instructions": [
+    "Lie on your back and draw one knee toward your chest.",
+    "Guide that knee across your body toward the floor on the opposite side.",
+    "Extend your arms out to the sides and turn your gaze away from the dropped knee."
+  ],
+  "sets": 1,
+  "reps": "45-60 sec",
+  "restSec": 15
+}

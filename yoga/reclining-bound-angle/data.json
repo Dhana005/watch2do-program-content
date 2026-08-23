@@ -1,0 +1,19 @@
+{
+  "id": "reclining-bound-angle",
+  "name": "Reclining Bound Angle Pose (Supta Baddha Konasana)",
+  "level": "Beginner",
+  "durationLabel": "5-10 min",
+  "equipment": "A yoga mat and a folded blanket",
+  "primaryMuscle": "Hips & Groin",
+  "secondaryMuscles": [
+    "Chest"
+  ],
+  "instructions": [
+    "Lie on your back and bring the soles of your feet together, letting your knees fall open.",
+    "Rest your arms out to the sides, palms facing up.",
+    "Let gravity gently deepen the stretch as you breathe slowly."
+  ],
+  "sets": 1,
+  "reps": "60-90 sec",
+  "restSec": 15
+}

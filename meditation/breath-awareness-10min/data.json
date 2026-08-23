@@ -1,0 +1,23 @@
+{
+  "id": "breath-awareness-10min",
+  "name": "Breath Awareness Meditation",
+  "level": "Beginner",
+  "durationLabel": "10 min",
+  "equipment": "A quiet space and a comfortable seat",
+  "primaryMuscle": "Breath & Attention",
+  "secondaryMuscles": [
+    "Stress Relief",
+    "Focus"
+  ],
+  "instructions": [
+    "Settle into a comfortable seated position, lengthening your spine and relaxing your shoulders.",
+    "Take three slow, deep breaths to signal your body it's time to settle in.",
+    "Let your breath return to its natural pace, and rest your attention on one spot where you feel it most — the nostrils, chest, or belly.",
+    "Silently note \"in\" and \"out\" with each breath to help anchor your focus.",
+    "When thoughts arise, acknowledge them without judgment and gently return to the breath.",
+    "Continue for the full 10 minutes, gradually widening your awareness to the room before opening your eyes."
+  ],
+  "sets": 1,
+  "reps": "10 min",
+  "restSec": 45
+}

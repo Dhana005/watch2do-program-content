@@ -1,0 +1,23 @@
+{
+  "id": "gratitude-reflection-10min",
+  "name": "Gratitude & Reflection Meditation",
+  "level": "Beginner",
+  "durationLabel": "10 min",
+  "equipment": "A quiet space and a comfortable seat",
+  "primaryMuscle": "Gratitude & Perspective",
+  "secondaryMuscles": [
+    "Positive Mood",
+    "Perspective"
+  ],
+  "instructions": [
+    "Sit comfortably, close your eyes, and take several slow breaths to arrive in the present.",
+    "Bring to mind three things you're grateful for today, taking a moment to fully picture each one.",
+    "For each one, notice how gratitude feels in your body, and let that feeling grow a little each time.",
+    "Reflect briefly on one challenge you faced recently, and see if you can find anything to appreciate within it.",
+    "Silently offer yourself thanks for showing up for this practice today.",
+    "Take a few deep breaths, letting the feeling of gratitude settle in, before opening your eyes."
+  ],
+  "sets": 1,
+  "reps": "10 min",
+  "restSec": 45
+}

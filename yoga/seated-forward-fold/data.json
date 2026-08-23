@@ -1,0 +1,19 @@
+{
+  "id": "seated-forward-fold",
+  "name": "Seated Forward Fold (Paschimottanasana)",
+  "level": "Beginner",
+  "durationLabel": "5-10 min",
+  "equipment": "A yoga mat",
+  "primaryMuscle": "Hamstrings & Lower Back",
+  "secondaryMuscles": [
+    "Spine"
+  ],
+  "instructions": [
+    "Sit with your legs extended straight in front of you, spine tall.",
+    "Inhale to lengthen, then exhale as you hinge forward from the hips, reaching toward your feet.",
+    "Keep a slight bend in the knees if needed, and relax your neck and shoulders."
+  ],
+  "sets": 1,
+  "reps": "45-60 sec",
+  "restSec": 15
+}

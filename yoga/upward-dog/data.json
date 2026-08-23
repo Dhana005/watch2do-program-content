@@ -1,0 +1,20 @@
+{
+  "id": "upward-dog",
+  "name": "Upward-Facing Dog (Urdhva Mukha Svanasana)",
+  "level": "Intermediate",
+  "durationLabel": "5-10 min",
+  "equipment": "A yoga mat",
+  "primaryMuscle": "Spine & Chest",
+  "secondaryMuscles": [
+    "Arms",
+    "Shoulders"
+  ],
+  "instructions": [
+    "Lie face-down with hands beside your ribs, then press up, straightening your arms.",
+    "Lift your thighs off the mat, keeping only your hands and the tops of your feet grounded.",
+    "Draw your shoulders back and open your chest forward and up."
+  ],
+  "sets": 1,
+  "reps": "15-20 sec",
+  "restSec": 15
+}

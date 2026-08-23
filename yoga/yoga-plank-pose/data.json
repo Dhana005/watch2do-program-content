@@ -1,0 +1,20 @@
+{
+  "id": "yoga-plank-pose",
+  "name": "Plank Pose (Phalakasana)",
+  "level": "Beginner",
+  "durationLabel": "5-10 min",
+  "equipment": "A yoga mat",
+  "primaryMuscle": "Core",
+  "secondaryMuscles": [
+    "Shoulders",
+    "Arms"
+  ],
+  "instructions": [
+    "From hands and knees, step your feet back so your body forms a straight line from head to heels.",
+    "Stack your shoulders over your wrists and engage your core to keep your hips level.",
+    "Keep your neck neutral, gazing slightly ahead of your hands."
+  ],
+  "sets": 1,
+  "reps": "20-30 sec",
+  "restSec": 15
+}

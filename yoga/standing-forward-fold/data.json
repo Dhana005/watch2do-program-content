@@ -1,0 +1,19 @@
+{
+  "id": "standing-forward-fold",
+  "name": "Standing Forward Fold (Uttanasana)",
+  "level": "Beginner",
+  "durationLabel": "5-10 min",
+  "equipment": "A yoga mat",
+  "primaryMuscle": "Hamstrings & Lower Back",
+  "secondaryMuscles": [
+    "Calves"
+  ],
+  "instructions": [
+    "Stand with feet hip-width apart, then hinge forward from the hips.",
+    "Let your head and neck relax, holding opposite elbows or letting your hands rest on the floor.",
+    "Keep a soft bend in the knees to protect your lower back."
+  ],
+  "sets": 1,
+  "reps": "30-45 sec",
+  "restSec": 15
+}

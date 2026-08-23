@@ -1,0 +1,23 @@
+{
+  "id": "thought-observation-10min",
+  "name": "Mindful Thought Observation",
+  "level": "Beginner",
+  "durationLabel": "10 min",
+  "equipment": "A quiet space and a comfortable seat",
+  "primaryMuscle": "Present-Moment Awareness",
+  "secondaryMuscles": [
+    "Mental Clarity",
+    "Emotional Regulation"
+  ],
+  "instructions": [
+    "Sit comfortably, close your eyes, and take several deep breaths to arrive in the present moment.",
+    "Bring your attention to your mind itself, watching for thoughts as they arise like clouds passing through the sky.",
+    "When a thought appears, silently label it — \"planning,\" \"remembering,\" \"worrying\" — then let it pass without engaging further.",
+    "Notice the space between thoughts, however brief, and rest there when you can.",
+    "If you find yourself carried away by a thought, gently note it and return to observing.",
+    "Finish by taking a few deep breaths and slowly opening your eyes."
+  ],
+  "sets": 1,
+  "reps": "10 min",
+  "restSec": 45
+}

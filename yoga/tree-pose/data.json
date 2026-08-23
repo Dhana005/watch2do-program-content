@@ -1,0 +1,20 @@
+{
+  "id": "tree-pose",
+  "name": "Tree Pose (Vrksasana)",
+  "level": "Beginner",
+  "durationLabel": "5-10 min",
+  "equipment": "A yoga mat",
+  "primaryMuscle": "Balance & Ankles",
+  "secondaryMuscles": [
+    "Core",
+    "Hips"
+  ],
+  "instructions": [
+    "Stand tall and shift your weight onto one foot.",
+    "Place the sole of your other foot on your inner calf or thigh, avoiding the knee joint.",
+    "Bring your palms together at your chest, or raise your arms overhead, and fix your gaze on a steady point."
+  ],
+  "sets": 1,
+  "reps": "30-45 sec",
+  "restSec": 15
+}

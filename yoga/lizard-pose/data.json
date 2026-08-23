@@ -1,0 +1,20 @@
+{
+  "id": "lizard-pose",
+  "name": "Lizard Pose (Utthan Pristhasana)",
+  "level": "Intermediate",
+  "durationLabel": "5-10 min",
+  "equipment": "A yoga mat",
+  "primaryMuscle": "Hips & Hip Flexors",
+  "secondaryMuscles": [
+    "Hamstrings",
+    "Groin"
+  ],
+  "instructions": [
+    "From a low lunge, walk your front foot to the outside of your hand.",
+    "Lower onto your forearms if comfortable, keeping your back leg extended and strong.",
+    "Sink your hips gently toward the floor to deepen the stretch."
+  ],
+  "sets": 1,
+  "reps": "30-45 sec",
+  "restSec": 15
+}

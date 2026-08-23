@@ -1,0 +1,20 @@
+{
+  "id": "cat-cow-pose",
+  "name": "Cat-Cow Pose (Marjaryasana-Bitilasana)",
+  "level": "Beginner",
+  "durationLabel": "5-10 min",
+  "equipment": "A yoga mat",
+  "primaryMuscle": "Spine",
+  "secondaryMuscles": [
+    "Core",
+    "Neck"
+  ],
+  "instructions": [
+    "From hands and knees, inhale as you drop your belly and lift your chest and tailbone (Cow).",
+    "Exhale as you round your spine, tucking your chin and tailbone (Cat).",
+    "Continue flowing between the two shapes with your breath at a comfortable pace."
+  ],
+  "sets": 2,
+  "reps": "8-10 rounds",
+  "restSec": 15
+}

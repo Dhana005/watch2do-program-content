@@ -1,0 +1,20 @@
+{
+  "id": "warrior-one",
+  "name": "Warrior I (Virabhadrasana I)",
+  "level": "Beginner",
+  "durationLabel": "5-10 min",
+  "equipment": "A yoga mat",
+  "primaryMuscle": "Legs & Hips",
+  "secondaryMuscles": [
+    "Shoulders",
+    "Core"
+  ],
+  "instructions": [
+    "Step one foot back, turning it slightly inward, and bend your front knee to 90 degrees.",
+    "Square your hips toward the front of the mat and raise both arms overhead.",
+    "Sink deeper into the front leg while keeping your back leg strong and straight."
+  ],
+  "sets": 1,
+  "reps": "30-45 sec",
+  "restSec": 15
+}

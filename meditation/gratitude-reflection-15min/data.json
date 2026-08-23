@@ -1,0 +1,24 @@
+{
+  "id": "gratitude-reflection-15min",
+  "name": "Gratitude & Reflection Meditation",
+  "level": "Intermediate",
+  "durationLabel": "15 min",
+  "equipment": "A quiet space and a comfortable seat",
+  "primaryMuscle": "Gratitude & Perspective",
+  "secondaryMuscles": [
+    "Positive Mood",
+    "Perspective"
+  ],
+  "instructions": [
+    "Settle into a comfortable seated position, close your eyes, and take several deep, grounding breaths.",
+    "Bring to mind three to five things you're grateful for, taking time to picture each in detail and notice the feeling it brings.",
+    "Reflect on a person who has positively influenced your life, and silently offer them thanks, even if only in your mind.",
+    "Consider a recent difficulty, and gently explore whether any growth or lesson can be appreciated within it.",
+    "Notice how your body feels as gratitude accumulates — warmth, openness, ease — and rest in that feeling for a moment.",
+    "Set an intention to carry this sense of appreciation with you through the rest of your day.",
+    "Take a final deep breath, and slowly open your eyes when ready."
+  ],
+  "sets": 1,
+  "reps": "15 min",
+  "restSec": 60
+}

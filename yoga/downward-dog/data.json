@@ -1,0 +1,20 @@
+{
+  "id": "downward-dog",
+  "name": "Downward-Facing Dog (Adho Mukha Svanasana)",
+  "level": "Beginner",
+  "durationLabel": "5-10 min",
+  "equipment": "A yoga mat",
+  "primaryMuscle": "Shoulders & Hamstrings",
+  "secondaryMuscles": [
+    "Calves",
+    "Back"
+  ],
+  "instructions": [
+    "From hands and knees, tuck your toes and lift your hips up and back.",
+    "Press your hands firmly into the mat and reach your heels toward the floor.",
+    "Keep a slight bend in the knees if your hamstrings feel tight, and let your head relax between your arms."
+  ],
+  "sets": 1,
+  "reps": "5 breaths",
+  "restSec": 15
+}

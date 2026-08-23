@@ -1,0 +1,19 @@
+{
+  "id": "locust-pose",
+  "name": "Locust Pose (Salabhasana)",
+  "level": "Beginner",
+  "durationLabel": "5-10 min",
+  "equipment": "A yoga mat",
+  "primaryMuscle": "Lower Back & Glutes",
+  "secondaryMuscles": [
+    "Shoulders"
+  ],
+  "instructions": [
+    "Lie face-down with your arms alongside your body, palms facing down.",
+    "On an inhale, lift your chest, arms, and legs off the floor simultaneously.",
+    "Keep your gaze slightly forward and your neck in line with your spine."
+  ],
+  "sets": 1,
+  "reps": "15-20 sec",
+  "restSec": 15
+}

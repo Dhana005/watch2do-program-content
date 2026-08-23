@@ -1,0 +1,20 @@
+{
+  "id": "warrior-two",
+  "name": "Warrior II (Virabhadrasana II)",
+  "level": "Beginner",
+  "durationLabel": "5-10 min",
+  "equipment": "A yoga mat",
+  "primaryMuscle": "Legs & Hips",
+  "secondaryMuscles": [
+    "Shoulders",
+    "Core"
+  ],
+  "instructions": [
+    "From a wide stance, turn your front foot forward and back foot parallel to the mat's edge.",
+    "Bend your front knee over your ankle and extend your arms parallel to the floor.",
+    "Gaze over your front fingertips, keeping your torso centered between your legs."
+  ],
+  "sets": 1,
+  "reps": "30-45 sec",
+  "restSec": 15
+}

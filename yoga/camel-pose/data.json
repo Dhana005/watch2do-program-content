@@ -1,0 +1,20 @@
+{
+  "id": "camel-pose",
+  "name": "Camel Pose (Ustrasana)",
+  "level": "Intermediate",
+  "durationLabel": "5-10 min",
+  "equipment": "A yoga mat",
+  "primaryMuscle": "Spine & Chest",
+  "secondaryMuscles": [
+    "Hip Flexors",
+    "Shoulders"
+  ],
+  "instructions": [
+    "Kneel with your hips stacked over your knees, shins pressing into the floor.",
+    "Place your hands on your lower back for support, then lift and open your chest as you lean back.",
+    "If comfortable, reach one or both hands back to your heels, keeping your neck long."
+  ],
+  "sets": 1,
+  "reps": "15-20 sec",
+  "restSec": 15
+}

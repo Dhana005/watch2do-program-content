@@ -1,0 +1,20 @@
+{
+  "id": "childs-pose",
+  "name": "Child's Pose (Balasana)",
+  "level": "Beginner",
+  "durationLabel": "5-10 min",
+  "equipment": "A yoga mat and a folded blanket",
+  "primaryMuscle": "Lower Back & Hips",
+  "secondaryMuscles": [
+    "Shoulders",
+    "Ankles"
+  ],
+  "instructions": [
+    "Kneel with your big toes touching and knees spread wide.",
+    "Sit back onto your heels and fold your torso forward between your thighs.",
+    "Extend your arms forward or rest them alongside your body, and breathe deeply."
+  ],
+  "sets": 1,
+  "reps": "45-60 sec",
+  "restSec": 15
+}

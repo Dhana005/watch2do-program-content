@@ -1,0 +1,20 @@
+{
+  "id": "butterfly-pose",
+  "name": "Butterfly Pose (Baddha Konasana)",
+  "level": "Beginner",
+  "durationLabel": "5-10 min",
+  "equipment": "A yoga mat",
+  "primaryMuscle": "Hips & Inner Thighs",
+  "secondaryMuscles": [
+    "Groin",
+    "Lower Back"
+  ],
+  "instructions": [
+    "Sit with the soles of your feet pressed together, knees falling open to the sides.",
+    "Hold your feet or ankles and lengthen your spine on an inhale.",
+    "On an exhale, gently fold forward from the hips, letting your knees relax toward the floor."
+  ],
+  "sets": 1,
+  "reps": "45-60 sec",
+  "restSec": 15
+}

@@ -1,0 +1,19 @@
+{
+  "id": "corpse-pose",
+  "name": "Corpse Pose (Savasana)",
+  "level": "Beginner",
+  "durationLabel": "5-10 min",
+  "equipment": "A yoga mat and a folded blanket",
+  "primaryMuscle": "Full Body Relaxation",
+  "secondaryMuscles": [
+    "Mind & Breath"
+  ],
+  "instructions": [
+    "Lie flat on your back with your legs relaxed and slightly apart, arms resting at your sides.",
+    "Close your eyes and consciously release tension from your feet up to your head.",
+    "Let your breath return to its natural rhythm, resting here without any effort to move."
+  ],
+  "sets": 1,
+  "reps": "2-3 min",
+  "restSec": 15
+}

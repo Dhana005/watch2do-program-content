@@ -1,0 +1,19 @@
+{
+  "id": "easy-seated-pose",
+  "name": "Easy Seated Breathing (Sukhasana)",
+  "level": "Beginner",
+  "durationLabel": "5-10 min",
+  "equipment": "A yoga mat",
+  "primaryMuscle": "Hips & Posture",
+  "secondaryMuscles": [
+    "Mind & Breath"
+  ],
+  "instructions": [
+    "Sit cross-legged with your spine tall and hands resting on your knees.",
+    "Close your eyes and take slow, even breaths, letting your shoulders soften with each exhale.",
+    "Stay here simply noticing your breath before slowly opening your eyes."
+  ],
+  "sets": 1,
+  "reps": "60-90 sec",
+  "restSec": 15
+}

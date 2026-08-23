@@ -1,0 +1,60 @@
+{
+  "programId": "prog-meditation",
+  "title": "21-Day Mindfulness Challenge",
+  "days": {
+    "1": [
+      "breath-awareness-5min"
+    ],
+    "2": [
+      "body-scan-5min"
+    ],
+    "3": [
+      "loving-kindness-5min"
+    ],
+    "4": [
+      "thought-observation-5min"
+    ],
+    "5": [
+      "progressive-muscle-relaxation-5min"
+    ],
+    "6": [
+      "gratitude-reflection-5min"
+    ],
+    "8": [
+      "breath-awareness-10min"
+    ],
+    "9": [
+      "body-scan-10min"
+    ],
+    "10": [
+      "loving-kindness-10min"
+    ],
+    "11": [
+      "thought-observation-10min"
+    ],
+    "12": [
+      "progressive-muscle-relaxation-10min"
+    ],
+    "13": [
+      "gratitude-reflection-10min"
+    ],
+    "15": [
+      "breath-awareness-15min"
+    ],
+    "16": [
+      "body-scan-15min"
+    ],
+    "17": [
+      "loving-kindness-15min"
+    ],
+    "18": [
+      "thought-observation-15min"
+    ],
+    "19": [
+      "progressive-muscle-relaxation-15min"
+    ],
+    "20": [
+      "gratitude-reflection-15min"
+    ]
+  }
+}

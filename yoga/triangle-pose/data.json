@@ -1,0 +1,20 @@
+{
+  "id": "triangle-pose",
+  "name": "Triangle Pose (Trikonasana)",
+  "level": "Intermediate",
+  "durationLabel": "5-10 min",
+  "equipment": "A yoga mat",
+  "primaryMuscle": "Hamstrings & Hips",
+  "secondaryMuscles": [
+    "Obliques",
+    "Chest"
+  ],
+  "instructions": [
+    "From a wide stance, extend your torso over your front leg, hinging at the hip.",
+    "Rest your front hand on your shin, ankle, or a block, and reach your top arm toward the ceiling.",
+    "Keep both legs straight and strong, and open your chest toward the side wall."
+  ],
+  "sets": 1,
+  "reps": "30-45 sec",
+  "restSec": 15
+}
