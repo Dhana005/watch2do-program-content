@@ -1,0 +1,22 @@
+{
+  "id": "shoulder-circles",
+  "name": "Shoulder Circles",
+  "level": "Beginner",
+  "durationLabel": "20-30 sec",
+  "equipment": "None",
+  "primaryMuscle": "Shoulders",
+  "secondaryMuscles": [
+    "Traps"
+  ],
+  "instructions": [
+    "With shoulders relaxed and arms resting loosely at your sides (or in your lap if you're seated), gently roll your shoulders forward, up, back, and down.",
+    "Reverse direction. You can do this exercise alternating shoulders or both at the same time."
+  ],
+  "sets": 1,
+  "reps": "30 sec",
+  "restSec": 15,
+  "images": [
+    "0.jpg",
+    "1.jpg"
+  ]
+}

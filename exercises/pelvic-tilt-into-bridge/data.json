@@ -1,0 +1,21 @@
+{
+  "id": "pelvic-tilt-into-bridge",
+  "name": "Pelvic Tilt Into Bridge",
+  "level": "Intermediate",
+  "durationLabel": "5-10 min",
+  "equipment": "None",
+  "primaryMuscle": "Lower back",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Lie down with your feet on the floor, heels directly under your knees.",
+    "Lift only your tailbone to the ceiling to stretch your lower back. (Don't lift the entire spine yet.) Pull in your stomach.",
+    "To go into a bridge, lift the entire spine except the neck."
+  ],
+  "sets": 1,
+  "reps": "12",
+  "restSec": 20,
+  "images": [
+    "0.jpg",
+    "1.jpg"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "groiners",
+  "name": "Groiners",
+  "level": "Intermediate",
+  "durationLabel": "5-10 min",
+  "equipment": "None",
+  "primaryMuscle": "Adductors",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Begin in a pushup position on the floor. This will be your starting position.",
+    "Using both legs, jump forward landing with your feet next to your hands. Keep your head up as you do so.",
+    "Return to the starting position and immediately repeat the movement, continuing for 10-20 repetitions."
+  ],
+  "sets": 1,
+  "reps": "10",
+  "restSec": 20,
+  "images": [
+    "0.jpg",
+    "1.jpg"
+  ]
+}

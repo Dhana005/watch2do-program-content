@@ -1,0 +1,23 @@
+{
+  "id": "elbow-circles",
+  "name": "Elbow Circles",
+  "level": "Beginner",
+  "durationLabel": "20-30 sec",
+  "equipment": "None",
+  "primaryMuscle": "Shoulders",
+  "secondaryMuscles": [
+    "Traps"
+  ],
+  "instructions": [
+    "Sit or stand with your feet slightly apart.",
+    "Place your hands on your shoulders with your elbows at shoulder level and pointing out.",
+    "Slowly make a circle with your elbows. Breathe out as you start the circle and breathe in as you complete the circle."
+  ],
+  "sets": 1,
+  "reps": "30 sec",
+  "restSec": 15,
+  "images": [
+    "0.jpg",
+    "1.jpg"
+  ]
+}

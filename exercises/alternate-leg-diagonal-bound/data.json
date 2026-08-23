@@ -1,0 +1,28 @@
+{
+  "id": "alternate-leg-diagonal-bound",
+  "name": "Alternate Leg Diagonal Bound",
+  "level": "Beginner",
+  "durationLabel": "5-10 min",
+  "equipment": "None",
+  "primaryMuscle": "Quadriceps",
+  "secondaryMuscles": [
+    "Abductors",
+    "Adductors",
+    "Calves",
+    "Glutes",
+    "Hamstrings"
+  ],
+  "instructions": [
+    "Assume a comfortable stance with one foot slightly in front of the other.",
+    "Begin by pushing off with the front leg, driving the opposite knee forward and as high as possible before landing. Attempt to cover as much distance to each side with each bound.",
+    "It may help to use a line on the ground to guage distance from side to side.",
+    "Repeat the sequence with the other leg."
+  ],
+  "sets": 1,
+  "reps": "10 per side",
+  "restSec": 20,
+  "images": [
+    "0.jpg",
+    "1.jpg"
+  ]
+}

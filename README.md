@@ -30,6 +30,18 @@ eventually, `exercises/` + `programs/*/manifest.json` is just the first one.
 (The Unlicense — public domain, no attribution required). See
 `LICENSE-NOTES.md`.
 
+## Coverage
+
+- `exercises/`: 103 real exercises.
+- `programs/prog-weight/` (30-Day Fat Loss Challenge): all 26 workout days
+  covered, 6 exercises each (156 slots). Days 1-20 use exercises unique to
+  that stretch of the program; days 22-30 (Weeks 5-6) intentionally reuse
+  exercises from earlier weeks in fresh day-by-day combinations rather than
+  forcing artificial variety past what the source dataset can support with
+  real, well-documented, no-equipment-appropriate moves — no exercise
+  repeats within any single day or week, but the same move can appear in
+  more than one week, same as real fitness programs.
+
 ## Consumed by
 
 [Dhana005/Watch2Do](https://github.com/Dhana005/Watch2Do) —

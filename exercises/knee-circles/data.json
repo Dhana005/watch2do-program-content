@@ -1,0 +1,24 @@
+{
+  "id": "knee-circles",
+  "name": "Knee Circles",
+  "level": "Beginner",
+  "durationLabel": "20-30 sec",
+  "equipment": "None",
+  "primaryMuscle": "Calves",
+  "secondaryMuscles": [
+    "Hamstrings",
+    "Quadriceps"
+  ],
+  "instructions": [
+    "Stand with your legs together and hands by your waist.",
+    "Now move your knees in a circular motion as you breathe normally.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "sets": 1,
+  "reps": "30 sec",
+  "restSec": 15,
+  "images": [
+    "0.jpg",
+    "1.jpg"
+  ]
+}
