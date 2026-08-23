@@ -1,0 +1,26 @@
+{
+  "id": "star-jump",
+  "name": "Star Jump",
+  "level": "Beginner",
+  "durationLabel": "20-30 sec",
+  "equipment": "None",
+  "primaryMuscle": "Quadriceps",
+  "secondaryMuscles": [
+    "Calves",
+    "Glutes",
+    "Hamstrings",
+    "Shoulders"
+  ],
+  "instructions": [
+    "Begin in a relaxed stance with your feet shoulder width apart and hold your arms close to the body.",
+    "To initiate the move, squat down halfway and explode back up as high as possible. Fully extend your entire body, spreading your legs and arms away from the body.",
+    "As you land, bring your limbs back in and absorb your impact through the legs."
+  ],
+  "sets": 1,
+  "reps": "30 sec",
+  "restSec": 20,
+  "images": [
+    "0.jpg",
+    "1.jpg"
+  ]
+}

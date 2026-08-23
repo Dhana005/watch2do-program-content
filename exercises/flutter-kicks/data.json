@@ -1,0 +1,24 @@
+{
+  "id": "flutter-kicks",
+  "name": "Flutter Kicks",
+  "level": "Beginner",
+  "durationLabel": "20-30 sec",
+  "equipment": "None",
+  "primaryMuscle": "Abdominals",
+  "secondaryMuscles": [
+    "Hip Flexors"
+  ],
+  "instructions": [
+    "Lie on your back with your legs straight and hands under your glutes for support.",
+    "Lift both legs a few inches off the floor. This is the starting position.",
+    "Start a small, rapid up-and-down flutter kick, alternating legs, as though kicking in water.",
+    "Continue alternating in a controlled motion for the recommended amount of time."
+  ],
+  "sets": 1,
+  "reps": "30 sec",
+  "restSec": 20,
+  "images": [
+    "0.jpg",
+    "1.jpg"
+  ]
+}

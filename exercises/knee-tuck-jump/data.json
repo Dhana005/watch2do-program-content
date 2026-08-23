@@ -1,0 +1,27 @@
+{
+  "id": "knee-tuck-jump",
+  "name": "Knee Tuck Jump",
+  "level": "Beginner",
+  "durationLabel": "20-30 sec",
+  "equipment": "None",
+  "primaryMuscle": "Hamstrings",
+  "secondaryMuscles": [
+    "Abductors",
+    "Adductors",
+    "Calves",
+    "Glutes",
+    "Quadriceps"
+  ],
+  "instructions": [
+    "Stand with your knees slightly bent, hands in front of you at chest height, palms down. This is the starting position.",
+    "Rapidly dip into a quarter squat and immediately explode upward, driving your knees toward your chest.",
+    "Jump as high as you can, then land by re-extending your legs, absorbing the impact by allowing your knees to bend."
+  ],
+  "sets": 1,
+  "reps": "30 sec",
+  "restSec": 20,
+  "images": [
+    "0.jpg",
+    "1.jpg"
+  ]
+}

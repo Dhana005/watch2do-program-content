@@ -1,0 +1,21 @@
+{
+  "id": "front-leg-raises",
+  "name": "Front Leg Raises",
+  "level": "Beginner",
+  "durationLabel": "5-10 min",
+  "equipment": "None (a chair or wall is optional for balance)",
+  "primaryMuscle": "Hamstrings",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Stand next to a chair or wall, holding on with one hand for balance if needed.",
+    "Swing one leg forward, keeping it straight, then continue with a downward swing, bringing the leg as far back as comfortable.",
+    "Repeat 5-10 times, then switch legs."
+  ],
+  "sets": 1,
+  "reps": "10 per leg",
+  "restSec": 20,
+  "images": [
+    "0.jpg",
+    "1.jpg"
+  ]
+}

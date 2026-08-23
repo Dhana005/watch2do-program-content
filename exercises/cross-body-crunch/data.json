@@ -1,0 +1,22 @@
+{
+  "id": "cross-body-crunch",
+  "name": "Cross-Body Crunch",
+  "level": "Beginner",
+  "durationLabel": "5-10 min",
+  "equipment": "None",
+  "primaryMuscle": "Abdominals",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Lie flat on your back and bend your knees about 60 degrees, feet flat on the floor, hands loosely behind your head.",
+    "Curl up and bring your right elbow and shoulder across your body while bringing your left knee in toward your left shoulder at the same time.",
+    "Return to the starting position and repeat with the left elbow and right knee.",
+    "Continue alternating sides for the recommended amount of repetitions."
+  ],
+  "sets": 1,
+  "reps": "12 per side",
+  "restSec": 20,
+  "images": [
+    "0.jpg",
+    "1.jpg"
+  ]
+}

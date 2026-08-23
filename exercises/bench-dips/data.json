@@ -1,0 +1,25 @@
+{
+  "id": "bench-dips",
+  "name": "Bench Dips",
+  "level": "Beginner",
+  "durationLabel": "5-10 min",
+  "equipment": "A sturdy chair or bench",
+  "primaryMuscle": "Triceps",
+  "secondaryMuscles": [
+    "Chest",
+    "Shoulders"
+  ],
+  "instructions": [
+    "Sit on the edge of a sturdy chair or bench, hands gripping the edge beside your hips, legs extended in front of you. This is the starting position.",
+    "Slowly lower your body by bending your elbows until your upper arms are roughly parallel to the floor, keeping elbows pointing back.",
+    "Push through your triceps to lift yourself back up to the starting position.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "sets": 1,
+  "reps": "10",
+  "restSec": 20,
+  "images": [
+    "0.jpg",
+    "1.jpg"
+  ]
+}

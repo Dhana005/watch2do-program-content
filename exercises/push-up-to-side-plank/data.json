@@ -1,0 +1,27 @@
+{
+  "id": "push-up-to-side-plank",
+  "name": "Push-Up to Side Plank",
+  "level": "Beginner",
+  "durationLabel": "5-10 min",
+  "equipment": "None",
+  "primaryMuscle": "Chest",
+  "secondaryMuscles": [
+    "Abdominals",
+    "Shoulders",
+    "Triceps"
+  ],
+  "instructions": [
+    "Get into push-up position on your toes with your hands just outside shoulder width.",
+    "Perform a push-up by allowing the elbows to flex, keeping your body straight as you descend.",
+    "As you come up, shift your weight onto one side and twist into a side plank, reaching that arm up toward the ceiling.",
+    "Lower the arm back to the floor for another push-up, then twist to the other side.",
+    "Repeat the series, alternating sides, for the recommended amount of repetitions."
+  ],
+  "sets": 1,
+  "reps": "10",
+  "restSec": 20,
+  "images": [
+    "0.jpg",
+    "1.jpg"
+  ]
+}

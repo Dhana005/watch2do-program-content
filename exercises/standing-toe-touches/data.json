@@ -1,0 +1,23 @@
+{
+  "id": "standing-toe-touches",
+  "name": "Standing Toe Touches",
+  "level": "Beginner",
+  "durationLabel": "20-30 sec",
+  "equipment": "None",
+  "primaryMuscle": "Hamstrings",
+  "secondaryMuscles": [
+    "Calves"
+  ],
+  "instructions": [
+    "Stand with some space in front of and behind you.",
+    "Bend at the waist, keeping your legs straight, until your upper body relaxes and hangs down in front of you. Let your arms hang down naturally.",
+    "Hold for 10 to 20 seconds, breathing normally."
+  ],
+  "sets": 1,
+  "reps": "20 sec",
+  "restSec": 15,
+  "images": [
+    "0.jpg",
+    "1.jpg"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "crunches",
+  "name": "Crunches",
+  "level": "Beginner",
+  "durationLabel": "5-10 min",
+  "equipment": "None",
+  "primaryMuscle": "Abdominals",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Lie flat on your back with your feet flat on the ground and your knees bent.",
+    "Place your hands lightly on either side of your head, keeping your elbows in \u2014 don't lock your fingers behind your head.",
+    "While pushing the small of your back down into the floor to better isolate your abdominal muscles, begin to roll your shoulders off the floor.",
+    "Contract your abdominals hard at the top and hold for a second, then lower slowly back to the starting position.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "sets": 1,
+  "reps": "15",
+  "restSec": 20,
+  "images": [
+    "0.jpg",
+    "1.jpg"
+  ]
+}

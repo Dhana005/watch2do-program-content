@@ -1,0 +1,24 @@
+{
+  "id": "incline-push-up",
+  "name": "Incline Push-Up",
+  "level": "Beginner",
+  "durationLabel": "5-10 min",
+  "equipment": "A sturdy elevated surface (or skip and do a regular push-up)",
+  "primaryMuscle": "Chest",
+  "secondaryMuscles": [
+    "Shoulders",
+    "Triceps"
+  ],
+  "instructions": [
+    "Stand facing a sturdy elevated surface (a step, low table, or bench). Place hands on the edge, slightly wider than shoulder width.",
+    "Position your feet back from the surface with arms and body straight, arms perpendicular to your body.",
+    "Keeping your body straight, lower your chest to the edge of the surface by bending your arms, then push back up until arms are extended. Repeat."
+  ],
+  "sets": 1,
+  "reps": "10",
+  "restSec": 20,
+  "images": [
+    "0.jpg",
+    "1.jpg"
+  ]
+}

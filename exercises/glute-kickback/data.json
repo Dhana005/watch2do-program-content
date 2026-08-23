@@ -1,0 +1,24 @@
+{
+  "id": "glute-kickback",
+  "name": "Glute Kickback",
+  "level": "Beginner",
+  "durationLabel": "5-10 min",
+  "equipment": "None",
+  "primaryMuscle": "Glutes",
+  "secondaryMuscles": [
+    "Hamstrings"
+  ],
+  "instructions": [
+    "Kneel on the floor and bend at the waist with your arms extended in front of you, shoulder width apart \u2014 a kneeling push-up position. This is the starting position.",
+    "Lift one leg up until the hamstring is in line with your back, keeping a 90-degree bend at the knee. Contract the glute and hold for a second.",
+    "Return to the starting position and repeat with the other leg.",
+    "Continue alternating legs for the recommended amount of repetitions."
+  ],
+  "sets": 1,
+  "reps": "12 per leg",
+  "restSec": 20,
+  "images": [
+    "0.jpg",
+    "1.jpg"
+  ]
+}

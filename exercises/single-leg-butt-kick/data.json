@@ -1,0 +1,25 @@
+{
+  "id": "single-leg-butt-kick",
+  "name": "Single Leg Butt Kick",
+  "level": "Beginner",
+  "durationLabel": "5-10 min",
+  "equipment": "None",
+  "primaryMuscle": "Quadriceps",
+  "secondaryMuscles": [
+    "Calves",
+    "Hamstrings"
+  ],
+  "instructions": [
+    "Begin standing on one leg, with the other knee raised. This is the starting position.",
+    "Take off upward by extending the hip, knee, and ankle of the grounded leg.",
+    "Immediately flex the knee of your jumping leg and try to touch your heel to your glute.",
+    "Land back in a partially bent position and repeat, then switch legs."
+  ],
+  "sets": 1,
+  "reps": "10 per leg",
+  "restSec": 20,
+  "images": [
+    "0.jpg",
+    "1.jpg"
+  ]
+}

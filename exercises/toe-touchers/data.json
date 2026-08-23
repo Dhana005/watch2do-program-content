@@ -1,0 +1,23 @@
+{
+  "id": "toe-touchers",
+  "name": "Toe Touchers",
+  "level": "Beginner",
+  "durationLabel": "5-10 min",
+  "equipment": "None",
+  "primaryMuscle": "Abdominals",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Lie on the floor with your arms across your sides, palms down.",
+    "Slowly raise your legs until they're almost perpendicular to the floor with a slight bend at the knees. This is the starting position.",
+    "Keeping your lower back pressed against the floor, slowly lift your torso and reach with your hands to try and touch your toes.",
+    "Slowly lower your torso and arms back down to the starting position.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "sets": 1,
+  "reps": "12",
+  "restSec": 20,
+  "images": [
+    "0.jpg",
+    "1.jpg"
+  ]
+}

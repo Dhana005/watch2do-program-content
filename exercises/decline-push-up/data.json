@@ -1,0 +1,25 @@
+{
+  "id": "decline-push-up",
+  "name": "Decline Push-Up",
+  "level": "Beginner",
+  "durationLabel": "5-10 min",
+  "equipment": "A box or bench (optional feet-elevated variation)",
+  "primaryMuscle": "Chest",
+  "secondaryMuscles": [
+    "Shoulders",
+    "Triceps"
+  ],
+  "instructions": [
+    "Lie face down and place your hands about shoulder-width apart, holding your torso up at arm's length. Move your feet up onto a box or bench. This is the starting position.",
+    "Lower yourself downward until your chest almost touches the floor as you inhale.",
+    "Press your upper body back up to the starting position while squeezing your chest, exhaling as you go.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "sets": 1,
+  "reps": "10",
+  "restSec": 20,
+  "images": [
+    "0.jpg",
+    "1.jpg"
+  ]
+}

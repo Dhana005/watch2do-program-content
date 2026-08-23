@@ -1,0 +1,25 @@
+{
+  "id": "superman",
+  "name": "Superman",
+  "level": "Beginner",
+  "durationLabel": "5-10 min",
+  "equipment": "None",
+  "primaryMuscle": "Lower Back",
+  "secondaryMuscles": [
+    "Glutes",
+    "Hamstrings"
+  ],
+  "instructions": [
+    "Lie straight and face down on the floor or exercise mat, arms fully extended in front of you. This is the starting position.",
+    "Simultaneously raise your arms, legs, and chest off of the floor and hold this contraction for 2 seconds. Squeeze your lower back to get the best results, and exhale during this movement.",
+    "Slowly begin to lower your arms, legs and chest back down to the starting position while inhaling.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "sets": 1,
+  "reps": "12",
+  "restSec": 20,
+  "images": [
+    "0.jpg",
+    "1.jpg"
+  ]
+}

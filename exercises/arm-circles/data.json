@@ -1,0 +1,23 @@
+{
+  "id": "arm-circles",
+  "name": "Arm Circles",
+  "level": "Beginner",
+  "durationLabel": "20-30 sec",
+  "equipment": "None",
+  "primaryMuscle": "Shoulders",
+  "secondaryMuscles": [
+    "Traps"
+  ],
+  "instructions": [
+    "Stand and extend your arms straight out to the sides, parallel to the floor. This is the starting position.",
+    "Slowly make circles about 1 foot in diameter with each outstretched arm, breathing normally.",
+    "Continue the circular motion for about ten seconds, then reverse direction."
+  ],
+  "sets": 1,
+  "reps": "30 sec",
+  "restSec": 15,
+  "images": [
+    "0.jpg",
+    "1.jpg"
+  ]
+}

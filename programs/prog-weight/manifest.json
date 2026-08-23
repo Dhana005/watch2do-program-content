@@ -9,6 +9,38 @@
       "plank",
       "bodyweight-walking-lunge",
       "jackknife-sit-up"
+    ],
+    "2": [
+      "single-leg-glute-bridge",
+      "butt-lift-bridge",
+      "star-jump",
+      "oblique-crunches",
+      "superman",
+      "crunches"
+    ],
+    "3": [
+      "incline-push-up",
+      "push-up-to-side-plank",
+      "arm-circles",
+      "cross-body-crunch",
+      "toe-touchers",
+      "glute-kickback"
+    ],
+    "4": [
+      "knee-tuck-jump",
+      "single-leg-butt-kick",
+      "elbow-to-knee",
+      "flutter-kicks",
+      "decline-push-up",
+      "standing-toe-touches"
+    ],
+    "5": [
+      "bent-knee-hip-raise",
+      "rear-leg-raises",
+      "front-leg-raises",
+      "side-leg-raises",
+      "step-up-knee-raise",
+      "bench-dips"
     ]
   }
 }

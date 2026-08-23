@@ -1,0 +1,21 @@
+{
+  "id": "elbow-to-knee",
+  "name": "Elbow to Knee",
+  "level": "Beginner",
+  "durationLabel": "5-10 min",
+  "equipment": "None",
+  "primaryMuscle": "Abdominals",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Lie on the floor, crossing one leg over the bent opposite knee. Clasp your hands behind your head, shoulder blades on the ground. This is the starting position.",
+    "Flex your spine and rotate your torso to bring your elbow toward the opposite knee.",
+    "Return to the starting position and repeat, then switch sides."
+  ],
+  "sets": 1,
+  "reps": "12 per side",
+  "restSec": 20,
+  "images": [
+    "0.jpg",
+    "1.jpg"
+  ]
+}

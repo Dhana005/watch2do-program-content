@@ -1,0 +1,21 @@
+{
+  "id": "side-leg-raises",
+  "name": "Side Leg Raises",
+  "level": "Beginner",
+  "durationLabel": "5-10 min",
+  "equipment": "None (a chair or wall is optional for balance)",
+  "primaryMuscle": "Adductors",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Stand next to a chair or wall, which you may hold onto for support. Stand on one leg. This is the starting position.",
+    "Keeping your leg straight, raise it as far out to the side as possible, then swing it back down.",
+    "Repeat this swinging motion 5-10 times, then switch legs."
+  ],
+  "sets": 1,
+  "reps": "10 per leg",
+  "restSec": 20,
+  "images": [
+    "0.jpg",
+    "1.jpg"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "bent-knee-hip-raise",
+  "name": "Bent-Knee Hip Raise",
+  "level": "Beginner",
+  "durationLabel": "5-10 min",
+  "equipment": "None",
+  "primaryMuscle": "Abdominals",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Lay flat on the floor with your arms next to your sides.",
+    "Bend your knees to about a 75 degree angle and lift your feet off the floor by a couple inches. This is the starting position.",
+    "Using your lower abs, bring your knees in toward you, rolling your pelvis backward until your hips lift off the floor.",
+    "Squeeze your abs at the top for a second, then return to the starting position slowly.",
+    "Repeat for the recommended amount of repetitions."
+  ],
+  "sets": 1,
+  "reps": "12",
+  "restSec": 20,
+  "images": [
+    "0.jpg",
+    "1.jpg"
+  ]
+}

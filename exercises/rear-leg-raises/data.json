@@ -1,0 +1,21 @@
+{
+  "id": "rear-leg-raises",
+  "name": "Rear Leg Raises",
+  "level": "Beginner",
+  "durationLabel": "5-10 min",
+  "equipment": "None",
+  "primaryMuscle": "Quadriceps",
+  "secondaryMuscles": [],
+  "instructions": [
+    "Get on your hands and knees on an exercise mat, head looking forward, knees at a 90-degree bend. This is the starting position.",
+    "Extend one leg up and behind you, extending through both the knee and hip.",
+    "Return to the starting position and repeat for 5-10 repetitions, then switch sides."
+  ],
+  "sets": 1,
+  "reps": "10 per leg",
+  "restSec": 20,
+  "images": [
+    "0.jpg",
+    "1.jpg"
+  ]
+}

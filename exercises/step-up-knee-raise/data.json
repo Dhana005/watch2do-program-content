@@ -1,0 +1,24 @@
+{
+  "id": "step-up-knee-raise",
+  "name": "Step-Up with Knee Raise",
+  "level": "Beginner",
+  "durationLabel": "5-10 min",
+  "equipment": "A sturdy step, box, or bench",
+  "primaryMuscle": "Glutes",
+  "secondaryMuscles": [
+    "Hamstrings",
+    "Quadriceps"
+  ],
+  "instructions": [
+    "Stand facing a sturdy step or bench with your feet together. This is the starting position.",
+    "Step up, placing one foot on top of the step, and extend through the hip and knee to stand up on it \u2014 as you do, drive your other knee up as high as you can.",
+    "Reverse the motion to step back down, then repeat on the opposite leg."
+  ],
+  "sets": 1,
+  "reps": "10 per leg",
+  "restSec": 20,
+  "images": [
+    "0.jpg",
+    "1.jpg"
+  ]
+}
