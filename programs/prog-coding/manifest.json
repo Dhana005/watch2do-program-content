@@ -1,0 +1,150 @@
+{
+  "programId": "prog-coding",
+  "title": "Python Basics Bootcamp",
+  "days": {
+    "1": [
+      "variables-data-types"
+    ],
+    "2": [
+      "strings-formatting"
+    ],
+    "3": [
+      "numbers-math-operations"
+    ],
+    "4": [
+      "input-output"
+    ],
+    "5": [
+      "booleans-comparisons"
+    ],
+    "6": [
+      "comments-code-style"
+    ],
+    "8": [
+      "if-else-statements"
+    ],
+    "9": [
+      "nested-chained-conditionals"
+    ],
+    "10": [
+      "for-loops"
+    ],
+    "11": [
+      "while-loops"
+    ],
+    "12": [
+      "break-continue"
+    ],
+    "13": [
+      "loop-practice-patterns"
+    ],
+    "15": [
+      "lists"
+    ],
+    "16": [
+      "tuples"
+    ],
+    "17": [
+      "dictionaries"
+    ],
+    "18": [
+      "sets"
+    ],
+    "19": [
+      "nested-data-structures"
+    ],
+    "20": [
+      "list-comprehensions"
+    ],
+    "22": [
+      "defining-functions"
+    ],
+    "23": [
+      "function-arguments-defaults"
+    ],
+    "24": [
+      "return-values"
+    ],
+    "25": [
+      "variable-scope"
+    ],
+    "26": [
+      "lambda-functions"
+    ],
+    "27": [
+      "recursion-basics"
+    ],
+    "29": [
+      "reading-writing-files"
+    ],
+    "30": [
+      "working-with-csv-files"
+    ],
+    "31": [
+      "json-basics"
+    ],
+    "32": [
+      "exception-handling"
+    ],
+    "33": [
+      "working-with-dates-time"
+    ],
+    "34": [
+      "regular-expressions-basics"
+    ],
+    "36": [
+      "classes-and-objects"
+    ],
+    "37": [
+      "the-init-constructor"
+    ],
+    "38": [
+      "instance-vs-class-variables"
+    ],
+    "39": [
+      "inheritance"
+    ],
+    "40": [
+      "encapsulation-basics"
+    ],
+    "41": [
+      "dunder-methods"
+    ],
+    "43": [
+      "modules-and-imports"
+    ],
+    "44": [
+      "python-standard-library"
+    ],
+    "45": [
+      "installing-packages-pip"
+    ],
+    "46": [
+      "virtual-environments"
+    ],
+    "47": [
+      "debugging-basics"
+    ],
+    "48": [
+      "writing-unit-tests"
+    ],
+    "50": [
+      "building-a-to-do-list-app"
+    ],
+    "51": [
+      "building-a-simple-calculator"
+    ],
+    "52": [
+      "working-with-apis-requests"
+    ],
+    "53": [
+      "building-a-quiz-game"
+    ],
+    "54": [
+      "version-control-with-git"
+    ],
+    "55": [
+      "final-project-next-steps"
+    ]
+  }
+}

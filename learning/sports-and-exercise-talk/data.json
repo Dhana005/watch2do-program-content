@@ -1,0 +1,30 @@
+{
+  "id": "sports-and-exercise-talk",
+  "name": "Sports & Exercise Talk",
+  "level": "Intermediate",
+  "durationLabel": "15-20 min",
+  "equipment": "A notebook and a partner (or mirror) to practice speaking aloud",
+  "primaryMuscle": "Health & Hobbies",
+  "secondaryMuscles": [
+    "Speaking",
+    "Listening",
+    "Vocabulary"
+  ],
+  "instructions": [
+    "This lesson focuses on sports & exercise talk — practice these key phrases out loud:",
+    "Do you play any sports?",
+    "I try to go for a run three times a week.",
+    "Did you watch the match last night?",
+    "I'm training for a half-marathon this spring.",
+    "Try using at least three of these phrases in a short role-play conversation with a partner (or out loud to yourself)."
+  ],
+  "sets": 4,
+  "reps": "15 min",
+  "restSec": 30,
+  "statLabels": [
+    "Phrases",
+    "Practice Time",
+    "Review"
+  ],
+  "icon": "💬"
+}

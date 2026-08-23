@@ -1,0 +1,28 @@
+{
+  "id": "function-arguments-defaults",
+  "name": "Function Arguments & Defaults",
+  "level": "Intermediate",
+  "durationLabel": "20-25 min",
+  "equipment": "A computer with Python 3 installed (or an online REPL like replit.com)",
+  "primaryMuscle": "Functions",
+  "secondaryMuscles": [
+    "Problem Solving",
+    "Syntax"
+  ],
+  "instructions": [
+    "This lesson covers function arguments & defaults.",
+    "Parameters can have default values, used when no argument is passed.",
+    "def greet(name, greeting='Hello'):",
+    "    print(f'{greeting}, {name}!')",
+    "Type the example into a real Python file (or REPL), run it, then modify it until you understand why it behaves that way."
+  ],
+  "sets": 2,
+  "reps": "20 min",
+  "restSec": 45,
+  "statLabels": [
+    "Concepts",
+    "Practice Time",
+    "Review"
+  ],
+  "icon": "💻"
+}

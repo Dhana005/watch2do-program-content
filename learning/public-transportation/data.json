@@ -1,0 +1,30 @@
+{
+  "id": "public-transportation",
+  "name": "Public Transportation",
+  "level": "Intermediate",
+  "durationLabel": "15-20 min",
+  "equipment": "A notebook and a partner (or mirror) to practice speaking aloud",
+  "primaryMuscle": "Travel & Directions",
+  "secondaryMuscles": [
+    "Speaking",
+    "Listening",
+    "Vocabulary"
+  ],
+  "instructions": [
+    "This lesson focuses on public transportation — practice these key phrases out loud:",
+    "Does this bus go to the city center?",
+    "How much is a one-way ticket?",
+    "Which stop should I get off at for the museum?",
+    "Is this seat taken?",
+    "Try using at least three of these phrases in a short role-play conversation with a partner (or out loud to yourself)."
+  ],
+  "sets": 4,
+  "reps": "15 min",
+  "restSec": 30,
+  "statLabels": [
+    "Phrases",
+    "Practice Time",
+    "Review"
+  ],
+  "icon": "💬"
+}

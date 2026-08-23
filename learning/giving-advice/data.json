@@ -1,0 +1,30 @@
+{
+  "id": "giving-advice",
+  "name": "Giving Advice",
+  "level": "Intermediate",
+  "durationLabel": "15-20 min",
+  "equipment": "A notebook and a partner (or mirror) to practice speaking aloud",
+  "primaryMuscle": "Social & Emotions",
+  "secondaryMuscles": [
+    "Speaking",
+    "Listening",
+    "Vocabulary"
+  ],
+  "instructions": [
+    "This lesson focuses on giving advice — practice these key phrases out loud:",
+    "If I were you, I'd talk to them directly.",
+    "Have you thought about trying a different approach?",
+    "It might be worth giving it a little more time.",
+    "You should probably get a second opinion.",
+    "Try using at least three of these phrases in a short role-play conversation with a partner (or out loud to yourself)."
+  ],
+  "sets": 4,
+  "reps": "15 min",
+  "restSec": 30,
+  "statLabels": [
+    "Phrases",
+    "Practice Time",
+    "Review"
+  ],
+  "icon": "💬"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "building-a-simple-calculator",
+  "name": "Building a Simple Calculator",
+  "level": "Intermediate",
+  "durationLabel": "20-25 min",
+  "equipment": "A computer with Python 3 installed (or an online REPL like replit.com)",
+  "primaryMuscle": "Real Projects",
+  "secondaryMuscles": [
+    "Problem Solving",
+    "Syntax"
+  ],
+  "instructions": [
+    "This lesson covers building a simple calculator.",
+    "Use input(), conditionals, and functions together to build an interactive tool.",
+    "op = input('Enter +, -, *, or /: ')",
+    "if op == \"+\":",
+    "    result = a + b",
+    "Type the example into a real Python file (or REPL), run it, then modify it until you understand why it behaves that way."
+  ],
+  "sets": 3,
+  "reps": "20 min",
+  "restSec": 45,
+  "statLabels": [
+    "Concepts",
+    "Practice Time",
+    "Review"
+  ],
+  "icon": "💻"
+}

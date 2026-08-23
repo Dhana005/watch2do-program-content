@@ -1,0 +1,114 @@
+{
+  "programId": "prog-learning",
+  "title": "Conversational English Bootcamp",
+  "days": {
+    "1": [
+      "greetings-introductions"
+    ],
+    "2": [
+      "talking-about-yourself"
+    ],
+    "3": [
+      "numbers-time-dates"
+    ],
+    "4": [
+      "weather-talk"
+    ],
+    "5": [
+      "making-small-talk"
+    ],
+    "6": [
+      "saying-goodbye-politely"
+    ],
+    "8": [
+      "ordering-at-a-restaurant"
+    ],
+    "9": [
+      "making-a-reservation"
+    ],
+    "10": [
+      "at-the-grocery-store"
+    ],
+    "11": [
+      "describing-taste-flavor"
+    ],
+    "12": [
+      "talking-about-recipes"
+    ],
+    "13": [
+      "inviting-someone-to-eat"
+    ],
+    "15": [
+      "asking-for-directions"
+    ],
+    "16": [
+      "at-the-airport"
+    ],
+    "17": [
+      "public-transportation"
+    ],
+    "18": [
+      "booking-a-hotel-room"
+    ],
+    "19": [
+      "renting-a-car"
+    ],
+    "20": [
+      "talking-about-travel-plans"
+    ],
+    "22": [
+      "job-interviews"
+    ],
+    "23": [
+      "talking-about-your-job"
+    ],
+    "24": [
+      "phone-calls-voicemail"
+    ],
+    "25": [
+      "email-messaging-etiquette"
+    ],
+    "26": [
+      "technology-and-gadgets"
+    ],
+    "27": [
+      "video-call-small-talk"
+    ],
+    "29": [
+      "making-plans-with-friends"
+    ],
+    "30": [
+      "expressing-opinions"
+    ],
+    "31": [
+      "giving-advice"
+    ],
+    "32": [
+      "apologizing"
+    ],
+    "33": [
+      "handling-disagreements-politely"
+    ],
+    "34": [
+      "expressing-gratitude"
+    ],
+    "36": [
+      "at-the-doctors-office"
+    ],
+    "37": [
+      "talking-about-hobbies"
+    ],
+    "38": [
+      "sports-and-exercise-talk"
+    ],
+    "39": [
+      "movies-and-entertainment"
+    ],
+    "40": [
+      "shopping-for-clothes"
+    ],
+    "41": [
+      "describing-people"
+    ]
+  }
+}

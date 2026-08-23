@@ -1,0 +1,30 @@
+{
+  "id": "inviting-someone-to-eat",
+  "name": "Inviting Someone to Eat",
+  "level": "Beginner",
+  "durationLabel": "15-20 min",
+  "equipment": "A notebook and a partner (or mirror) to practice speaking aloud",
+  "primaryMuscle": "Food & Dining",
+  "secondaryMuscles": [
+    "Speaking",
+    "Listening",
+    "Vocabulary"
+  ],
+  "instructions": [
+    "This lesson focuses on inviting someone to eat — practice these key phrases out loud:",
+    "Would you like to grab dinner sometime this week?",
+    "I know a great little place downtown.",
+    "Are you free for lunch tomorrow?",
+    "My treat this time!",
+    "Try using at least three of these phrases in a short role-play conversation with a partner (or out loud to yourself)."
+  ],
+  "sets": 4,
+  "reps": "15 min",
+  "restSec": 30,
+  "statLabels": [
+    "Phrases",
+    "Practice Time",
+    "Review"
+  ],
+  "icon": "💬"
+}

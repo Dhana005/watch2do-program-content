@@ -1,0 +1,30 @@
+{
+  "id": "movies-and-entertainment",
+  "name": "Movies & Entertainment",
+  "level": "Intermediate",
+  "durationLabel": "15-20 min",
+  "equipment": "A notebook and a partner (or mirror) to practice speaking aloud",
+  "primaryMuscle": "Health & Hobbies",
+  "secondaryMuscles": [
+    "Speaking",
+    "Listening",
+    "Vocabulary"
+  ],
+  "instructions": [
+    "This lesson focuses on movies & entertainment — practice these key phrases out loud:",
+    "Have you seen that new movie yet?",
+    "What kind of movies do you usually enjoy?",
+    "The ending completely took me by surprise.",
+    "I'd give it a solid eight out of ten.",
+    "Try using at least three of these phrases in a short role-play conversation with a partner (or out loud to yourself)."
+  ],
+  "sets": 4,
+  "reps": "15 min",
+  "restSec": 30,
+  "statLabels": [
+    "Phrases",
+    "Practice Time",
+    "Review"
+  ],
+  "icon": "💬"
+}

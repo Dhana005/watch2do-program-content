@@ -1,0 +1,30 @@
+{
+  "id": "making-small-talk",
+  "name": "Making Small Talk",
+  "level": "Beginner",
+  "durationLabel": "15-20 min",
+  "equipment": "A notebook and a partner (or mirror) to practice speaking aloud",
+  "primaryMuscle": "Everyday Essentials",
+  "secondaryMuscles": [
+    "Speaking",
+    "Listening",
+    "Vocabulary"
+  ],
+  "instructions": [
+    "This lesson focuses on making small talk — practice these key phrases out loud:",
+    "So, how's your week going?",
+    "Did you catch the game last night?",
+    "This weather has been something, hasn't it?",
+    "Anyway, I should get going — great chatting with you.",
+    "Try using at least three of these phrases in a short role-play conversation with a partner (or out loud to yourself)."
+  ],
+  "sets": 4,
+  "reps": "15 min",
+  "restSec": 30,
+  "statLabels": [
+    "Phrases",
+    "Practice Time",
+    "Review"
+  ],
+  "icon": "💬"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "writing-unit-tests",
+  "name": "Writing Unit Tests",
+  "level": "Intermediate",
+  "durationLabel": "20-25 min",
+  "equipment": "A computer with Python 3 installed (or an online REPL like replit.com)",
+  "primaryMuscle": "Tools & Libraries",
+  "secondaryMuscles": [
+    "Problem Solving",
+    "Syntax"
+  ],
+  "instructions": [
+    "This lesson covers writing unit tests.",
+    "The unittest module lets you write automated checks that your code works as expected.",
+    "import unittest",
+    "class TestAdd(unittest.TestCase):",
+    "    def test_add(self):",
+    "        self.assertEqual(1 + 1, 2)",
+    "Type the example into a real Python file (or REPL), run it, then modify it until you understand why it behaves that way."
+  ],
+  "sets": 3,
+  "reps": "20 min",
+  "restSec": 45,
+  "statLabels": [
+    "Concepts",
+    "Practice Time",
+    "Review"
+  ],
+  "icon": "💻"
+}

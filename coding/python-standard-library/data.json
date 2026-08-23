@@ -1,0 +1,28 @@
+{
+  "id": "python-standard-library",
+  "name": "The Python Standard Library",
+  "level": "Intermediate",
+  "durationLabel": "20-25 min",
+  "equipment": "A computer with Python 3 installed (or an online REPL like replit.com)",
+  "primaryMuscle": "Tools & Libraries",
+  "secondaryMuscles": [
+    "Problem Solving",
+    "Syntax"
+  ],
+  "instructions": [
+    "This lesson covers the python standard library.",
+    "Python ships with many built-in modules, like random, os, and collections.",
+    "import random",
+    "print(random.choice([\"heads\", \"tails\"]))",
+    "Type the example into a real Python file (or REPL), run it, then modify it until you understand why it behaves that way."
+  ],
+  "sets": 2,
+  "reps": "20 min",
+  "restSec": 45,
+  "statLabels": [
+    "Concepts",
+    "Practice Time",
+    "Review"
+  ],
+  "icon": "💻"
+}

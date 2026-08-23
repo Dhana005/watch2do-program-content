@@ -1,0 +1,30 @@
+{
+  "id": "at-the-airport",
+  "name": "At the Airport",
+  "level": "Intermediate",
+  "durationLabel": "15-20 min",
+  "equipment": "A notebook and a partner (or mirror) to practice speaking aloud",
+  "primaryMuscle": "Travel & Directions",
+  "secondaryMuscles": [
+    "Speaking",
+    "Listening",
+    "Vocabulary"
+  ],
+  "instructions": [
+    "This lesson focuses on at the airport — practice these key phrases out loud:",
+    "Where is the check-in counter for this airline?",
+    "Which gate does this flight depart from?",
+    "Is this flight on time, or has it been delayed?",
+    "Could you help me find my baggage claim?",
+    "Try using at least three of these phrases in a short role-play conversation with a partner (or out loud to yourself)."
+  ],
+  "sets": 4,
+  "reps": "15 min",
+  "restSec": 30,
+  "statLabels": [
+    "Phrases",
+    "Practice Time",
+    "Review"
+  ],
+  "icon": "💬"
+}

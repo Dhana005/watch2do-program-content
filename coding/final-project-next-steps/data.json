@@ -1,0 +1,28 @@
+{
+  "id": "final-project-next-steps",
+  "name": "Final Project & Next Steps",
+  "level": "Intermediate",
+  "durationLabel": "20-25 min",
+  "equipment": "A computer with Python 3 installed (or an online REPL like replit.com)",
+  "primaryMuscle": "Real Projects",
+  "secondaryMuscles": [
+    "Problem Solving",
+    "Syntax"
+  ],
+  "instructions": [
+    "This lesson covers final project & next steps.",
+    "Combine everything you've learned — functions, data structures, files, and classes — into one project of your own.",
+    "Pick an idea you care about (a habit tracker, a budget tool, a game) and build a first working version.",
+    "Once it works, look into what you'd want to learn next: web frameworks, data science, or automation.",
+    "Type the example into a real Python file (or REPL), run it, then modify it until you understand why it behaves that way."
+  ],
+  "sets": 2,
+  "reps": "20 min",
+  "restSec": 45,
+  "statLabels": [
+    "Concepts",
+    "Practice Time",
+    "Review"
+  ],
+  "icon": "💻"
+}

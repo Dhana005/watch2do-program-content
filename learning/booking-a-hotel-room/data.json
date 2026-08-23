@@ -1,0 +1,30 @@
+{
+  "id": "booking-a-hotel-room",
+  "name": "Booking a Hotel Room",
+  "level": "Intermediate",
+  "durationLabel": "15-20 min",
+  "equipment": "A notebook and a partner (or mirror) to practice speaking aloud",
+  "primaryMuscle": "Travel & Directions",
+  "secondaryMuscles": [
+    "Speaking",
+    "Listening",
+    "Vocabulary"
+  ],
+  "instructions": [
+    "This lesson focuses on booking a hotel room — practice these key phrases out loud:",
+    "I'd like to book a double room for three nights.",
+    "Does the room come with breakfast included?",
+    "What time is check-in and check-out?",
+    "Could I request a room with a view?",
+    "Try using at least three of these phrases in a short role-play conversation with a partner (or out loud to yourself)."
+  ],
+  "sets": 4,
+  "reps": "15 min",
+  "restSec": 30,
+  "statLabels": [
+    "Phrases",
+    "Practice Time",
+    "Review"
+  ],
+  "icon": "💬"
+}

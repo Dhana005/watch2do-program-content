@@ -1,0 +1,30 @@
+{
+  "id": "expressing-gratitude",
+  "name": "Expressing Gratitude",
+  "level": "Intermediate",
+  "durationLabel": "15-20 min",
+  "equipment": "A notebook and a partner (or mirror) to practice speaking aloud",
+  "primaryMuscle": "Social & Emotions",
+  "secondaryMuscles": [
+    "Speaking",
+    "Listening",
+    "Vocabulary"
+  ],
+  "instructions": [
+    "This lesson focuses on expressing gratitude — practice these key phrases out loud:",
+    "I really appreciate you taking the time.",
+    "Thank you so much, that means a lot.",
+    "I couldn't have done it without your help.",
+    "I owe you one for this!",
+    "Try using at least three of these phrases in a short role-play conversation with a partner (or out loud to yourself)."
+  ],
+  "sets": 4,
+  "reps": "15 min",
+  "restSec": 30,
+  "statLabels": [
+    "Phrases",
+    "Practice Time",
+    "Review"
+  ],
+  "icon": "💬"
+}

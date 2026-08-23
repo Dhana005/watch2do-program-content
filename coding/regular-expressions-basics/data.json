@@ -1,0 +1,28 @@
+{
+  "id": "regular-expressions-basics",
+  "name": "Regular Expressions Basics",
+  "level": "Intermediate",
+  "durationLabel": "20-25 min",
+  "equipment": "A computer with Python 3 installed (or an online REPL like replit.com)",
+  "primaryMuscle": "Working with Data",
+  "secondaryMuscles": [
+    "Problem Solving",
+    "Syntax"
+  ],
+  "instructions": [
+    "This lesson covers regular expressions basics.",
+    "The re module matches patterns in text, like finding all email addresses in a string.",
+    "import re",
+    "matches = re.findall(r'\\d+', 'I have 3 cats and 2 dogs')",
+    "Type the example into a real Python file (or REPL), run it, then modify it until you understand why it behaves that way."
+  ],
+  "sets": 2,
+  "reps": "20 min",
+  "restSec": 45,
+  "statLabels": [
+    "Concepts",
+    "Practice Time",
+    "Review"
+  ],
+  "icon": "💻"
+}

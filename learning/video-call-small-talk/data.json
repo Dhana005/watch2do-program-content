@@ -1,0 +1,30 @@
+{
+  "id": "video-call-small-talk",
+  "name": "Video Call Small Talk",
+  "level": "Intermediate",
+  "durationLabel": "15-20 min",
+  "equipment": "A notebook and a partner (or mirror) to practice speaking aloud",
+  "primaryMuscle": "Work & Technology",
+  "secondaryMuscles": [
+    "Speaking",
+    "Listening",
+    "Vocabulary"
+  ],
+  "instructions": [
+    "This lesson focuses on video call small talk — practice these key phrases out loud:",
+    "Can everyone hear me okay?",
+    "Sorry, you're on mute!",
+    "Let's give it another minute for everyone to join.",
+    "Great, I think we can get started now.",
+    "Try using at least three of these phrases in a short role-play conversation with a partner (or out loud to yourself)."
+  ],
+  "sets": 4,
+  "reps": "15 min",
+  "restSec": 30,
+  "statLabels": [
+    "Phrases",
+    "Practice Time",
+    "Review"
+  ],
+  "icon": "💬"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "exception-handling",
+  "name": "Exception Handling",
+  "level": "Intermediate",
+  "durationLabel": "20-25 min",
+  "equipment": "A computer with Python 3 installed (or an online REPL like replit.com)",
+  "primaryMuscle": "Working with Data",
+  "secondaryMuscles": [
+    "Problem Solving",
+    "Syntax"
+  ],
+  "instructions": [
+    "This lesson covers exception handling.",
+    "try/except catches errors so your program can handle them gracefully instead of crashing.",
+    "try:",
+    "    result = 10 / 0",
+    "except ZeroDivisionError:",
+    "    print('Cannot divide by zero')",
+    "Type the example into a real Python file (or REPL), run it, then modify it until you understand why it behaves that way."
+  ],
+  "sets": 3,
+  "reps": "20 min",
+  "restSec": 45,
+  "statLabels": [
+    "Concepts",
+    "Practice Time",
+    "Review"
+  ],
+  "icon": "💻"
+}

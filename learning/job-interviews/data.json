@@ -1,0 +1,30 @@
+{
+  "id": "job-interviews",
+  "name": "Job Interviews",
+  "level": "Intermediate",
+  "durationLabel": "15-20 min",
+  "equipment": "A notebook and a partner (or mirror) to practice speaking aloud",
+  "primaryMuscle": "Work & Technology",
+  "secondaryMuscles": [
+    "Speaking",
+    "Listening",
+    "Vocabulary"
+  ],
+  "instructions": [
+    "This lesson focuses on job interviews — practice these key phrases out loud:",
+    "Could you tell me a bit about yourself?",
+    "What would you say is your greatest strength?",
+    "Why are you interested in this position?",
+    "Do you have any questions for us?",
+    "Try using at least three of these phrases in a short role-play conversation with a partner (or out loud to yourself)."
+  ],
+  "sets": 4,
+  "reps": "15 min",
+  "restSec": 30,
+  "statLabels": [
+    "Phrases",
+    "Practice Time",
+    "Review"
+  ],
+  "icon": "💬"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "renting-a-car",
+  "name": "Renting a Car",
+  "level": "Intermediate",
+  "durationLabel": "15-20 min",
+  "equipment": "A notebook and a partner (or mirror) to practice speaking aloud",
+  "primaryMuscle": "Travel & Directions",
+  "secondaryMuscles": [
+    "Speaking",
+    "Listening",
+    "Vocabulary"
+  ],
+  "instructions": [
+    "This lesson focuses on renting a car — practice these key phrases out loud:",
+    "I'd like to rent a car for the weekend.",
+    "Does the price include insurance?",
+    "Is there a fee for returning it at a different location?",
+    "Does it come with automatic or manual transmission?",
+    "Try using at least three of these phrases in a short role-play conversation with a partner (or out loud to yourself)."
+  ],
+  "sets": 4,
+  "reps": "15 min",
+  "restSec": 30,
+  "statLabels": [
+    "Phrases",
+    "Practice Time",
+    "Review"
+  ],
+  "icon": "💬"
+}

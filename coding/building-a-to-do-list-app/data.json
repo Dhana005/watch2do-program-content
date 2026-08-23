@@ -1,0 +1,29 @@
+{
+  "id": "building-a-to-do-list-app",
+  "name": "Building a To-Do List App",
+  "level": "Intermediate",
+  "durationLabel": "20-25 min",
+  "equipment": "A computer with Python 3 installed (or an online REPL like replit.com)",
+  "primaryMuscle": "Real Projects",
+  "secondaryMuscles": [
+    "Problem Solving",
+    "Syntax"
+  ],
+  "instructions": [
+    "This lesson covers building a to-do list app.",
+    "Combine lists and functions to add, remove, and display tasks.",
+    "tasks = []",
+    "def add_task(task):",
+    "    tasks.append(task)",
+    "Type the example into a real Python file (or REPL), run it, then modify it until you understand why it behaves that way."
+  ],
+  "sets": 3,
+  "reps": "20 min",
+  "restSec": 45,
+  "statLabels": [
+    "Concepts",
+    "Practice Time",
+    "Review"
+  ],
+  "icon": "💻"
+}

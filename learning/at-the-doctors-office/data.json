@@ -1,0 +1,30 @@
+{
+  "id": "at-the-doctors-office",
+  "name": "At the Doctor's Office",
+  "level": "Intermediate",
+  "durationLabel": "15-20 min",
+  "equipment": "A notebook and a partner (or mirror) to practice speaking aloud",
+  "primaryMuscle": "Health & Hobbies",
+  "secondaryMuscles": [
+    "Speaking",
+    "Listening",
+    "Vocabulary"
+  ],
+  "instructions": [
+    "This lesson focuses on at the doctor's office — practice these key phrases out loud:",
+    "I haven't been feeling well the past few days.",
+    "Where does it hurt exactly?",
+    "Have you had any fever or chills?",
+    "I'll write you a prescription for that.",
+    "Try using at least three of these phrases in a short role-play conversation with a partner (or out loud to yourself)."
+  ],
+  "sets": 4,
+  "reps": "15 min",
+  "restSec": 30,
+  "statLabels": [
+    "Phrases",
+    "Practice Time",
+    "Review"
+  ],
+  "icon": "💬"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "weather-talk",
+  "name": "Weather Talk",
+  "level": "Beginner",
+  "durationLabel": "15-20 min",
+  "equipment": "A notebook and a partner (or mirror) to practice speaking aloud",
+  "primaryMuscle": "Everyday Essentials",
+  "secondaryMuscles": [
+    "Speaking",
+    "Listening",
+    "Vocabulary"
+  ],
+  "instructions": [
+    "This lesson focuses on weather talk — practice these key phrases out loud:",
+    "What's the weather like today?",
+    "It's freezing out there!",
+    "I heard it's going to rain later.",
+    "It's such a beautiful day.",
+    "Try using at least three of these phrases in a short role-play conversation with a partner (or out loud to yourself)."
+  ],
+  "sets": 4,
+  "reps": "15 min",
+  "restSec": 30,
+  "statLabels": [
+    "Phrases",
+    "Practice Time",
+    "Review"
+  ],
+  "icon": "💬"
+}

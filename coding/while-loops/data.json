@@ -1,0 +1,30 @@
+{
+  "id": "while-loops",
+  "name": "While Loops",
+  "level": "Beginner",
+  "durationLabel": "20-25 min",
+  "equipment": "A computer with Python 3 installed (or an online REPL like replit.com)",
+  "primaryMuscle": "Control Flow",
+  "secondaryMuscles": [
+    "Problem Solving",
+    "Syntax"
+  ],
+  "instructions": [
+    "This lesson covers while loops.",
+    "A while loop repeats as long as its condition stays True.",
+    "count = 0",
+    "while count < 3:",
+    "    print(count)",
+    "    count += 1",
+    "Type the example into a real Python file (or REPL), run it, then modify it until you understand why it behaves that way."
+  ],
+  "sets": 3,
+  "reps": "20 min",
+  "restSec": 45,
+  "statLabels": [
+    "Concepts",
+    "Practice Time",
+    "Review"
+  ],
+  "icon": "💻"
+}

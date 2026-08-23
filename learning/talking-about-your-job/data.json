@@ -1,0 +1,30 @@
+{
+  "id": "talking-about-your-job",
+  "name": "Talking About Your Job",
+  "level": "Intermediate",
+  "durationLabel": "15-20 min",
+  "equipment": "A notebook and a partner (or mirror) to practice speaking aloud",
+  "primaryMuscle": "Work & Technology",
+  "secondaryMuscles": [
+    "Speaking",
+    "Listening",
+    "Vocabulary"
+  ],
+  "instructions": [
+    "This lesson focuses on talking about your job — practice these key phrases out loud:",
+    "What do you do exactly at your company?",
+    "I'm mainly responsible for managing our client accounts.",
+    "It can get pretty busy during quarter-end.",
+    "I've been in this role for about three years now.",
+    "Try using at least three of these phrases in a short role-play conversation with a partner (or out loud to yourself)."
+  ],
+  "sets": 4,
+  "reps": "15 min",
+  "restSec": 30,
+  "statLabels": [
+    "Phrases",
+    "Practice Time",
+    "Review"
+  ],
+  "icon": "💬"
+}

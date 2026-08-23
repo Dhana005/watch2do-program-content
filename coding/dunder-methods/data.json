@@ -1,0 +1,29 @@
+{
+  "id": "dunder-methods",
+  "name": "Dunder Methods (__str__, __repr__)",
+  "level": "Intermediate",
+  "durationLabel": "20-25 min",
+  "equipment": "A computer with Python 3 installed (or an online REPL like replit.com)",
+  "primaryMuscle": "Object-Oriented Python",
+  "secondaryMuscles": [
+    "Problem Solving",
+    "Syntax"
+  ],
+  "instructions": [
+    "This lesson covers dunder methods (__str__, __repr__).",
+    "__str__ controls how an object looks when printed.",
+    "class Dog:",
+    "    def __str__(self):",
+    "        return f'Dog named {self.name}'",
+    "Type the example into a real Python file (or REPL), run it, then modify it until you understand why it behaves that way."
+  ],
+  "sets": 3,
+  "reps": "20 min",
+  "restSec": 45,
+  "statLabels": [
+    "Concepts",
+    "Practice Time",
+    "Review"
+  ],
+  "icon": "💻"
+}

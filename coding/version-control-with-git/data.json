@@ -1,0 +1,29 @@
+{
+  "id": "version-control-with-git",
+  "name": "Version Control with Git",
+  "level": "Intermediate",
+  "durationLabel": "20-25 min",
+  "equipment": "A computer with Python 3 installed (or an online REPL like replit.com)",
+  "primaryMuscle": "Real Projects",
+  "secondaryMuscles": [
+    "Problem Solving",
+    "Syntax"
+  ],
+  "instructions": [
+    "This lesson covers version control with git.",
+    "Git tracks changes to your code over time so you can save and revert versions.",
+    "git init",
+    "git add .",
+    "git commit -m 'Initial commit'",
+    "Type the example into a real Python file (or REPL), run it, then modify it until you understand why it behaves that way."
+  ],
+  "sets": 3,
+  "reps": "20 min",
+  "restSec": 45,
+  "statLabels": [
+    "Concepts",
+    "Practice Time",
+    "Review"
+  ],
+  "icon": "💻"
+}
