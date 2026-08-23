@@ -1,0 +1,14 @@
+{
+  "programId": "prog-weight",
+  "title": "30-Day Fat Loss Challenge",
+  "days": {
+    "1": [
+      "bodyweight-squat",
+      "push-up-wide",
+      "mountain-climbers",
+      "plank",
+      "bodyweight-walking-lunge",
+      "jackknife-sit-up"
+    ]
+  }
+}
