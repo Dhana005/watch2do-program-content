@@ -14,18 +14,38 @@ exercises/{exerciseId}/
   1.jpg        # reference photo, position B (app animates between the two)
 
 yoga/{poseId}/
-  data.json    # same shape as exercises/
-  0.jpg, 1.jpg # AI-generated (gpt-image-1) — no real pose-photo dataset exists
+  data.json       # same shape as exercises/
+  0.jpg, 1.jpg,   # AI-generated (gpt-image-1, high quality) — no real
+  2.jpg           # pose-photo dataset exists. Three frames (setup / midway
+                  # / full pose) as of 2026-08 for 25 of 36 poses — the
+                  # other 11 (seated-spinal-twist, side-plank-pose,
+                  # standing-forward-fold, supine-spinal-twist, tree-pose,
+                  # triangle-pose, upward-dog, warrior-one, warrior-two,
+                  # wide-legged-forward-fold, yoga-plank-pose) are still on
+                  # the original 2-frame set (0.jpg/1.jpg only, no 2.jpg) —
+                  # a generation run hit an API credit limit partway
+                  # through. Upgrade those 11 the same way once credits
+                  # allow: 3 frames, "high" quality, same consistent
+                  # model/studio style prompt as the other 25.
 
 meditation/{sessionId}/
-  data.json    # same shape, statLabels relabels sets/reps/rest for display
+  data.json    # same shape, statLabels relabels sets/reps/rest for display,
+               # videoId added 2026-08 (see below)
   0.jpg, 1.jpg # AI-generated, shared across a technique's 3 duration-tier ids
 
 learning/{lessonId}/
+  data.json    # same shape, no images — instructions hold real phrases to
+               # practice; `icon` ('💬') is shown in place of a photo where
+               # no video exists (see Sourcing). `videoId` added 2026-08: a
+               # real, verified YouTube video matched to that exact
+               # lesson's topic (e.g. Oxford Online English for
+               # weather-talk) — a program named "Conversational" needs
+               # real spoken audio, not a static emoji.
+
 coding/{lessonId}/
-  data.json    # same shape, no images — instructions hold real phrases
-               # (learning) or a real Python snippet (coding); `icon` is a
-               # single emoji shown in place of a photo (see Sourcing)
+  data.json    # same shape, no images or video yet — instructions hold a
+               # real, correct Python snippet; `icon` ('💻') shown in place
+               # of a photo (see Sourcing)
 
 programs/{programId}/
   manifest.json   # { programId, title, days: { "1": [id, ...], ... } }
@@ -55,15 +75,26 @@ script genuinely gets longer and deeper, not just repeated.
   `LICENSE-NOTES.md`.
 - `yoga/` and `meditation/` data is original content (standard,
   well-documented asanas/techniques, written for this project); their
-  photos are AI-generated (OpenAI `gpt-image-1`, low quality) since no real
-  photo source exists for either.
+  photos are AI-generated (OpenAI `gpt-image-1`). yoga/ was regenerated
+  2026-08 at "high" quality with an explicit per-pose prompt built from
+  each pose's own real `instructions` text (the original "low quality"
+  pass had gotten several complex poses — Eagle Pose, Half Moon Pose —
+  visibly wrong, not just low-res); meditation/ is still the original
+  "low quality" pass.
+- `learning/`'s 36 lessons each carry a real, verified `videoId` (found via
+  YouTube Data API search, matched to that exact lesson's topic and
+  checked embeddable) as of 2026-08 — a program literally named
+  "Conversational" needs real spoken audio and a real teacher, not a
+  static emoji. `coding/` doesn't have an equivalent yet.
 - `learning/` and `coding/` are original content too (standard ESL phrases;
-  real, correct Python code examples), but have **no photos at all** — a
-  lesson has no physical position to demonstrate the way a pose or exercise
-  does, so generating two similar stock photos and animating between them
-  would be decoration pretending to be a demo, not a real reference. These
-  use a single `icon` emoji (💬 for learning, 💻 for coding) instead; the
-  app's `ExerciseAnimation` component shows that in place of a photo.
+  real, correct Python code examples), and — aside from learning/'s new
+  videos above — have **no photos** — a lesson has no physical position to
+  demonstrate the way a pose or exercise does, so generating two similar
+  stock photos and animating between them would be decoration pretending
+  to be a demo, not a real reference. These use a single `icon` emoji (💬
+  for learning, 💻 for coding) as the program-day.tsx list thumbnail
+  instead; the app's `ExerciseAnimation` component shows that in place of
+  a photo whenever there's no video for that specific lesson.
 
 ## Coverage
 
