@@ -1,0 +1,27 @@
+{
+  "id": "practice-d-chord-rhythm",
+  "name": "Practice: D Chord & Rhythm",
+  "level": "Beginner",
+  "durationLabel": "15-18 min",
+  "equipment": "A guitar",
+  "primaryMuscle": "Open Chords",
+  "secondaryMuscles": [
+    "D Chord",
+    "Applied Practice"
+  ],
+  "instructions": [
+    "Play the D chord and strum four steady downstrokes, then release and reposition your fingers, repeating for five minutes.",
+    "Focus on one string at a time if a note is buzzing or muted -- identify which finger is the culprit before moving on.",
+    "Keep your fretting-hand thumb behind the neck, roughly opposite your middle finger, for the best leverage.",
+    "Revisit today's rhythm video as a refresher before you start."
+  ],
+  "videoId": "zfBkJggF9aU",
+  "sets": 3,
+  "reps": "15 min",
+  "restSec": 300,
+  "statLabels": [
+    "Skills",
+    "Practice Time",
+    "Review"
+  ]
+}

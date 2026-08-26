@@ -1,0 +1,27 @@
+{
+  "id": "piano-scales-beginner",
+  "name": "Piano Scales for Beginners",
+  "level": "Beginner",
+  "durationLabel": "8-10 min",
+  "equipment": "A piano or keyboard",
+  "primaryMuscle": "Scales",
+  "secondaryMuscles": [
+    "C Major Scale",
+    "Finger Numbering"
+  ],
+  "instructions": [
+    "The C major scale uses only the white keys from C to the next C, and is the easiest scale to start with.",
+    "Learn proper finger numbering for the right hand: 1 (thumb) through 5 (pinky), with a thumb-tuck needed to keep the scale flowing smoothly.",
+    "Play the scale slowly, up and down, focusing on even timing between notes rather than speed.",
+    "Watch today's video for an easy beginner lesson on piano scales."
+  ],
+  "videoId": "nzr4p3gI4Jg",
+  "sets": 3,
+  "reps": "8 min",
+  "restSec": 300,
+  "statLabels": [
+    "Skills",
+    "Practice Time",
+    "Review"
+  ]
+}

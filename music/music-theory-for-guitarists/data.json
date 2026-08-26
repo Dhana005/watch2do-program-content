@@ -1,0 +1,27 @@
+{
+  "id": "music-theory-for-guitarists",
+  "name": "Music Theory for Guitarists",
+  "level": "Beginner",
+  "durationLabel": "8-10 min",
+  "equipment": "A guitar (optional for this lesson)",
+  "primaryMuscle": "Music Theory",
+  "secondaryMuscles": [
+    "Scales & Keys",
+    "Foundations"
+  ],
+  "instructions": [
+    "Understanding basic music theory (scales, keys, intervals) helps explain why certain chords sound good together.",
+    "Learn the idea of a \"key\" -- a set of notes and chords that naturally fit together, which is why songs often stick to a small chord family.",
+    "You do not need deep theory to play guitar well, but even a little makes learning new songs and chords far more intuitive.",
+    "Watch today's video for a beginner's guide to music theory."
+  ],
+  "videoId": "n2z02J4fJwg",
+  "sets": 3,
+  "reps": "8 min",
+  "restSec": 300,
+  "statLabels": [
+    "Skills",
+    "Practice Time",
+    "Review"
+  ]
+}

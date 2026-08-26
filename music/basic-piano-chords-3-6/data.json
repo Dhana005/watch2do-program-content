@@ -1,0 +1,27 @@
+{
+  "id": "basic-piano-chords-3-6",
+  "name": "Basic Piano Chords, Lessons 3-6",
+  "level": "Beginner",
+  "durationLabel": "18-20 min",
+  "equipment": "A piano or keyboard",
+  "primaryMuscle": "Chords",
+  "secondaryMuscles": [
+    "Chord Vocabulary",
+    "Structured Lessons"
+  ],
+  "instructions": [
+    "Continue today's chord series from where Day 5 left off, adding a few more common chords to your vocabulary.",
+    "Compare each new chord's hand shape to ones you already know -- many share a similar shape shifted to a different starting key.",
+    "Practice a simple progression using two or three of your chords in a row, in steady rhythm.",
+    "Watch lessons 3 through 6 of today's video series."
+  ],
+  "videoId": "CQ8_Mn8sQa0",
+  "sets": 4,
+  "reps": "18 min",
+  "restSec": 300,
+  "statLabels": [
+    "Skills",
+    "Practice Time",
+    "Review"
+  ]
+}

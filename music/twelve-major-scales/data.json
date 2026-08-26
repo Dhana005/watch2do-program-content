@@ -1,0 +1,27 @@
+{
+  "id": "twelve-major-scales",
+  "name": "Learn All 12 Major Scales",
+  "level": "Intermediate",
+  "durationLabel": "19-21 min",
+  "equipment": "A piano or keyboard",
+  "primaryMuscle": "Scales",
+  "secondaryMuscles": [
+    "Scale Vocabulary",
+    "Structured Lessons"
+  ],
+  "instructions": [
+    "Every major scale follows the same pattern of whole and half steps -- once you know the pattern, you can build any of the 12.",
+    "Focus on just one or two new scales today rather than trying to learn all twelve at once.",
+    "Compare the new scale's finger pattern to C major's -- most differ only slightly because of where the black keys fall.",
+    "Watch today's tutorial for all 12 major scales, even if you only practice one or two today."
+  ],
+  "videoId": "s5lKo79sprE",
+  "sets": 3,
+  "reps": "19 min",
+  "restSec": 300,
+  "statLabels": [
+    "Skills",
+    "Practice Time",
+    "Review"
+  ]
+}

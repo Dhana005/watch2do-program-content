@@ -1,0 +1,27 @@
+{
+  "id": "simple-chords-rhythms",
+  "name": "Simple Chords & Rhythms",
+  "level": "Beginner",
+  "durationLabel": "10-12 min",
+  "equipment": "A piano or keyboard",
+  "primaryMuscle": "Chords",
+  "secondaryMuscles": [
+    "Triads",
+    "Rhythm Basics"
+  ],
+  "instructions": [
+    "A basic major chord (a \"triad\") is built from three notes: the root, a note 4 half-steps up, and another 3 half-steps up from there (e.g., C-E-G for C major).",
+    "Practice playing a C major chord with your right hand (thumb, middle, and pinky fingers), keeping your hand relaxed.",
+    "Play the chord in a simple steady rhythm (four even beats) to connect chords with timing from the very start.",
+    "Watch today's video for simple chords paired with rhythm."
+  ],
+  "videoId": "KGMFO8MdeoU",
+  "sets": 3,
+  "reps": "10 min",
+  "restSec": 300,
+  "statLabels": [
+    "Skills",
+    "Practice Time",
+    "Review"
+  ]
+}

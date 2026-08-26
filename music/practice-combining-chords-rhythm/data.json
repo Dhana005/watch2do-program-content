@@ -1,0 +1,27 @@
+{
+  "id": "practice-combining-chords-rhythm",
+  "name": "Practice: Combining Chords & Rhythm",
+  "level": "Beginner",
+  "durationLabel": "10-12 min",
+  "equipment": "A piano or keyboard",
+  "primaryMuscle": "Chords",
+  "secondaryMuscles": [
+    "Left-Hand Accompaniment",
+    "Applied Practice"
+  ],
+  "instructions": [
+    "Continue yesterday's two-hand coordination practice: left-hand chord, right-hand simple melody or scale notes.",
+    "Slow everything down if the hands start to interfere with each other -- coordination comes before speed.",
+    "Try switching which chord your left hand plays every four beats, keeping the right hand steady.",
+    "Revisit today's chord-building video as a reference."
+  ],
+  "videoId": "2mPS-2guHVo",
+  "sets": 3,
+  "reps": "10 min",
+  "restSec": 300,
+  "statLabels": [
+    "Skills",
+    "Practice Time",
+    "Review"
+  ]
+}

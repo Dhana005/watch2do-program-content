@@ -1,0 +1,27 @@
+{
+  "id": "reading-sheet-music-piano",
+  "name": "Reading Sheet Music for Beginners",
+  "level": "Beginner",
+  "durationLabel": "4-6 min",
+  "equipment": "A piano or keyboard and sheet music (optional)",
+  "primaryMuscle": "Music Reading",
+  "secondaryMuscles": [
+    "Notation Basics",
+    "Treble & Bass Clef"
+  ],
+  "instructions": [
+    "Piano music is typically written on two staves: the treble clef (usually right hand) and bass clef (usually left hand).",
+    "Learn to recognize middle C's position on the staff -- it is the anchor point both clefs are built around.",
+    "You do not need to sight-read fluently to keep enjoying piano, but recognizing basic notation will help you learn new songs faster.",
+    "Watch today's video for an introduction to reading sheet music."
+  ],
+  "videoId": "-dgrr28NXdU",
+  "sets": 3,
+  "reps": "4 min",
+  "restSec": 300,
+  "statLabels": [
+    "Skills",
+    "Practice Time",
+    "Review"
+  ]
+}

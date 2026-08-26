@@ -1,0 +1,27 @@
+{
+  "id": "practice-fingerpicking",
+  "name": "Practice: Fingerpicking",
+  "level": "Beginner",
+  "durationLabel": "12-14 min",
+  "equipment": "A guitar",
+  "primaryMuscle": "Fingerstyle",
+  "secondaryMuscles": [
+    "Fingerpicking",
+    "Applied Practice"
+  ],
+  "instructions": [
+    "Play yesterday's fingerpicking pattern slowly on one chord until it feels smooth and even.",
+    "Once comfortable, try changing to a second chord mid-pattern without breaking the picking rhythm.",
+    "Compare how fingerpicking changes the feel of a song compared to strumming the same chord.",
+    "Revisit yesterday's video as a reference while you practice."
+  ],
+  "videoId": "Z7xm_juNcPY",
+  "sets": 3,
+  "reps": "12 min",
+  "restSec": 300,
+  "statLabels": [
+    "Skills",
+    "Practice Time",
+    "Review"
+  ]
+}

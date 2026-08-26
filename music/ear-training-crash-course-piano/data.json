@@ -1,0 +1,27 @@
+{
+  "id": "ear-training-crash-course-piano",
+  "name": "Ear Training Crash Course",
+  "level": "Beginner",
+  "durationLabel": "12-14 min",
+  "equipment": "A piano or keyboard",
+  "primaryMuscle": "Ear Training",
+  "secondaryMuscles": [
+    "Pitch Recognition",
+    "Applied Practice"
+  ],
+  "instructions": [
+    "Build on yesterday with slightly harder exercises -- try identifying whether a chord sounds \"major\" (bright) or \"minor\" (darker) by ear.",
+    "Practice a little daily rather than one long session; ear training is one of the slowest-building skills in music.",
+    "Do not worry about being wrong often -- even experienced musicians keep training this skill throughout their playing.",
+    "Watch today's crash course video for more structured ear training."
+  ],
+  "videoId": "TZyQKqOr1sg",
+  "sets": 3,
+  "reps": "12 min",
+  "restSec": 300,
+  "statLabels": [
+    "Skills",
+    "Practice Time",
+    "Review"
+  ]
+}

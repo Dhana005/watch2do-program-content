@@ -1,0 +1,27 @@
+{
+  "id": "practice-scales-in-song",
+  "name": "Practice: Scales in a Song",
+  "level": "Beginner",
+  "durationLabel": "10-12 min",
+  "equipment": "A piano or keyboard",
+  "primaryMuscle": "Scales",
+  "secondaryMuscles": [
+    "Applied Theory",
+    "Applied Practice"
+  ],
+  "instructions": [
+    "Continue picking out a simple melody by ear, using yesterday's idea of staying within the C major scale.",
+    "Once you have a short phrase, try adding your left hand playing the root note underneath.",
+    "Do not worry about getting a \"real\" song exactly right -- the goal is connecting scale notes to melody by ear.",
+    "Revisit yesterday's video as a reference."
+  ],
+  "videoId": "jMdBsme67q0",
+  "sets": 3,
+  "reps": "10 min",
+  "restSec": 300,
+  "statLabels": [
+    "Skills",
+    "Practice Time",
+    "Review"
+  ]
+}

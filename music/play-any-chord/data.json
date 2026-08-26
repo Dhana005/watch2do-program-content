@@ -1,0 +1,27 @@
+{
+  "id": "play-any-chord",
+  "name": "Piano Chords for Beginners (Play Any Chord)",
+  "level": "Beginner",
+  "durationLabel": "5-7 min",
+  "equipment": "A piano or keyboard",
+  "primaryMuscle": "Chords",
+  "secondaryMuscles": [
+    "Chord Formula",
+    "Transposition"
+  ],
+  "instructions": [
+    "Once you know the major chord formula (root, +4 half-steps, +3 half-steps), you can build a major chord starting on any key.",
+    "Try building a major chord starting on D, then on G, using the same formula you learned for C.",
+    "Notice the shape your hand makes is nearly identical for each chord -- only the starting position moves.",
+    "Watch today's video for a simple way to play any major chord."
+  ],
+  "videoId": "2mPS-2guHVo",
+  "sets": 3,
+  "reps": "5 min",
+  "restSec": 300,
+  "statLabels": [
+    "Skills",
+    "Practice Time",
+    "Review"
+  ]
+}

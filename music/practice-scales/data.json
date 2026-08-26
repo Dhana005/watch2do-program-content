@@ -1,0 +1,27 @@
+{
+  "id": "practice-scales",
+  "name": "Practice: Scales",
+  "level": "Beginner",
+  "durationLabel": "8-10 min",
+  "equipment": "A piano or keyboard",
+  "primaryMuscle": "Scales",
+  "secondaryMuscles": [
+    "C Major Scale",
+    "Applied Practice"
+  ],
+  "instructions": [
+    "Play the C major scale up and down five times, keeping a slow, even tempo throughout.",
+    "Pay close attention to the thumb-tuck transition -- it is the trickiest part of a beginner scale and worth isolating.",
+    "Try the scale with your eyes closed once it feels comfortable, relying on finger memory rather than sight.",
+    "Revisit yesterday's scale video as a reference."
+  ],
+  "videoId": "nzr4p3gI4Jg",
+  "sets": 3,
+  "reps": "8 min",
+  "restSec": 300,
+  "statLabels": [
+    "Skills",
+    "Practice Time",
+    "Review"
+  ]
+}

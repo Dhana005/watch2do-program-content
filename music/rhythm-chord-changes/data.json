@@ -1,0 +1,27 @@
+{
+  "id": "rhythm-chord-changes",
+  "name": "Rhythm & Chord Change Essentials",
+  "level": "Beginner",
+  "durationLabel": "2-4 min",
+  "equipment": "A guitar",
+  "primaryMuscle": "Rhythm",
+  "secondaryMuscles": [
+    "Chord Changes",
+    "Timing"
+  ],
+  "instructions": [
+    "Practice switching to and from your D chord slowly, aiming for a clean sound each time rather than speed.",
+    "Count out loud (\"1-2-3-4\") while strumming to build a steady internal sense of rhythm.",
+    "It is normal for chord changes to feel slow and clumsy for the first couple weeks -- muscle memory builds with repetition, not effort alone.",
+    "Watch today's short video on rhythm and chord-change essentials."
+  ],
+  "videoId": "zfBkJggF9aU",
+  "sets": 3,
+  "reps": "2 min",
+  "restSec": 300,
+  "statLabels": [
+    "Skills",
+    "Practice Time",
+    "Review"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "first-chord-d",
+  "name": "Your First Chord: D",
+  "level": "Beginner",
+  "durationLabel": "7-9 min",
+  "equipment": "A guitar",
+  "primaryMuscle": "Open Chords",
+  "secondaryMuscles": [
+    "D Chord",
+    "Finger Placement"
+  ],
+  "instructions": [
+    "The D chord uses three fingers on the top three strings (D, G, B) -- take it slow and check each string rings out clearly.",
+    "Press just behind the fret, not directly on top of it, for the cleanest sound with the least effort.",
+    "Strum only the bottom four strings (D-G-B-E) for this chord -- the low E and A strings are not part of it.",
+    "Watch today's video for a clear walkthrough of the D chord shape."
+  ],
+  "videoId": "yh6sPqDEZCY",
+  "sets": 3,
+  "reps": "7 min",
+  "restSec": 300,
+  "statLabels": [
+    "Skills",
+    "Practice Time",
+    "Review"
+  ]
+}

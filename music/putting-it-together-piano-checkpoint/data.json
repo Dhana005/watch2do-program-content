@@ -1,0 +1,27 @@
+{
+  "id": "putting-it-together-piano-checkpoint",
+  "name": "Putting It All Together (Checkpoint)",
+  "level": "Beginner",
+  "durationLabel": "8-10 min",
+  "equipment": "A piano or keyboard",
+  "primaryMuscle": "Piano Fundamentals",
+  "secondaryMuscles": [
+    "Integration",
+    "Progress Check"
+  ],
+  "instructions": [
+    "Revisit Day 1's posture and hand position -- most beginners naturally improve this without noticing over a few weeks.",
+    "Play through one full song from memory if you can, even slowly, as a genuine progress check.",
+    "Set your next goal now: a new song, a new scale, or two-hand coordination, so momentum carries past this program.",
+    "Revisit today's getting-started video as a checkpoint before the final days."
+  ],
+  "videoId": "827jmswqnEA",
+  "sets": 3,
+  "reps": "8 min",
+  "restSec": 300,
+  "statLabels": [
+    "Skills",
+    "Practice Time",
+    "Review"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "easiest-two-chords",
+  "name": "The Easiest 2 Chords on Guitar",
+  "level": "Beginner",
+  "durationLabel": "17-20 min",
+  "equipment": "A guitar",
+  "primaryMuscle": "Open Chords",
+  "secondaryMuscles": [
+    "Em & G5 (or similar 2-finger shapes)",
+    "Beginner Chord Pairs"
+  ],
+  "instructions": [
+    "Some of the easiest guitar chords use just one or two fingers -- great for building confidence before tackling full four-finger shapes.",
+    "Practice switching between your new easy chord and the D chord from Day 2, alternating every four counts.",
+    "Keep your fretting fingers curved, not flat, so each finger presses only its own string.",
+    "Watch today's video for the easiest two-chord shapes to start with."
+  ],
+  "videoId": "sLSFOCyNC8Q",
+  "sets": 3,
+  "reps": "17 min",
+  "restSec": 300,
+  "statLabels": [
+    "Skills",
+    "Practice Time",
+    "Review"
+  ]
+}

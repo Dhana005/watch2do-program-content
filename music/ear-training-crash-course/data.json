@@ -1,0 +1,27 @@
+{
+  "id": "ear-training-crash-course",
+  "name": "Ear Training Crash Course",
+  "level": "Beginner",
+  "durationLabel": "12-14 min",
+  "equipment": "A guitar (optional)",
+  "primaryMuscle": "Ear Training",
+  "secondaryMuscles": [
+    "Pitch Recognition",
+    "Applied Practice"
+  ],
+  "instructions": [
+    "Build on yesterday with slightly harder listening exercises -- identifying chord changes by ear, not just single notes.",
+    "Practice a little daily rather than a long session occasionally; ear training compounds with consistency.",
+    "Do not worry about being wrong often at first -- this is one of the slowest-building skills in music, even for experienced players.",
+    "Watch today's crash course video for more structured ear training."
+  ],
+  "videoId": "TZyQKqOr1sg",
+  "sets": 3,
+  "reps": "12 min",
+  "restSec": 300,
+  "statLabels": [
+    "Skills",
+    "Practice Time",
+    "Review"
+  ]
+}

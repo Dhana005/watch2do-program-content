@@ -1,0 +1,27 @@
+{
+  "id": "music-theory-for-pianists",
+  "name": "Music Theory for Pianists",
+  "level": "Beginner",
+  "durationLabel": "8-10 min",
+  "equipment": "A piano or keyboard (optional for this lesson)",
+  "primaryMuscle": "Music Theory",
+  "secondaryMuscles": [
+    "Scales & Keys",
+    "Foundations"
+  ],
+  "instructions": [
+    "A \"key\" is a set of notes and chords that naturally sound good together -- it is why certain chord combinations feel so at home in a song.",
+    "The white-key-only C major scale corresponds to the \"key of C,\" the simplest key to start recognizing.",
+    "You do not need deep theory to enjoy playing, but understanding keys makes learning new songs and improvising far more intuitive.",
+    "Watch today's video for a beginner's guide to music theory."
+  ],
+  "videoId": "n2z02J4fJwg",
+  "sets": 3,
+  "reps": "8 min",
+  "restSec": 300,
+  "statLabels": [
+    "Skills",
+    "Practice Time",
+    "Review"
+  ]
+}

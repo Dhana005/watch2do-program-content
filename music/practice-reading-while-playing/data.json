@@ -1,0 +1,27 @@
+{
+  "id": "practice-reading-while-playing",
+  "name": "Practice: Reading Music While Playing",
+  "level": "Beginner",
+  "durationLabel": "10-12 min",
+  "equipment": "A piano or keyboard and simple sheet music",
+  "primaryMuscle": "Music Reading",
+  "secondaryMuscles": [
+    "Notation Basics",
+    "Applied Practice"
+  ],
+  "instructions": [
+    "Find a very simple piece of sheet music (even a few-note beginner exercise) and try to follow along as you play.",
+    "Go slowly, note by note if needed -- fluent sight-reading takes months of regular practice to build.",
+    "It is completely fine to lean on your ear alongside the notation at this stage; both skills reinforce each other.",
+    "Revisit yesterday's notation video as a reference."
+  ],
+  "videoId": "-dgrr28NXdU",
+  "sets": 3,
+  "reps": "10 min",
+  "restSec": 300,
+  "statLabels": [
+    "Skills",
+    "Practice Time",
+    "Review"
+  ]
+}

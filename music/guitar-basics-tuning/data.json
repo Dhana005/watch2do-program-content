@@ -1,0 +1,27 @@
+{
+  "id": "guitar-basics-tuning",
+  "name": "Guitar Basics & Tuning",
+  "level": "Beginner",
+  "durationLabel": "12-15 min",
+  "equipment": "An acoustic or electric guitar, and a tuner (app or clip-on)",
+  "primaryMuscle": "Guitar Fundamentals",
+  "secondaryMuscles": [
+    "Tuning",
+    "Getting Started"
+  ],
+  "instructions": [
+    "Standard guitar tuning, low to high string, is E-A-D-G-B-E -- memorize this order before anything else.",
+    "Use a clip-on tuner or a tuning app so every practice session starts from an in-tune instrument; an out-of-tune guitar makes even correct chords sound wrong.",
+    "Get comfortable with basic posture: guitar body resting on your right leg (or left, if left-handed), neck angled slightly up.",
+    "Watch today's video for an overview of beginner guitar chords before your first lesson."
+  ],
+  "videoId": "R_qmvyUDvEc",
+  "sets": 3,
+  "reps": "12 min",
+  "restSec": 300,
+  "statLabels": [
+    "Skills",
+    "Practice Time",
+    "Review"
+  ]
+}

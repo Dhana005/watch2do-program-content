@@ -1,0 +1,27 @@
+{
+  "id": "how-to-play-piano-basics",
+  "name": "How to Play Piano: The Basics",
+  "level": "Beginner",
+  "durationLabel": "15-18 min",
+  "equipment": "A piano or keyboard",
+  "primaryMuscle": "Piano Fundamentals",
+  "secondaryMuscles": [
+    "Note Reading",
+    "Getting Started"
+  ],
+  "instructions": [
+    "Learn the natural note names (A through G) repeating up the keyboard, and how the two-and-three black key groups help you find them.",
+    "Practice finding C, D, and E with your right hand without looking down, using the black key groups as landmarks.",
+    "Play each note slowly with a relaxed hand, listening closely to the tone you produce.",
+    "Watch today's video for a full beginner piano lesson."
+  ],
+  "videoId": "tEtukfFv3Wk",
+  "sets": 3,
+  "reps": "15 min",
+  "restSec": 300,
+  "statLabels": [
+    "Skills",
+    "Practice Time",
+    "Review"
+  ]
+}

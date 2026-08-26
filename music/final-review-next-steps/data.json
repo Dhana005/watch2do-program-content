@@ -1,0 +1,27 @@
+{
+  "id": "final-review-next-steps",
+  "name": "Final Review & Next Steps",
+  "level": "Beginner",
+  "durationLabel": "15-18 min",
+  "equipment": "A piano or keyboard",
+  "primaryMuscle": "Piano Fundamentals",
+  "secondaryMuscles": [
+    "Comprehensive Review",
+    "Next Steps"
+  ],
+  "instructions": [
+    "Thirty days in, you should be able to play the C major scale, several chords, and at least one full song -- real, usable piano skills.",
+    "Pick a concrete next step (a new scale, reading music more fluently, a harder song) to keep momentum going.",
+    "Consistency beats intensity from here -- even 10-15 minutes a day keeps you improving.",
+    "Revisit today's chord series video as a close to the program -- the vocabulary it built is what everything else was based on."
+  ],
+  "videoId": "CQ8_Mn8sQa0",
+  "sets": 4,
+  "reps": "15 min",
+  "restSec": 300,
+  "statLabels": [
+    "Skills",
+    "Practice Time",
+    "Review"
+  ]
+}

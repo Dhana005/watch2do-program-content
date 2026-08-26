@@ -1,0 +1,27 @@
+{
+  "id": "practice-strumming-patterns",
+  "name": "Practice: Strumming Patterns",
+  "level": "Beginner",
+  "durationLabel": "12-14 min",
+  "equipment": "A guitar",
+  "primaryMuscle": "Strumming",
+  "secondaryMuscles": [
+    "Rhythm Variety",
+    "Applied Practice"
+  ],
+  "instructions": [
+    "Pick two patterns from yesterday and alternate between them every four bars while holding one steady chord.",
+    "Record yourself for 30 seconds and listen back -- it is often easier to hear timing issues than to feel them while playing.",
+    "Relax your strumming hand between attempts; tension builds up fast when learning something new.",
+    "Revisit yesterday's pattern video as a reference."
+  ],
+  "videoId": "hzC0orOGARw",
+  "sets": 4,
+  "reps": "12 min",
+  "restSec": 300,
+  "statLabels": [
+    "Skills",
+    "Practice Time",
+    "Review"
+  ]
+}

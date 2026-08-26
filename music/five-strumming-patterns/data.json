@@ -1,0 +1,27 @@
+{
+  "id": "five-strumming-patterns",
+  "name": "5 Essential Strumming Patterns",
+  "level": "Beginner",
+  "durationLabel": "12-14 min",
+  "equipment": "A guitar",
+  "primaryMuscle": "Strumming",
+  "secondaryMuscles": [
+    "Rhythm Variety",
+    "Pattern Vocabulary"
+  ],
+  "instructions": [
+    "Different songs call for different strumming feels -- today introduces four more patterns beyond your first one.",
+    "Learn each pattern slowly and separately before trying to switch between them mid-song.",
+    "Notice how the same chord progression can sound completely different depending only on the strumming pattern used.",
+    "Watch today's video for five essential patterns to build your repertoire."
+  ],
+  "videoId": "hzC0orOGARw",
+  "sets": 5,
+  "reps": "12 min",
+  "restSec": 300,
+  "statLabels": [
+    "Skills",
+    "Practice Time",
+    "Review"
+  ]
+}

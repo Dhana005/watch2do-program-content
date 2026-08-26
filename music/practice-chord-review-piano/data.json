@@ -1,0 +1,27 @@
+{
+  "id": "practice-chord-review-piano",
+  "name": "Practice: Chord Review",
+  "level": "Beginner",
+  "durationLabel": "10-12 min",
+  "equipment": "A piano or keyboard",
+  "primaryMuscle": "Chords",
+  "secondaryMuscles": [
+    "Chord Vocabulary",
+    "Applied Practice"
+  ],
+  "instructions": [
+    "Cycle through every chord you have learned this week, playing each one slowly and checking the sound.",
+    "Practice switching between two random chords for one minute, aiming for clean, connected changes.",
+    "Notice which specific chord still feels awkward, and give it a few extra minutes of isolated practice.",
+    "Revisit today's chord lesson video as a reference."
+  ],
+  "videoId": "CQ8_Mn8sQa0",
+  "sets": 4,
+  "reps": "10 min",
+  "restSec": 300,
+  "statLabels": [
+    "Skills",
+    "Practice Time",
+    "Review"
+  ]
+}

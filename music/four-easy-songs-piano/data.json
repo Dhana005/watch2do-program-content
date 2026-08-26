@@ -1,0 +1,27 @@
+{
+  "id": "four-easy-songs-piano",
+  "name": "4 Easy Songs for Beginners",
+  "level": "Beginner",
+  "durationLabel": "14-16 min",
+  "equipment": "A piano or keyboard",
+  "primaryMuscle": "Repertoire",
+  "secondaryMuscles": [
+    "Song Application",
+    "Motivation"
+  ],
+  "instructions": [
+    "Playing a real, recognizable song is one of the best motivators in early piano practice.",
+    "Pick one of today's four songs that uses chords or notes you already recognize from earlier lessons.",
+    "Play through slowly for accuracy first, then gradually increase toward the song's real tempo.",
+    "Watch today's video for four genuinely easy beginner songs."
+  ],
+  "videoId": "9U61gnK8JEk",
+  "sets": 3,
+  "reps": "14 min",
+  "restSec": 300,
+  "statLabels": [
+    "Skills",
+    "Practice Time",
+    "Review"
+  ]
+}

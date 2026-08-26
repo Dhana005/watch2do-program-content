@@ -1,0 +1,27 @@
+{
+  "id": "using-scales-in-songs",
+  "name": "How to Use Scales in Any Song",
+  "level": "Beginner",
+  "durationLabel": "9-11 min",
+  "equipment": "A piano or keyboard",
+  "primaryMuscle": "Scales",
+  "secondaryMuscles": [
+    "Applied Theory",
+    "Melody"
+  ],
+  "instructions": [
+    "Scales are not just finger exercises -- most simple melodies are built almost entirely from a single scale.",
+    "Try picking out a simple, familiar tune by ear using only the notes of the C major scale.",
+    "Notice how staying \"inside\" the scale makes almost anything you play sound reasonably musical.",
+    "Watch today's video for how scales connect directly to real songs."
+  ],
+  "videoId": "jMdBsme67q0",
+  "sets": 3,
+  "reps": "9 min",
+  "restSec": 300,
+  "statLabels": [
+    "Skills",
+    "Practice Time",
+    "Review"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "absolute-beginner-start-here",
+  "name": "Absolute Beginner? Start Here",
+  "level": "Beginner",
+  "durationLabel": "15-18 min",
+  "equipment": "A guitar",
+  "primaryMuscle": "Guitar Fundamentals",
+  "secondaryMuscles": [
+    "Foundations",
+    "Free Starter Course"
+  ],
+  "instructions": [
+    "Revisit the fundamentals with fresh eyes now that a week of practice is behind you -- small technique details make more sense once your fingers have some experience.",
+    "Check your grip, thumb position, and posture again; bad habits are much easier to fix now than after months of practice.",
+    "Notice which chords or motions from week one now feel easier than they did on Day 1.",
+    "Watch today's video, part of a free 10-day beginner starter course."
+  ],
+  "videoId": "BBz-Jyr23M4",
+  "sets": 3,
+  "reps": "15 min",
+  "restSec": 300,
+  "statLabels": [
+    "Skills",
+    "Practice Time",
+    "Review"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "practice-chord-changes-2",
+  "name": "Practice: Chord Changes",
+  "level": "Beginner",
+  "durationLabel": "10-12 min",
+  "equipment": "A guitar",
+  "primaryMuscle": "Open Chords",
+  "secondaryMuscles": [
+    "Chord Vocabulary",
+    "Applied Practice"
+  ],
+  "instructions": [
+    "Pick two chords from yesterday's video and practice switching cleanly between them for five minutes.",
+    "Slow down whenever a change sounds muddy -- speed only helps once the motion is already accurate.",
+    "Try changing chords without looking at your fretting hand, to start building it into muscle memory.",
+    "Revisit yesterday's chord video as a reference while you practice."
+  ],
+  "videoId": "MUO62tLSjPc",
+  "sets": 4,
+  "reps": "10 min",
+  "restSec": 300,
+  "statLabels": [
+    "Skills",
+    "Practice Time",
+    "Review"
+  ]
+}

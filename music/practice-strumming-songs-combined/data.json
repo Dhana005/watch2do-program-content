@@ -1,0 +1,27 @@
+{
+  "id": "practice-strumming-songs-combined",
+  "name": "Practice: Strumming & Songs Combined",
+  "level": "Beginner",
+  "durationLabel": "15-18 min",
+  "equipment": "A guitar",
+  "primaryMuscle": "Repertoire",
+  "secondaryMuscles": [
+    "Song Application",
+    "Integration"
+  ],
+  "instructions": [
+    "Pick a song from Day 16 or 17 and try applying a different strumming pattern from Day 13 to it.",
+    "Notice how changing the strumming pattern changes the song's feel, even with the exact same chords.",
+    "This kind of mixing and matching is exactly what real songwriting and playing involves.",
+    "Revisit today's song video for reference."
+  ],
+  "videoId": "Jg-BRpn38L8",
+  "sets": 3,
+  "reps": "15 min",
+  "restSec": 300,
+  "statLabels": [
+    "Skills",
+    "Practice Time",
+    "Review"
+  ]
+}

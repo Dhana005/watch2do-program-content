@@ -1,0 +1,27 @@
+{
+  "id": "review-chords-scales",
+  "name": "Review: Chords & Scales",
+  "level": "Beginner",
+  "durationLabel": "15-18 min",
+  "equipment": "A piano or keyboard",
+  "primaryMuscle": "Piano Fundamentals",
+  "secondaryMuscles": [
+    "Comprehensive Review",
+    "Applied Practice"
+  ],
+  "instructions": [
+    "Spend today reviewing across everything so far: chord shapes, the C major scale, and any songs you have learned.",
+    "Notice which area (chords, scales, or two-hand coordination) still feels weakest, and plan extra time there going forward.",
+    "Play through the C major scale once more, then transition directly into a chord you know.",
+    "Revisit today's beginner piano video as a reminder of how far you have come since Day 2."
+  ],
+  "videoId": "tEtukfFv3Wk",
+  "sets": 4,
+  "reps": "15 min",
+  "restSec": 300,
+  "statLabels": [
+    "Skills",
+    "Practice Time",
+    "Review"
+  ]
+}

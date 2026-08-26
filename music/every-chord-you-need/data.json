@@ -1,0 +1,27 @@
+{
+  "id": "every-chord-you-need",
+  "name": "Every Guitar Chord You Need to Know",
+  "level": "Beginner",
+  "durationLabel": "8-10 min",
+  "equipment": "A guitar",
+  "primaryMuscle": "Open Chords",
+  "secondaryMuscles": [
+    "Chord Vocabulary",
+    "Beginner to Intermediate"
+  ],
+  "instructions": [
+    "Expand beyond your first two chords toward a fuller set of open chords (C, G, A, E, Em, Am, D) used in the vast majority of beginner songs.",
+    "Learn one new chord shape today and drill it in isolation before combining it with others.",
+    "Build a simple reference chart (chord name + finger positions) to check yourself against as you learn each new shape.",
+    "Watch today's video for a full rundown of the essential chord vocabulary."
+  ],
+  "videoId": "MUO62tLSjPc",
+  "sets": 5,
+  "reps": "8 min",
+  "restSec": 300,
+  "statLabels": [
+    "Skills",
+    "Practice Time",
+    "Review"
+  ]
+}

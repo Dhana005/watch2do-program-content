@@ -1,0 +1,27 @@
+{
+  "id": "first-strumming-pattern",
+  "name": "Your First Strumming Pattern Ever",
+  "level": "Beginner",
+  "durationLabel": "4-6 min",
+  "equipment": "A guitar",
+  "primaryMuscle": "Strumming",
+  "secondaryMuscles": [
+    "Rhythm Patterns",
+    "Foundations"
+  ],
+  "instructions": [
+    "A basic strumming pattern (down, down, up, up, down, up) is the backbone of most beginner songs.",
+    "Practice the pattern on a muted (unfretted) guitar first, focusing purely on the arm motion before adding chords.",
+    "Keep your strumming arm loose from the elbow, not stiff from the wrist -- tension is the most common beginner strumming mistake.",
+    "Watch today's video for your very first strumming pattern."
+  ],
+  "videoId": "n45PDizCRLw",
+  "sets": 3,
+  "reps": "4 min",
+  "restSec": 300,
+  "statLabels": [
+    "Skills",
+    "Practice Time",
+    "Review"
+  ]
+}

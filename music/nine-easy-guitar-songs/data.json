@@ -1,0 +1,27 @@
+{
+  "id": "nine-easy-guitar-songs",
+  "name": "9 Super Easy Guitar Songs",
+  "level": "Beginner",
+  "durationLabel": "12-14 min",
+  "equipment": "A guitar",
+  "primaryMuscle": "Repertoire",
+  "secondaryMuscles": [
+    "Song Application",
+    "Motivation"
+  ],
+  "instructions": [
+    "Playing full, recognizable songs is one of the best motivators in early practice -- today is entirely about application.",
+    "Pick one song from the video that uses chords you already know, and focus on that one rather than trying all nine.",
+    "Play through slowly first for accuracy, then gradually bring it up toward the song's real tempo.",
+    "Watch today's video for nine genuinely easy songs to try."
+  ],
+  "videoId": "TeL0x4kv-o8",
+  "sets": 3,
+  "reps": "12 min",
+  "restSec": 300,
+  "statLabels": [
+    "Skills",
+    "Practice Time",
+    "Review"
+  ]
+}

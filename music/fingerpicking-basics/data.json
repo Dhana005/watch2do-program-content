@@ -1,0 +1,27 @@
+{
+  "id": "fingerpicking-basics",
+  "name": "Fingerpicking for Beginners",
+  "level": "Beginner",
+  "durationLabel": "11-13 min",
+  "equipment": "A guitar",
+  "primaryMuscle": "Fingerstyle",
+  "secondaryMuscles": [
+    "Fingerpicking",
+    "Technique"
+  ],
+  "instructions": [
+    "Fingerpicking uses your thumb and fingers to pluck individual strings instead of strumming all of them together.",
+    "Start with a simple thumb-index-middle-ring pattern on a single chord before trying to change chords while fingerpicking.",
+    "Keep your picking-hand wrist relaxed and slightly arched, not flat against the guitar body.",
+    "Watch today's video for a 12-minute introduction to fingerpicking."
+  ],
+  "videoId": "Z7xm_juNcPY",
+  "sets": 3,
+  "reps": "11 min",
+  "restSec": 300,
+  "statLabels": [
+    "Skills",
+    "Practice Time",
+    "Review"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "practice-full-song",
+  "name": "Practice: Play a Full Song",
+  "level": "Beginner",
+  "durationLabel": "15-18 min",
+  "equipment": "A guitar",
+  "primaryMuscle": "Repertoire",
+  "secondaryMuscles": [
+    "Song Application",
+    "Applied Practice"
+  ],
+  "instructions": [
+    "Play your chosen song from yesterday start to finish, even slowly and imperfectly -- completing it matters more than a flawless take.",
+    "Isolate any one tricky transition and loop just that section a few extra times.",
+    "Notice how much easier this song feels compared to your very first attempt at any chord, back on Day 2.",
+    "Revisit yesterday's song video for reference."
+  ],
+  "videoId": "TeL0x4kv-o8",
+  "sets": 3,
+  "reps": "15 min",
+  "restSec": 300,
+  "statLabels": [
+    "Skills",
+    "Practice Time",
+    "Review"
+  ]
+}

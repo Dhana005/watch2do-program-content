@@ -1,0 +1,27 @@
+{
+  "id": "reading-sheet-music-guitar",
+  "name": "Reading Sheet Music for Guitar",
+  "level": "Beginner",
+  "durationLabel": "4-6 min",
+  "equipment": "A guitar and sheet music or tab (optional)",
+  "primaryMuscle": "Music Reading",
+  "secondaryMuscles": [
+    "Notation Basics",
+    "Tab vs. Standard Notation"
+  ],
+  "instructions": [
+    "Most guitarists start with tablature (tab) -- a simplified notation showing which string and fret to play, rather than standard notation.",
+    "Standard notation (the staff with notes) is useful longer-term for reading music shared across instruments.",
+    "You do not need to master either to keep playing and enjoying guitar, but recognizing basic tab will help you learn new songs faster.",
+    "Watch today's video for an introduction to reading sheet music."
+  ],
+  "videoId": "-dgrr28NXdU",
+  "sets": 3,
+  "reps": "4 min",
+  "restSec": 300,
+  "statLabels": [
+    "Skills",
+    "Practice Time",
+    "Review"
+  ]
+}

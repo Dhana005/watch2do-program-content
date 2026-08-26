@@ -1,0 +1,27 @@
+{
+  "id": "practice-chord-review",
+  "name": "Practice: Chord Review",
+  "level": "Beginner",
+  "durationLabel": "10-12 min",
+  "equipment": "A guitar",
+  "primaryMuscle": "Open Chords",
+  "secondaryMuscles": [
+    "Chord Vocabulary",
+    "Applied Practice"
+  ],
+  "instructions": [
+    "Cycle through every chord you have learned so far, checking that each one still rings out cleanly.",
+    "Time yourself changing between two random chords repeatedly for one minute, and track how many clean changes you get.",
+    "Revisit any chord that still feels shaky with a few extra minutes of isolated practice.",
+    "Revisit today's chord vocabulary video as a reference."
+  ],
+  "videoId": "MUO62tLSjPc",
+  "sets": 5,
+  "reps": "10 min",
+  "restSec": 300,
+  "statLabels": [
+    "Skills",
+    "Practice Time",
+    "Review"
+  ]
+}

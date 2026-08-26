@@ -1,0 +1,27 @@
+{
+  "id": "putting-it-all-together-guitar",
+  "name": "Putting It All Together",
+  "level": "Beginner",
+  "durationLabel": "12-15 min",
+  "equipment": "A guitar",
+  "primaryMuscle": "Guitar Fundamentals",
+  "secondaryMuscles": [
+    "Integration",
+    "Next Steps"
+  ],
+  "instructions": [
+    "Thirty days in, you should be able to hold several open chords, strum in time, and play at least one full song -- real, usable guitar skills.",
+    "Set your next goal now: a new song, a barre chord, or a new strumming pattern, so momentum carries past this program.",
+    "Consistency beats intensity -- even 10-15 minutes a day will keep you improving from here.",
+    "Revisit today's opening video as a close to the program -- the fundamentals it covers are what everything else was built on."
+  ],
+  "videoId": "R_qmvyUDvEc",
+  "sets": 4,
+  "reps": "12 min",
+  "restSec": 300,
+  "statLabels": [
+    "Skills",
+    "Practice Time",
+    "Review"
+  ]
+}

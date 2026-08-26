@@ -1,0 +1,27 @@
+{
+  "id": "ear-training-basics",
+  "name": "Basic Ear Training Exercises",
+  "level": "Beginner",
+  "durationLabel": "8-10 min",
+  "equipment": "A guitar (optional)",
+  "primaryMuscle": "Ear Training",
+  "secondaryMuscles": [
+    "Pitch Recognition",
+    "Listening Skills"
+  ],
+  "instructions": [
+    "Ear training builds your ability to recognize notes, intervals, and chords by sound alone -- a skill that compounds over months of practice.",
+    "Try playing two notes and guessing whether the second is higher or lower before checking -- the simplest possible ear-training exercise.",
+    "Sing back a note you just played on the guitar; connecting your voice to what you hear strengthens the skill faster.",
+    "Watch today's video for basic ear training exercises for complete beginners."
+  ],
+  "videoId": "Wzqa44N-sIU",
+  "sets": 3,
+  "reps": "8 min",
+  "restSec": 300,
+  "statLabels": [
+    "Skills",
+    "Practice Time",
+    "Review"
+  ]
+}

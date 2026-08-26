@@ -1,0 +1,27 @@
+{
+  "id": "review-chords-strumming-songs",
+  "name": "Review: Chords, Strumming & Songs",
+  "level": "Beginner",
+  "durationLabel": "18-20 min",
+  "equipment": "A guitar",
+  "primaryMuscle": "Guitar Fundamentals",
+  "secondaryMuscles": [
+    "Comprehensive Review",
+    "Applied Practice"
+  ],
+  "instructions": [
+    "Spend today reviewing across everything so far: chord shapes, strumming patterns, and full songs.",
+    "Notice which area (chords, rhythm, or song application) still feels weakest, and plan to spend extra time there going forward.",
+    "Play through your full setlist from yesterday one more time, focusing on smooth chord changes throughout.",
+    "Revisit today's video on the easiest two-chord shapes as a reminder of how far you have come since Day 5."
+  ],
+  "videoId": "sLSFOCyNC8Q",
+  "sets": 4,
+  "reps": "18 min",
+  "restSec": 300,
+  "statLabels": [
+    "Skills",
+    "Practice Time",
+    "Review"
+  ]
+}

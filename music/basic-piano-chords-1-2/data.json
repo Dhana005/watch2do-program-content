@@ -1,0 +1,27 @@
+{
+  "id": "basic-piano-chords-1-2",
+  "name": "Basic Piano Chords, Lessons 1-2",
+  "level": "Beginner",
+  "durationLabel": "15-18 min",
+  "equipment": "A piano or keyboard",
+  "primaryMuscle": "Chords",
+  "secondaryMuscles": [
+    "Chord Vocabulary",
+    "Structured Lessons"
+  ],
+  "instructions": [
+    "Today introduces a structured first set of common beginner chords beyond just C and G.",
+    "Learn each new chord slowly, checking your finger positions against the video before moving faster.",
+    "Practice switching between two of today's new chords, aiming for smoothness over speed.",
+    "Watch the first two lessons of today's full video series."
+  ],
+  "videoId": "CQ8_Mn8sQa0",
+  "sets": 4,
+  "reps": "15 min",
+  "restSec": 300,
+  "statLabels": [
+    "Skills",
+    "Practice Time",
+    "Review"
+  ]
+}

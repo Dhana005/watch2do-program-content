@@ -1,0 +1,27 @@
+{
+  "id": "getting-started-piano",
+  "name": "Getting Started at the Piano",
+  "level": "Beginner",
+  "durationLabel": "8-10 min",
+  "equipment": "A piano or keyboard (61+ keys recommended)",
+  "primaryMuscle": "Piano Fundamentals",
+  "secondaryMuscles": [
+    "Posture & Hand Position",
+    "Getting Started"
+  ],
+  "instructions": [
+    "Sit with your bench height set so your forearms are roughly level with the keys, elbows close to your body.",
+    "Find middle C: it is the C key nearest the center of a full keyboard, just left of the group of two black keys.",
+    "Curve your fingers naturally, as if gently holding a ball, rather than playing with flat, stiff fingers.",
+    "Watch today's video for a full walkthrough of getting started."
+  ],
+  "videoId": "827jmswqnEA",
+  "sets": 3,
+  "reps": "8 min",
+  "restSec": 300,
+  "statLabels": [
+    "Skills",
+    "Practice Time",
+    "Review"
+  ]
+}

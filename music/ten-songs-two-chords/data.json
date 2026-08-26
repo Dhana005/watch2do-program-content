@@ -1,0 +1,27 @@
+{
+  "id": "ten-songs-two-chords",
+  "name": "Play Ten Songs with Two Easy Chords",
+  "level": "Beginner",
+  "durationLabel": "15-18 min",
+  "equipment": "A guitar",
+  "primaryMuscle": "Repertoire",
+  "secondaryMuscles": [
+    "Song Application",
+    "Chord Pairs"
+  ],
+  "instructions": [
+    "Real songs often repeat the same 2-3 chords throughout -- today puts your two chords from this week to immediate use.",
+    "Play along slowly at first, prioritizing clean chord changes over matching the original tempo exactly.",
+    "Notice how the same two chords sound completely different across different songs, depending on rhythm and strumming pattern.",
+    "Watch today's video for ten real songs built on just two chords."
+  ],
+  "videoId": "Jg-BRpn38L8",
+  "sets": 4,
+  "reps": "15 min",
+  "restSec": 300,
+  "statLabels": [
+    "Skills",
+    "Practice Time",
+    "Review"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "practice-another-easy-song",
+  "name": "Practice: Another Easy Song",
+  "level": "Beginner",
+  "durationLabel": "15-18 min",
+  "equipment": "A piano or keyboard",
+  "primaryMuscle": "Repertoire",
+  "secondaryMuscles": [
+    "Song Application",
+    "Applied Practice"
+  ],
+  "instructions": [
+    "Pick a second song from Day 13's video, different from the one you learned then.",
+    "Notice how much faster you pick it up this time compared to your first song -- that is real progress, not just repetition.",
+    "Try adding a left-hand chord accompaniment if the song allows for it.",
+    "Revisit today's song video for reference."
+  ],
+  "videoId": "9U61gnK8JEk",
+  "sets": 3,
+  "reps": "15 min",
+  "restSec": 300,
+  "statLabels": [
+    "Skills",
+    "Practice Time",
+    "Review"
+  ]
+}

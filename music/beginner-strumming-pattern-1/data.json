@@ -1,0 +1,27 @@
+{
+  "id": "beginner-strumming-pattern-1",
+  "name": "Beginner Strumming Pattern 1",
+  "level": "Beginner",
+  "durationLabel": "6-8 min",
+  "equipment": "A guitar",
+  "primaryMuscle": "Strumming",
+  "secondaryMuscles": [
+    "Rhythm Patterns",
+    "Applied Practice"
+  ],
+  "instructions": [
+    "Now add yesterday's pattern to an actual chord (D or one of your easy 2-finger chords) and strum it slowly.",
+    "Use a metronome or the video's beat as your guide -- rhythm accuracy matters more than speed at this stage.",
+    "If the pattern falls apart when you add a chord, go back to muting the strings and rebuild the motion.",
+    "Watch today's video for a full walkthrough of this pattern."
+  ],
+  "videoId": "ely9LaJJJr4",
+  "sets": 3,
+  "reps": "6 min",
+  "restSec": 300,
+  "statLabels": [
+    "Skills",
+    "Practice Time",
+    "Review"
+  ]
+}

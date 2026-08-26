@@ -1,0 +1,84 @@
+{
+  "programId": "prog-music-alt",
+  "title": "Piano for Beginners",
+  "days": {
+    "1": [
+      "getting-started-piano"
+    ],
+    "2": [
+      "how-to-play-piano-basics"
+    ],
+    "3": [
+      "simple-chords-rhythms"
+    ],
+    "4": [
+      "play-any-chord"
+    ],
+    "5": [
+      "basic-piano-chords-1-2"
+    ],
+    "6": [
+      "practice-chord-review-piano"
+    ],
+    "8": [
+      "piano-scales-beginner"
+    ],
+    "9": [
+      "practice-scales"
+    ],
+    "10": [
+      "twelve-major-scales"
+    ],
+    "11": [
+      "using-scales-in-songs"
+    ],
+    "12": [
+      "practice-scales-in-song"
+    ],
+    "13": [
+      "four-easy-songs-piano"
+    ],
+    "15": [
+      "practice-full-song-piano"
+    ],
+    "16": [
+      "chord-rhythm-combos"
+    ],
+    "17": [
+      "practice-combining-chords-rhythm"
+    ],
+    "18": [
+      "music-theory-for-pianists"
+    ],
+    "19": [
+      "ear-training-basics-piano"
+    ],
+    "20": [
+      "ear-training-crash-course-piano"
+    ],
+    "22": [
+      "reading-sheet-music-piano"
+    ],
+    "23": [
+      "practice-reading-while-playing"
+    ],
+    "24": [
+      "basic-piano-chords-3-6"
+    ],
+    "25": [
+      "practice-another-easy-song"
+    ],
+    "26": [
+      "review-chords-scales"
+    ],
+    "27": [
+      "putting-it-together-piano-checkpoint"
+    ],
+    "29": [
+      "practice-full-run-through"
+    ],
+    "30": [
+      "final-review-next-steps"
+    ]
+  }
+}

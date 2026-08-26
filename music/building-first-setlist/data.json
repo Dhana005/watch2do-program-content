@@ -1,0 +1,27 @@
+{
+  "id": "building-first-setlist",
+  "name": "Building Your First Setlist",
+  "level": "Beginner",
+  "durationLabel": "12-14 min",
+  "equipment": "A guitar",
+  "primaryMuscle": "Repertoire",
+  "secondaryMuscles": [
+    "Song Selection",
+    "Confidence Building"
+  ],
+  "instructions": [
+    "Choose 2-3 songs you can play reasonably well and consider them your first \"setlist\" -- songs you could play for someone else.",
+    "Practice transitioning from one song directly into the next without a long pause.",
+    "Play your setlist for someone (even just once) -- performing, even informally, is a different skill from practicing alone.",
+    "Watch today's video again for more easy song ideas to add to your list."
+  ],
+  "videoId": "TeL0x4kv-o8",
+  "sets": 3,
+  "reps": "12 min",
+  "restSec": 300,
+  "statLabels": [
+    "Skills",
+    "Practice Time",
+    "Review"
+  ]
+}

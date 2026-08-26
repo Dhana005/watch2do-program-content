@@ -1,0 +1,27 @@
+{
+  "id": "ear-training-basics-piano",
+  "name": "Basic Ear Training Exercises",
+  "level": "Beginner",
+  "durationLabel": "8-10 min",
+  "equipment": "A piano or keyboard",
+  "primaryMuscle": "Ear Training",
+  "secondaryMuscles": [
+    "Pitch Recognition",
+    "Listening Skills"
+  ],
+  "instructions": [
+    "Ear training builds your ability to recognize notes and chords by sound alone -- it compounds with consistent, short practice.",
+    "Play two notes and guess whether the second is higher or lower before checking -- the simplest ear-training exercise there is.",
+    "Try singing back a note you just played, connecting your voice to what you hear at the keyboard.",
+    "Watch today's video for basic ear training exercises for complete beginners."
+  ],
+  "videoId": "Wzqa44N-sIU",
+  "sets": 3,
+  "reps": "8 min",
+  "restSec": 300,
+  "statLabels": [
+    "Skills",
+    "Practice Time",
+    "Review"
+  ]
+}

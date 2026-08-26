@@ -1,0 +1,84 @@
+{
+  "programId": "prog-music",
+  "title": "Learn Guitar in 30 Days",
+  "days": {
+    "1": [
+      "guitar-basics-tuning"
+    ],
+    "2": [
+      "first-chord-d"
+    ],
+    "3": [
+      "rhythm-chord-changes"
+    ],
+    "4": [
+      "practice-d-chord-rhythm"
+    ],
+    "5": [
+      "easiest-two-chords"
+    ],
+    "6": [
+      "ten-songs-two-chords"
+    ],
+    "8": [
+      "absolute-beginner-start-here"
+    ],
+    "9": [
+      "every-chord-you-need"
+    ],
+    "10": [
+      "practice-chord-changes-2"
+    ],
+    "11": [
+      "first-strumming-pattern"
+    ],
+    "12": [
+      "beginner-strumming-pattern-1"
+    ],
+    "13": [
+      "five-strumming-patterns"
+    ],
+    "15": [
+      "practice-strumming-patterns"
+    ],
+    "16": [
+      "nine-easy-guitar-songs"
+    ],
+    "17": [
+      "practice-full-song"
+    ],
+    "18": [
+      "fingerpicking-basics"
+    ],
+    "19": [
+      "practice-fingerpicking"
+    ],
+    "20": [
+      "music-theory-for-guitarists"
+    ],
+    "22": [
+      "ear-training-basics"
+    ],
+    "23": [
+      "ear-training-crash-course"
+    ],
+    "24": [
+      "reading-sheet-music-guitar"
+    ],
+    "25": [
+      "practice-chord-review"
+    ],
+    "26": [
+      "practice-strumming-songs-combined"
+    ],
+    "27": [
+      "building-first-setlist"
+    ],
+    "29": [
+      "review-chords-strumming-songs"
+    ],
+    "30": [
+      "putting-it-all-together-guitar"
+    ]
+  }
+}

@@ -99,6 +99,20 @@ reading/{itemId}/
                # prog-reading-alt's 26 books since no per-novel video
                # exists). `icon` ('📖'/'📚') is the fallback.
 
+music/{lessonId}/
+  data.json    # same shape, no images. prog-music's 26 entries are a real
+               # guitar curriculum (tuning, open chords, strumming
+               # patterns, fingerpicking, theory/ear training/reading
+               # music); prog-music-alt's 26 are the equivalent real piano
+               # curriculum (hand position, chords, scales, two-hand
+               # coordination, theory/ear training/reading music).
+               # `videoId` reused from the already-audited `music` video
+               # pool, which splits cleanly into guitar-specific,
+               # piano-specific, and instrument-agnostic videos; several
+               # are reused across an intro/practice-day pairing since
+               # neither pool has 26 unique matches. `icon` ('🎸'/'🎹') is
+               # the fallback.
+
 programs/{programId}/
   manifest.json   # { programId, title, days: { "1": [id, ...], ... } }
 ```
@@ -188,6 +202,10 @@ script genuinely gets longer and deeper, not just repeated.
   correctly-attributed classic novels (Austen, Dickens, Dostoevsky,
   Tolstoy, Melville, and more) with real background and themes, all backed
   by the already-audited `reading` video pool.
+- `music/`: a real 26-lesson guitar curriculum (tuning through chords,
+  strumming, fingerpicking, theory) and a real 26-lesson piano curriculum
+  (hand position through chords, scales, two-hand coordination, theory),
+  both backed by the already-audited `music` video pool.
 - `programs/prog-weight/` (30-Day Fat Loss Challenge): all 26 workout days
   covered, 6 exercises each (156 slots). Days 1-20 use exercises unique to
   that stretch of the program; days 22-30 (Weeks 5-6) intentionally reuse
@@ -262,11 +280,16 @@ script genuinely gets longer and deeper, not just repeated.
   days covered, one real reading-skill technique per day.
 - `programs/prog-reading-alt/` (Classic Literature Club): all 26 workout
   days covered, one real classic novel per day, no repeats.
+- `programs/prog-music/` (Learn Guitar in 30 Days): all 26 workout days
+  covered, a real guitar curriculum from first chord to full songs.
+- `programs/prog-music-alt/` (Piano for Beginners): all 26 workout days
+  covered, the equivalent real piano curriculum.
 
 weight-alt/fitness-alt, cooking/cooking-alt, sleep/sleep-alt,
-eating/eating-alt/productivity/productivity-alt, and reading/reading-alt
-were all added 2026-08, closing out the "-alt programs fall back to the
-generic video-details screen" gap for those six goals.
+eating/eating-alt/productivity/productivity-alt, reading/reading-alt, and
+music/music-alt were all added 2026-08, closing out the "-alt programs
+fall back to the generic video-details screen" gap for those seven goals
+-- leaving only prog-learning-alt and prog-coding-alt uncurated.
 
 ## Consumed by
 

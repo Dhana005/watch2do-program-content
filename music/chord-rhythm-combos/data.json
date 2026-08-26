@@ -1,0 +1,27 @@
+{
+  "id": "chord-rhythm-combos",
+  "name": "Chord & Rhythm Combos",
+  "level": "Beginner",
+  "durationLabel": "11-13 min",
+  "equipment": "A piano or keyboard",
+  "primaryMuscle": "Chords",
+  "secondaryMuscles": [
+    "Left-Hand Accompaniment",
+    "Rhythm"
+  ],
+  "instructions": [
+    "Try playing a chord with your left hand while your right hand plays a simple melody -- the core skill behind most piano playing.",
+    "Start with your left hand playing just the root note in a steady rhythm, then add the full chord once that feels stable.",
+    "Keep both hands relaxed -- tension in one hand often shows up as tension (and mistakes) in the other.",
+    "Revisit today's chords-and-rhythm video as a reference."
+  ],
+  "videoId": "KGMFO8MdeoU",
+  "sets": 3,
+  "reps": "11 min",
+  "restSec": 300,
+  "statLabels": [
+    "Skills",
+    "Practice Time",
+    "Review"
+  ]
+}

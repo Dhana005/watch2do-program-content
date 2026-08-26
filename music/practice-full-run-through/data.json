@@ -1,0 +1,27 @@
+{
+  "id": "practice-full-run-through",
+  "name": "Practice: Full Run-Through",
+  "level": "Beginner",
+  "durationLabel": "10-12 min",
+  "equipment": "A piano or keyboard",
+  "primaryMuscle": "Piano Fundamentals",
+  "secondaryMuscles": [
+    "Comprehensive Practice",
+    "Applied Practice"
+  ],
+  "instructions": [
+    "Play through your C major scale, two or three chords, and your best song, back to back, as one continuous session.",
+    "Treat any stumble as information, not failure -- note where it happened and give that spot extra attention tomorrow.",
+    "Notice your overall hand comfort and relaxation compared to your very first session at the keyboard.",
+    "Revisit today's chord-building video as a reference during your run-through."
+  ],
+  "videoId": "2mPS-2guHVo",
+  "sets": 3,
+  "reps": "10 min",
+  "restSec": 300,
+  "statLabels": [
+    "Skills",
+    "Practice Time",
+    "Review"
+  ]
+}

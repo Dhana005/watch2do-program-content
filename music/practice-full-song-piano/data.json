@@ -1,0 +1,27 @@
+{
+  "id": "practice-full-song-piano",
+  "name": "Practice: Play a Full Song",
+  "level": "Beginner",
+  "durationLabel": "15-18 min",
+  "equipment": "A piano or keyboard",
+  "primaryMuscle": "Repertoire",
+  "secondaryMuscles": [
+    "Song Application",
+    "Applied Practice"
+  ],
+  "instructions": [
+    "Play your chosen song from yesterday all the way through, even slowly -- finishing it matters more than a perfect take.",
+    "Loop just the trickiest section a few extra times rather than restarting the whole song each time.",
+    "Notice how much more comfortable your hands feel now compared to Day 1.",
+    "Revisit yesterday's song video for reference."
+  ],
+  "videoId": "9U61gnK8JEk",
+  "sets": 3,
+  "reps": "15 min",
+  "restSec": 300,
+  "statLabels": [
+    "Skills",
+    "Practice Time",
+    "Review"
+  ]
+}
