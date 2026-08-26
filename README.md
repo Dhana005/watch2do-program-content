@@ -15,18 +15,16 @@ exercises/{exerciseId}/
 
 yoga/{poseId}/
   data.json       # same shape as exercises/
-  0.jpg, 1.jpg,   # AI-generated (gpt-image-1, high quality) — no real
-  2.jpg           # pose-photo dataset exists. Three frames (setup / midway
-                  # / full pose) as of 2026-08 for 25 of 36 poses — the
-                  # other 11 (seated-spinal-twist, side-plank-pose,
-                  # standing-forward-fold, supine-spinal-twist, tree-pose,
-                  # triangle-pose, upward-dog, warrior-one, warrior-two,
-                  # wide-legged-forward-fold, yoga-plank-pose) are still on
-                  # the original 2-frame set (0.jpg/1.jpg only, no 2.jpg) —
-                  # a generation run hit an API credit limit partway
-                  # through. Upgrade those 11 the same way once credits
-                  # allow: 3 frames, "high" quality, same consistent
-                  # model/studio style prompt as the other 25.
+  0.jpg, 1.jpg,   # AI-generated (gpt-image-1) — no real pose-photo dataset
+  2.jpg           # exists. All 36 poses regenerated 2026-08 with three
+                  # frames each (setup / midway / full pose), an explicit
+                  # per-pose prompt built from that pose's own real
+                  # instructions text, and a consistent model/studio style
+                  # prompt across all of them. Quality tier varies per pose
+                  # (high/medium/low, split across a few generation runs to
+                  # manage cost) — accuracy came from the detailed prompts,
+                  # not the quality tier, so this is intentional, not a
+                  # quality regression; spot-checked at each tier.
 
 meditation/{sessionId}/
   data.json    # same shape, statLabels relabels sets/reps/rest for display,
@@ -76,11 +74,13 @@ script genuinely gets longer and deeper, not just repeated.
 - `yoga/` and `meditation/` data is original content (standard,
   well-documented asanas/techniques, written for this project); their
   photos are AI-generated (OpenAI `gpt-image-1`). yoga/ was regenerated
-  2026-08 at "high" quality with an explicit per-pose prompt built from
-  each pose's own real `instructions` text (the original "low quality"
-  pass had gotten several complex poses — Eagle Pose, Half Moon Pose —
-  visibly wrong, not just low-res); meditation/ is still the original
-  "low quality" pass.
+  2026-08 with an explicit per-pose prompt built from each pose's own real
+  `instructions` text (the original pass had gotten several complex poses
+  — Eagle Pose, Half Moon Pose — visibly wrong, not just low-res); quality
+  tier varies per pose (high/medium/low across a few runs, to manage
+  cost) since the fix was the detailed prompt, not the quality tier —
+  confirmed by spot-checking complex poses at each tier before committing
+  to it. meditation/ is still the original "low quality" pass.
 - `learning/`'s 36 lessons each carry a real, verified `videoId` (found via
   YouTube Data API search, matched to that exact lesson's topic and
   checked embeddable) as of 2026-08 — a program literally named
