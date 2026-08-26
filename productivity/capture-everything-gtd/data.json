@@ -1,0 +1,27 @@
+{
+  "id": "capture-everything-gtd",
+  "name": "Capture Everything with GTD",
+  "level": "Intermediate",
+  "durationLabel": "17-20 min",
+  "equipment": "A notebook or capture app",
+  "primaryMuscle": "Task Capture",
+  "secondaryMuscles": [
+    "GTD",
+    "Capture & Clarify"
+  ],
+  "instructions": [
+    "Before you can block time well, you need a full, trusted list of everything competing for it -- start with a complete brain dump.",
+    "Process each captured item: decide the very next physical action it requires, not just a vague description.",
+    "Feed your processed action list directly into tomorrow's time blocks, rather than keeping two separate systems.",
+    "Watch today's video for the full GTD capture methodology."
+  ],
+  "videoId": "ePXXzmrUltY",
+  "sets": 4,
+  "reps": "17 min",
+  "restSec": 300,
+  "statLabels": [
+    "Steps",
+    "Practice Time",
+    "Review"
+  ]
+}

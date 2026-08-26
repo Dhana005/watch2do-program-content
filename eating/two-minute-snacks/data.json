@@ -1,0 +1,27 @@
+{
+  "id": "two-minute-snacks",
+  "name": "2-Minute Healthy Snacks",
+  "level": "Beginner",
+  "durationLabel": "5-7 min",
+  "equipment": "A few pantry and fridge staples",
+  "primaryMuscle": "Snack Strategy",
+  "secondaryMuscles": [
+    "Speed",
+    "No-Prep Options"
+  ],
+  "instructions": [
+    "Stock a few \"zero-prep\" options at all times: a piece of fruit, a string cheese, a handful of nuts, a hard-boiled egg.",
+    "Keep them at eye level in the fridge or pantry -- the easiest option wins when you are genuinely hungry and short on time.",
+    "Notice the difference between true hunger and boredom before reaching for a snack; both are normal, but they call for different responses.",
+    "Watch today's video for snacks that take under two minutes to put together."
+  ],
+  "videoId": "mEFZG7JVNcI",
+  "sets": 8,
+  "reps": "5 min",
+  "restSec": 180,
+  "statLabels": [
+    "Ideas",
+    "Prep Time",
+    "Review"
+  ]
+}

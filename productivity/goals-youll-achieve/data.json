@@ -1,0 +1,27 @@
+{
+  "id": "goals-youll-achieve",
+  "name": "Setting Goals You'll Actually Achieve",
+  "level": "Beginner",
+  "durationLabel": "8-10 min",
+  "equipment": "A notebook",
+  "primaryMuscle": "Goal Setting",
+  "secondaryMuscles": [
+    "Motivation",
+    "Clarity"
+  ],
+  "instructions": [
+    "Write goals in terms of a specific action you control, not just an outcome you hope for.",
+    "Connect each goal to a real reason it matters to you -- vague goals without a \"why\" are the easiest to abandon.",
+    "Set one goal for this month rather than five, so your attention is not spread too thin to make progress on any of them.",
+    "Watch today's video for a full framework on setting goals that stick."
+  ],
+  "videoId": "Qiqz8f7g1qA",
+  "sets": 4,
+  "reps": "8 min",
+  "restSec": 300,
+  "statLabels": [
+    "Steps",
+    "Practice Time",
+    "Review"
+  ]
+}

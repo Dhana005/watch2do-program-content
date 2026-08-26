@@ -67,6 +67,25 @@ sleep/{routineId}/
                # sleep meditation / bedtime yoga videos, cycled across
                # nights). `icon` ('😴') is the fallback.
 
+eating/{habitId}/
+  data.json    # same shape, no images — instructions hold real,
+               # concrete nutrition guidance (protein timing, plate
+               # method, budget staples, label reading, smoothie
+               # building); `videoId` reused from the already-audited
+               # `eating` video pool (12 real videos, exactly enough for
+               # prog-eating's 12 days with zero reuse; prog-eating-alt
+               # reuses a 9-video subset with plant-based-specific
+               # framing). `icon` ('🥗'/'🌱') is the fallback.
+
+productivity/{techniqueId}/
+  data.json    # same shape, no images — instructions hold real,
+               # well-known productivity frameworks (Deep Work, Pomodoro,
+               # SMART goals, GTD, time blocking, digital minimalism,
+               # journaling); `videoId` reused from the already-audited
+               # `productivity` video pool (21 real videos), which maps
+               # closely onto these real frameworks. `icon` ('🎯') is the
+               # fallback.
+
 programs/{programId}/
   manifest.json   # { programId, title, days: { "1": [id, ...], ... } }
 ```
@@ -144,6 +163,13 @@ script genuinely gets longer and deeper, not just repeated.
   wind-down, environment, relaxation technique, caffeine/screen timing,
   circadian light exposure), reusing a small real video pool (guided sleep
   meditation + bedtime yoga) from the already-audited `sleep` video pool.
+- `eating/`: 21 real nutrition habits/techniques (protein timing, plate
+  method, budget staples, label reading, smoothies, plant-based swaps),
+  each with a real matched video from the already-audited `eating` pool.
+- `productivity/`: 38 real productivity techniques across well-known
+  frameworks (Deep Work, Pomodoro, SMART goals, GTD, time blocking,
+  digital minimalism, journaling), each with a real matched video from the
+  already-audited `productivity` pool.
 - `programs/prog-weight/` (30-Day Fat Loss Challenge): all 26 workout days
   covered, 6 exercises each (156 slots). Days 1-20 use exercises unique to
   that stretch of the program; days 22-30 (Weeks 5-6) intentionally reuse
@@ -201,9 +227,23 @@ script genuinely gets longer and deeper, not just repeated.
   (progressive muscle relaxation, journaling, circadian light exposure,
   etc. — routines prog-sleep's shorter program doesn't reach).
 
-Both weight-alt/fitness-alt and cooking/cooking-alt and sleep/sleep-alt
-were added 2026-08, closing out the "-alt programs fall back to the
-generic video-details screen" gap for those three goals.
+- `programs/prog-eating/` (Clean Eating Challenge): all 12 workout days
+  covered, one real nutrition habit per day, zero video reuse (12 real
+  videos for 12 days).
+- `programs/prog-eating-alt/` (Plant-Based Starter Kit): all 9 workout days
+  covered, one real plant-based-specific habit per day.
+- `programs/prog-productivity/` (Deep Work: 30-Day Focus Challenge): all 26
+  workout days covered, one real technique per day across Deep Work,
+  Pomodoro, morning routines, procrastination, goal setting, decluttering,
+  time blocking, GTD, digital minimalism, and journaling.
+- `programs/prog-productivity-alt/` (Time-Blocking Mastery): all 12 workout
+  days covered, a focused subset of the same real techniques centered on
+  building and protecting time blocks.
+
+weight-alt/fitness-alt, cooking/cooking-alt, sleep/sleep-alt, and
+eating/eating-alt/productivity/productivity-alt were all added 2026-08,
+closing out the "-alt programs fall back to the generic video-details
+screen" gap for those five goals.
 
 ## Consumed by
 

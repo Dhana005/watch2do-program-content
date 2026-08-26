@@ -1,0 +1,27 @@
+{
+  "id": "batch-cook-plant-staples",
+  "name": "Batch-Cook Plant-Based Staples",
+  "level": "Intermediate",
+  "durationLabel": "30-35 min",
+  "equipment": "A large pot, sheet pan, and several containers",
+  "primaryMuscle": "Meal Prep",
+  "secondaryMuscles": [
+    "Big-Batch Cooking",
+    "Grains & Legumes"
+  ],
+  "instructions": [
+    "Cook a big batch of grains (rice, quinoa, farro) and legumes (lentils, chickpeas) at the start of the week -- they are the base of most plant-based meals.",
+    "Roast a full sheet pan of mixed vegetables alongside them to add variety without extra effort.",
+    "Store components separately so you can mix and match into different meals rather than eating the same bowl every day.",
+    "Watch today's video for a full batch-cooking session you can adapt with plant-based staples."
+  ],
+  "videoId": "LzWb_P4lYgA",
+  "sets": 6,
+  "reps": "30 min",
+  "restSec": 300,
+  "statLabels": [
+    "Ideas",
+    "Prep Time",
+    "Review"
+  ]
+}

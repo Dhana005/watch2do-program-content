@@ -1,0 +1,27 @@
+{
+  "id": "budget-clean-lunches",
+  "name": "Budget-Friendly Clean Lunches",
+  "level": "Beginner",
+  "durationLabel": "8-10 min",
+  "equipment": "A lunch container and pantry staples (rice, beans, canned tuna)",
+  "primaryMuscle": "Balanced Lunches",
+  "secondaryMuscles": [
+    "Budget Cooking",
+    "Meal Variety"
+  ],
+  "instructions": [
+    "Rely on affordable staples -- rice, beans, canned fish, frozen vegetables, eggs -- as the backbone of clean eating on a budget.",
+    "Buy produce in season and frozen vegetables when fresh is pricey; frozen veg is picked and flash-frozen at peak nutrition.",
+    "Cook a big batch of a cheap base (rice, beans) once and rotate it into different flavor profiles through the week.",
+    "Watch today's video for five easy, cheap lunch ideas."
+  ],
+  "videoId": "Gd8SV5xKJz4",
+  "sets": 5,
+  "reps": "10 min",
+  "restSec": 300,
+  "statLabels": [
+    "Ideas",
+    "Prep Time",
+    "Review"
+  ]
+}

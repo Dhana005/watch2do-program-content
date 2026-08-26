@@ -1,0 +1,27 @@
+{
+  "id": "time-management-hacks",
+  "name": "Time Management Hacks",
+  "level": "Beginner",
+  "durationLabel": "14-16 min",
+  "equipment": "A calendar or planner",
+  "primaryMuscle": "Time Management",
+  "secondaryMuscles": [
+    "Efficiency",
+    "Habit Building"
+  ],
+  "instructions": [
+    "Apply the \"two-minute rule\": if a task takes under two minutes, do it immediately instead of adding it to a list.",
+    "Set a rough time limit for each task before starting -- work tends to expand to fill the time you give it.",
+    "Review your calendar the night before so tomorrow starts with a plan instead of a blank slate.",
+    "Watch today's video for a few more practical time-saving habits."
+  ],
+  "videoId": "h4EI8_Y56o8",
+  "sets": 5,
+  "reps": "14 min",
+  "restSec": 300,
+  "statLabels": [
+    "Steps",
+    "Practice Time",
+    "Review"
+  ]
+}

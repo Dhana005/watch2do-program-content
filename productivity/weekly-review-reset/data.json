@@ -1,0 +1,27 @@
+{
+  "id": "weekly-review-reset",
+  "name": "Weekly Review & Reset",
+  "level": "Beginner",
+  "durationLabel": "14-16 min",
+  "equipment": "A calendar and your task list",
+  "primaryMuscle": "Reflection",
+  "secondaryMuscles": [
+    "Weekly Review",
+    "Continuous Improvement"
+  ],
+  "instructions": [
+    "Look back over the last week: which time management techniques from this program you actually used, and which you skipped.",
+    "Clear out completed and stale tasks from your list so next week starts from a clean, trustworthy view.",
+    "Pick the single technique that helped most this week and plan to lead with it again.",
+    "Watch today's video as a refresher on the time management fundamentals this program started with."
+  ],
+  "videoId": "vDE8YzogGUI",
+  "sets": 4,
+  "reps": "14 min",
+  "restSec": 300,
+  "statLabels": [
+    "Steps",
+    "Practice Time",
+    "Review"
+  ]
+}

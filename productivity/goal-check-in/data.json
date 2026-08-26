@@ -1,0 +1,27 @@
+{
+  "id": "goal-check-in",
+  "name": "Goal Check-In & Adjustment",
+  "level": "Beginner",
+  "durationLabel": "8-10 min",
+  "equipment": "A notebook",
+  "primaryMuscle": "Goal Setting",
+  "secondaryMuscles": [
+    "Progress Review",
+    "Adjustment"
+  ],
+  "instructions": [
+    "Revisit the SMART goal you set earlier in the program and honestly assess your progress toward it.",
+    "If a goal turned out to be unrealistic, adjust the target rather than abandoning it entirely -- adjustment is not failure.",
+    "Set one small, concrete action for the final two days of the program that moves that goal forward.",
+    "Watch today's video as a refresher on setting goals you will actually keep working toward."
+  ],
+  "videoId": "Qiqz8f7g1qA",
+  "sets": 3,
+  "reps": "8 min",
+  "restSec": 300,
+  "statLabels": [
+    "Steps",
+    "Practice Time",
+    "Review"
+  ]
+}

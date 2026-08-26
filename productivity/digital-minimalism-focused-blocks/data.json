@@ -1,0 +1,27 @@
+{
+  "id": "digital-minimalism-focused-blocks",
+  "name": "Digital Minimalism for Focused Blocks",
+  "level": "Beginner",
+  "durationLabel": "8-10 min",
+  "equipment": "Your phone's screen time settings",
+  "primaryMuscle": "Digital Focus",
+  "secondaryMuscles": [
+    "Digital Minimalism",
+    "Screen Time"
+  ],
+  "instructions": [
+    "Remove the most tempting distraction apps from your home screen before your next deep work block.",
+    "Turn off non-essential notifications during scheduled blocks specifically, even if you keep them on otherwise.",
+    "Set specific times outside your blocks to check email and social media, so they cannot bleed into protected time.",
+    "Watch today's video for concrete digital minimalism habits."
+  ],
+  "videoId": "azb7J6TPTW4",
+  "sets": 3,
+  "reps": "8 min",
+  "restSec": 300,
+  "statLabels": [
+    "Steps",
+    "Practice Time",
+    "Review"
+  ]
+}

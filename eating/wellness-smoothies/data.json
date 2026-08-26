@@ -1,0 +1,27 @@
+{
+  "id": "wellness-smoothies",
+  "name": "Wellness Smoothies",
+  "level": "Beginner",
+  "durationLabel": "8-10 min",
+  "equipment": "A blender",
+  "primaryMuscle": "Smoothies",
+  "secondaryMuscles": [
+    "Micronutrient Variety",
+    "Recovery"
+  ],
+  "instructions": [
+    "Rotate your smoothie ingredients through the week (different fruits, greens, and add-ins) to widen the range of nutrients you get, not just repeat the same one.",
+    "Add a source of healthy fat (chia seeds, flax, half an avocado) to help absorb fat-soluble vitamins from the fruit and greens.",
+    "Taste before adding sweetener -- ripe fruit is often sweet enough on its own.",
+    "Watch today's video for five smoothie recipes built around wellness and recovery."
+  ],
+  "videoId": "iJItdGnDu_0",
+  "sets": 5,
+  "reps": "9 min",
+  "restSec": 300,
+  "statLabels": [
+    "Ideas",
+    "Prep Time",
+    "Review"
+  ]
+}

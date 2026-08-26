@@ -1,0 +1,27 @@
+{
+  "id": "clean-lunch-ideas",
+  "name": "Clean Lunch Ideas",
+  "level": "Beginner",
+  "durationLabel": "12-15 min",
+  "equipment": "A lunch container and basic cooking staples",
+  "primaryMuscle": "Balanced Lunches",
+  "secondaryMuscles": [
+    "Protein + Veg + Grain",
+    "Weight Management"
+  ],
+  "instructions": [
+    "Build lunch around a simple formula: a palm-sized protein, a fist of vegetables, and a cupped-hand of whole grains.",
+    "Choose grilled, baked, or steamed prep over fried when you have the choice -- it is an easy, low-effort swap.",
+    "Add healthy fats (avocado, olive oil, nuts) in moderation; they help you feel satisfied longer.",
+    "Watch today's video for quick, healthy lunch ideas built around this same formula."
+  ],
+  "videoId": "7hCeh9w6DVU",
+  "sets": 5,
+  "reps": "14 min",
+  "restSec": 300,
+  "statLabels": [
+    "Ideas",
+    "Prep Time",
+    "Review"
+  ]
+}

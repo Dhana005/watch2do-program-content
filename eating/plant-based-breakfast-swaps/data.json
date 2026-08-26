@@ -1,0 +1,27 @@
+{
+  "id": "plant-based-breakfast-swaps",
+  "name": "Plant-Based Breakfast Swaps",
+  "level": "Beginner",
+  "durationLabel": "8-10 min",
+  "equipment": "Oats, plant milk, or tofu",
+  "primaryMuscle": "Plant-Based Basics",
+  "secondaryMuscles": [
+    "Protein Swaps",
+    "Whole Foods"
+  ],
+  "instructions": [
+    "Swap dairy milk for a fortified plant milk (soy milk has the closest protein profile) and eggs for a tofu scramble or overnight oats with nut butter.",
+    "Check that your plant milk is \"fortified\" -- look for added calcium, B12, and vitamin D on the label.",
+    "Add ground flaxseed or chia to oats for an easy plant-based omega-3 source.",
+    "Watch today's video for quick breakfast ideas you can adapt with plant-based swaps."
+  ],
+  "videoId": "mtxH06LWXnM",
+  "sets": 5,
+  "reps": "10 min",
+  "restSec": 300,
+  "statLabels": [
+    "Ideas",
+    "Prep Time",
+    "Review"
+  ]
+}

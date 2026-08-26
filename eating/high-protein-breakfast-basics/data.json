@@ -1,0 +1,27 @@
+{
+  "id": "high-protein-breakfast-basics",
+  "name": "High-Protein Breakfast Basics",
+  "level": "Beginner",
+  "durationLabel": "8-10 min",
+  "equipment": "Eggs or Greek yogurt, and a piece of fruit or whole grain",
+  "primaryMuscle": "Balanced Breakfasts",
+  "secondaryMuscles": [
+    "Protein Timing",
+    "Blood Sugar Stability"
+  ],
+  "instructions": [
+    "Aim for at least 20-25g of protein at breakfast (eggs, Greek yogurt, cottage cheese, or a protein smoothie) -- it curbs mid-morning cravings far more than a carb-only breakfast.",
+    "Pair that protein with a fiber source (berries, whole-grain toast, oats) to slow digestion and keep energy steady.",
+    "Prep what you can the night before (overnight oats, hard-boiled eggs) so a rushed morning does not mean skipping breakfast.",
+    "Watch today's video for concrete high-protein breakfast ideas you can rotate through the week."
+  ],
+  "videoId": "EyFcGkeL_kA",
+  "sets": 5,
+  "reps": "10 min",
+  "restSec": 300,
+  "statLabels": [
+    "Ideas",
+    "Prep Time",
+    "Review"
+  ]
+}

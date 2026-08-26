@@ -1,0 +1,27 @@
+{
+  "id": "smart-goals-for-your-week",
+  "name": "Set SMART Goals for Your Week",
+  "level": "Beginner",
+  "durationLabel": "5-7 min",
+  "equipment": "A notebook",
+  "primaryMuscle": "Goal Setting",
+  "secondaryMuscles": [
+    "SMART Framework",
+    "Weekly Planning"
+  ],
+  "instructions": [
+    "Before blocking your week, set one SMART goal (Specific, Measurable, Achievable, Relevant, Time-bound) to organize it around.",
+    "Work backward from that goal to identify the 2-3 blocks that matter most to actually reach it.",
+    "Schedule those blocks first, before anything else fills the calendar.",
+    "Watch today's video for the SMART framework explained in full."
+  ],
+  "videoId": "FeozjbXSt24",
+  "sets": 4,
+  "reps": "5 min",
+  "restSec": 300,
+  "statLabels": [
+    "Steps",
+    "Practice Time",
+    "Review"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "plant-based-snacking",
+  "name": "Plant-Based Snacking",
+  "level": "Beginner",
+  "durationLabel": "10-12 min",
+  "equipment": "Nuts, fruit, and hummus",
+  "primaryMuscle": "Snack Strategy",
+  "secondaryMuscles": [
+    "Plant Protein",
+    "Portion Control"
+  ],
+  "instructions": [
+    "Pair a plant protein or fat with a carb in every snack (hummus + veggies, apple + almond butter) to stay satisfied.",
+    "Keep a few plant-based go-tos pre-portioned and visible, the same way you would with any snack strategy.",
+    "Roasted chickpeas or edamame make a higher-protein alternative to chips when you want something crunchy.",
+    "Watch today's video for snack ideas, then swap in a plant-based protein pairing."
+  ],
+  "videoId": "ydZedLblpFY",
+  "sets": 5,
+  "reps": "11 min",
+  "restSec": 300,
+  "statLabels": [
+    "Ideas",
+    "Prep Time",
+    "Review"
+  ]
+}

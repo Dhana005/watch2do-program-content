@@ -1,0 +1,42 @@
+{
+  "programId": "prog-productivity-alt",
+  "title": "Time-Blocking Mastery",
+  "days": {
+    "1": [
+      "what-is-time-blocking"
+    ],
+    "2": [
+      "time-blocking-full-picture"
+    ],
+    "3": [
+      "time-blocking-novice-to-pro-2"
+    ],
+    "4": [
+      "capture-everything-gtd"
+    ],
+    "5": [
+      "gtd-for-time-blockers"
+    ],
+    "6": [
+      "smart-goals-for-your-week"
+    ],
+    "8": [
+      "pomodoro-inside-your-blocks"
+    ],
+    "9": [
+      "declutter-your-task-list"
+    ],
+    "10": [
+      "organize-workspace-systems"
+    ],
+    "11": [
+      "digital-minimalism-focused-blocks"
+    ],
+    "12": [
+      "protect-blocks-from-distraction"
+    ],
+    "13": [
+      "weekly-review-refinement"
+    ]
+  }
+}

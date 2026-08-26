@@ -1,0 +1,27 @@
+{
+  "id": "gtd-overview",
+  "name": "Getting Things Done (GTD): The Overview",
+  "level": "Intermediate",
+  "durationLabel": "17-20 min",
+  "equipment": "A notebook or capture app",
+  "primaryMuscle": "Task Systems",
+  "secondaryMuscles": [
+    "GTD",
+    "Capture & Clarify"
+  ],
+  "instructions": [
+    "The core GTD idea: capture every task and idea out of your head and into a trusted system, so your brain stops trying to remember them.",
+    "Process your capture list regularly: decide what each item actually requires, and either do it, schedule it, delegate it, or drop it.",
+    "Organize actionable items into clear next-action lists by context, so you always know what to do next in any given situation.",
+    "Watch today's video for the full GTD methodology overview."
+  ],
+  "videoId": "ePXXzmrUltY",
+  "sets": 4,
+  "reps": "17 min",
+  "restSec": 300,
+  "statLabels": [
+    "Steps",
+    "Practice Time",
+    "Review"
+  ]
+}

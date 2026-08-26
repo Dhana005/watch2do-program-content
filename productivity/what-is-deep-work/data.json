@@ -1,0 +1,27 @@
+{
+  "id": "what-is-deep-work",
+  "name": "What Is Deep Work?",
+  "level": "Beginner",
+  "durationLabel": "10-12 min",
+  "equipment": "A notebook and a distraction-free block of time",
+  "primaryMuscle": "Focus Fundamentals",
+  "secondaryMuscles": [
+    "Deep Work",
+    "Attention Management"
+  ],
+  "instructions": [
+    "Deep work is focused, undistracted effort on one cognitively demanding task -- as opposed to \"shallow work\" like email or quick admin tasks.",
+    "Block a specific window today (even just 25-45 minutes) for one task only, with notifications off.",
+    "Notice how often the urge to check your phone or switch tasks shows up -- that impulse is exactly what deep work practice trains you against.",
+    "Watch today's video for the full concept before starting your first session."
+  ],
+  "videoId": "z1BvrkPF2LE",
+  "sets": 4,
+  "reps": "10 min",
+  "restSec": 300,
+  "statLabels": [
+    "Steps",
+    "Practice Time",
+    "Review"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "two-minute-plant-snacks",
+  "name": "Quick 2-Minute Plant Snacks",
+  "level": "Beginner",
+  "durationLabel": "5-7 min",
+  "equipment": "A few pantry and fridge staples",
+  "primaryMuscle": "Snack Strategy",
+  "secondaryMuscles": [
+    "Speed",
+    "No-Prep Options"
+  ],
+  "instructions": [
+    "Keep a few zero-prep plant-based options ready: fruit, roasted nuts, pre-made hummus with cut vegetables, or dried edamame.",
+    "Batch-roast a jar of chickpeas or nuts on the weekend so a crunchy, protein-rich snack is always one scoop away.",
+    "Read this as permission, not a rule -- convenience is what makes a habit sustainable.",
+    "Watch today's video for snacks that take under two minutes, then think through which ones are already plant-based."
+  ],
+  "videoId": "mEFZG7JVNcI",
+  "sets": 8,
+  "reps": "5 min",
+  "restSec": 180,
+  "statLabels": [
+    "Ideas",
+    "Prep Time",
+    "Review"
+  ]
+}

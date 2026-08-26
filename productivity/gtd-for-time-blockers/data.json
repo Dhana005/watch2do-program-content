@@ -1,0 +1,27 @@
+{
+  "id": "gtd-for-time-blockers",
+  "name": "GTD for Beginners",
+  "level": "Beginner",
+  "durationLabel": "9-11 min",
+  "equipment": "A notebook or capture app",
+  "primaryMuscle": "Task Capture",
+  "secondaryMuscles": [
+    "GTD",
+    "Getting Started"
+  ],
+  "instructions": [
+    "Do a quick 10-minute brain dump today of everything currently competing for your attention.",
+    "Turn each vague item into one concrete next action before it goes anywhere near your calendar.",
+    "Review this list weekly so the tasks feeding your time blocks stay current and trustworthy.",
+    "Watch today's video for a simple, beginner-friendly GTD walkthrough."
+  ],
+  "videoId": "hZ0KNifv5PU",
+  "sets": 3,
+  "reps": "9 min",
+  "restSec": 300,
+  "statLabels": [
+    "Steps",
+    "Practice Time",
+    "Review"
+  ]
+}

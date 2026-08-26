@@ -1,0 +1,27 @@
+{
+  "id": "smart-goals-framework",
+  "name": "SMART Goals Framework",
+  "level": "Beginner",
+  "durationLabel": "5-7 min",
+  "equipment": "A notebook",
+  "primaryMuscle": "Goal Setting",
+  "secondaryMuscles": [
+    "SMART Framework",
+    "Planning"
+  ],
+  "instructions": [
+    "Make your goal Specific (exactly what), Measurable (how you'll know), Achievable, Relevant, and Time-bound (by when).",
+    "Rewrite one vague goal you currently have (\"get healthier\") into a SMART version (\"walk 20 minutes, 4 days a week, for the next month\").",
+    "Break the SMART goal into weekly checkpoints so progress is visible before the final deadline.",
+    "Watch today's video for the SMART framework explained in full."
+  ],
+  "videoId": "FeozjbXSt24",
+  "sets": 5,
+  "reps": "5 min",
+  "restSec": 300,
+  "statLabels": [
+    "Steps",
+    "Practice Time",
+    "Review"
+  ]
+}

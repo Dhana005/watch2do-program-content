@@ -1,0 +1,27 @@
+{
+  "id": "deep-work-putting-it-together",
+  "name": "Deep Work: Putting It All Together",
+  "level": "Intermediate",
+  "durationLabel": "10-12 min",
+  "equipment": "A notebook and a distraction-free block of time",
+  "primaryMuscle": "Focus Fundamentals",
+  "secondaryMuscles": [
+    "Deep Work",
+    "Integration"
+  ],
+  "instructions": [
+    "Choose one technique from this program (Pomodoro, time blocking, or GTD capture) and pair it with a real deep work block today.",
+    "Protect the block the way you would a meeting -- notifications off, door closed if possible, phone out of reach.",
+    "Reflect afterward on which technique from the program made starting or staying focused the easiest for you.",
+    "Revisit today's opening video as a close to the program -- the goal was never any single technique, but building a repeatable focus practice."
+  ],
+  "videoId": "z1BvrkPF2LE",
+  "sets": 4,
+  "reps": "10 min",
+  "restSec": 300,
+  "statLabels": [
+    "Steps",
+    "Practice Time",
+    "Review"
+  ]
+}

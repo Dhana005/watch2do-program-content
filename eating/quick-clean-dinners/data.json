@@ -1,0 +1,27 @@
+{
+  "id": "quick-clean-dinners",
+  "name": "Quick Clean Dinners",
+  "level": "Beginner",
+  "durationLabel": "12-15 min",
+  "equipment": "A skillet or sheet pan",
+  "primaryMuscle": "Balanced Dinners",
+  "secondaryMuscles": [
+    "Weeknight Speed",
+    "Whole Foods"
+  ],
+  "instructions": [
+    "Keep a rotating shortlist of 5-6 dinners you can make in 20 minutes or less with ingredients you usually have on hand.",
+    "Pre-chop vegetables for the week in one session so \"quick\" dinners stay quick even on tired nights.",
+    "Use canned or frozen convenience ingredients (canned beans, frozen stir-fry veg) without guilt -- they are still real, nutritious food.",
+    "Watch today's video for five more quick, healthy dinner ideas."
+  ],
+  "videoId": "2MvVU_fXtrI",
+  "sets": 5,
+  "reps": "13 min",
+  "restSec": 300,
+  "statLabels": [
+    "Ideas",
+    "Prep Time",
+    "Review"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "gtd-for-beginners",
+  "name": "GTD for Beginners",
+  "level": "Beginner",
+  "durationLabel": "9-11 min",
+  "equipment": "A notebook or capture app",
+  "primaryMuscle": "Task Systems",
+  "secondaryMuscles": [
+    "GTD",
+    "Getting Started"
+  ],
+  "instructions": [
+    "Start GTD small: spend 10 minutes today doing a full \"brain dump\" of everything on your mind onto one list.",
+    "Go through the list and turn each vague item into a concrete next action (\"plan trip\" becomes \"look up flight prices\").",
+    "Review your full list once a week to keep it current and trustworthy -- an outdated list stops being useful fast.",
+    "Watch today's video for a simpler, beginner-friendly walkthrough of GTD."
+  ],
+  "videoId": "hZ0KNifv5PU",
+  "sets": 3,
+  "reps": "9 min",
+  "restSec": 300,
+  "statLabels": [
+    "Steps",
+    "Practice Time",
+    "Review"
+  ]
+}

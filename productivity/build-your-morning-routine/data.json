@@ -1,0 +1,27 @@
+{
+  "id": "build-your-morning-routine",
+  "name": "Build Your Own Morning Routine",
+  "level": "Beginner",
+  "durationLabel": "8-10 min",
+  "equipment": "A notebook",
+  "primaryMuscle": "Habit Building",
+  "secondaryMuscles": [
+    "Morning Routine",
+    "Personalization"
+  ],
+  "instructions": [
+    "Write out your ideal first hour of the day, then compare it honestly to what actually happens most mornings.",
+    "Pick just one change to make this week rather than overhauling everything at once -- routines that stick are built gradually.",
+    "Keep the routine realistic for your actual schedule, not an idealized version you will not sustain.",
+    "Watch today's video for a simple, realistic morning routine template."
+  ],
+  "videoId": "og5RwqAVBnk",
+  "sets": 4,
+  "reps": "8 min",
+  "restSec": 300,
+  "statLabels": [
+    "Steps",
+    "Practice Time",
+    "Review"
+  ]
+}

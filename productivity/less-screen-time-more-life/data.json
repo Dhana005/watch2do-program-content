@@ -1,0 +1,27 @@
+{
+  "id": "less-screen-time-more-life",
+  "name": "Less Screen Time, More Life",
+  "level": "Beginner",
+  "durationLabel": "6-8 min",
+  "equipment": "Your phone's screen time settings",
+  "primaryMuscle": "Digital Focus",
+  "secondaryMuscles": [
+    "Screen Time",
+    "Intentional Use"
+  ],
+  "instructions": [
+    "Check your actual screen time report before making changes -- most people underestimate it significantly.",
+    "Replace one specific scrolling habit (first thing in the morning, right before bed) with something else deliberate.",
+    "Use grayscale mode or app timers as a friction tool if a specific app is hard to put down.",
+    "Watch today's video for more on reclaiming time from screens."
+  ],
+  "videoId": "MwXNOxhhYLg",
+  "sets": 3,
+  "reps": "6 min",
+  "restSec": 300,
+  "statLabels": [
+    "Steps",
+    "Practice Time",
+    "Review"
+  ]
+}

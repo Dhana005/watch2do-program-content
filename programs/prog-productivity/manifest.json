@@ -1,0 +1,84 @@
+{
+  "programId": "prog-productivity",
+  "title": "Deep Work: 30-Day Focus Challenge",
+  "days": {
+    "1": [
+      "what-is-deep-work"
+    ],
+    "2": [
+      "time-management-fundamentals"
+    ],
+    "3": [
+      "time-management-hacks"
+    ],
+    "4": [
+      "the-pomodoro-technique"
+    ],
+    "5": [
+      "first-pomodoro-session"
+    ],
+    "6": [
+      "productive-morning-routine"
+    ],
+    "8": [
+      "build-your-morning-routine"
+    ],
+    "9": [
+      "stop-procrastinating-forever"
+    ],
+    "10": [
+      "procrastination-root-causes"
+    ],
+    "11": [
+      "procrastination-to-action"
+    ],
+    "12": [
+      "goals-youll-achieve"
+    ],
+    "13": [
+      "smart-goals-framework"
+    ],
+    "15": [
+      "decluttering-when-overwhelmed"
+    ],
+    "16": [
+      "organize-problem-areas"
+    ],
+    "17": [
+      "time-blocking-basics"
+    ],
+    "18": [
+      "time-blocking-deep-dive"
+    ],
+    "19": [
+      "time-blocking-novice-to-pro"
+    ],
+    "20": [
+      "gtd-overview"
+    ],
+    "22": [
+      "gtd-for-beginners"
+    ],
+    "23": [
+      "digital-minimalism-habits"
+    ],
+    "24": [
+      "less-screen-time-more-life"
+    ],
+    "25": [
+      "digital-declutter-day"
+    ],
+    "26": [
+      "journal-for-clarity"
+    ],
+    "27": [
+      "weekly-review-reset"
+    ],
+    "29": [
+      "goal-check-in"
+    ],
+    "30": [
+      "deep-work-putting-it-together"
+    ]
+  }
+}

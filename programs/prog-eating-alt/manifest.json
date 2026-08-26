@@ -1,0 +1,33 @@
+{
+  "programId": "prog-eating-alt",
+  "title": "Plant-Based Starter Kit",
+  "days": {
+    "1": [
+      "plant-based-breakfast-swaps"
+    ],
+    "2": [
+      "protein-without-meat"
+    ],
+    "3": [
+      "building-plant-based-plate"
+    ],
+    "4": [
+      "batch-cook-plant-staples"
+    ],
+    "5": [
+      "reading-labels-hidden-animal-products"
+    ],
+    "6": [
+      "plant-based-snacking"
+    ],
+    "8": [
+      "two-minute-plant-snacks"
+    ],
+    "9": [
+      "green-smoothie-basics"
+    ],
+    "10": [
+      "plant-based-protein-smoothies"
+    ]
+  }
+}

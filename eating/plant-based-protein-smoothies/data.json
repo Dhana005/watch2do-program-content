@@ -1,0 +1,27 @@
+{
+  "id": "plant-based-protein-smoothies",
+  "name": "Protein Smoothies, Plant-Based Style",
+  "level": "Beginner",
+  "durationLabel": "8-10 min",
+  "equipment": "A blender",
+  "primaryMuscle": "Smoothies",
+  "secondaryMuscles": [
+    "Plant Protein",
+    "Recovery"
+  ],
+  "instructions": [
+    "Use a plant-based protein powder (pea, soy, or a blended plant protein) or a spoonful of nut butter as your protein source.",
+    "Add oats or a banana for extra staying power alongside the protein.",
+    "Blend longer than you think you need to -- plant proteins can be slightly grainier and benefit from extra blending time.",
+    "Watch today's video for smoothie recipes, then swap in a plant-based protein source."
+  ],
+  "videoId": "iJItdGnDu_0",
+  "sets": 5,
+  "reps": "9 min",
+  "restSec": 300,
+  "statLabels": [
+    "Ideas",
+    "Prep Time",
+    "Review"
+  ]
+}

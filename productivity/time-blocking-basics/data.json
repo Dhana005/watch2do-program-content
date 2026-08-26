@@ -1,0 +1,27 @@
+{
+  "id": "time-blocking-basics",
+  "name": "Time Blocking Basics",
+  "level": "Beginner",
+  "durationLabel": "10-12 min",
+  "equipment": "A calendar (paper or digital)",
+  "primaryMuscle": "Time Blocking",
+  "secondaryMuscles": [
+    "Scheduling",
+    "Planning"
+  ],
+  "instructions": [
+    "Assign every task a specific block of time on your calendar instead of an open-ended to-do list.",
+    "Block time for deep work, meetings, and even breaks -- if it is not on the calendar, it competes with everything else for your attention.",
+    "Leave 10-15% of your day unscheduled as a buffer; a fully packed calendar breaks the first time something runs long.",
+    "Watch today's video for a full beginner's guide to time blocking."
+  ],
+  "videoId": "Fode0CHwnOA",
+  "sets": 4,
+  "reps": "10 min",
+  "restSec": 300,
+  "statLabels": [
+    "Steps",
+    "Practice Time",
+    "Review"
+  ]
+}

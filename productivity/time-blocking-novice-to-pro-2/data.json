@@ -1,0 +1,27 @@
+{
+  "id": "time-blocking-novice-to-pro-2",
+  "name": "Time Blocking: Novice to Pro",
+  "level": "Intermediate",
+  "durationLabel": "10-12 min",
+  "equipment": "A calendar (paper or digital)",
+  "primaryMuscle": "Time Blocking",
+  "secondaryMuscles": [
+    "Advanced Scheduling",
+    "Consistency"
+  ],
+  "instructions": [
+    "Plan your entire week's blocks in one weekly planning session instead of deciding fresh every morning.",
+    "Color-code by category (deep work, meetings, personal) so your week's balance is visible at a glance.",
+    "Protect your highest-priority blocks the same way you would protect a meeting with your manager.",
+    "Watch today's video to push your time blocking from beginner toward advanced."
+  ],
+  "videoId": "YMe-6FYCdL0",
+  "sets": 4,
+  "reps": "10 min",
+  "restSec": 300,
+  "statLabels": [
+    "Steps",
+    "Practice Time",
+    "Review"
+  ]
+}

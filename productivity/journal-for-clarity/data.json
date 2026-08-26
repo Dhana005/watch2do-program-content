@@ -1,0 +1,27 @@
+{
+  "id": "journal-for-clarity",
+  "name": "Journaling for Clarity & Productivity",
+  "level": "Beginner",
+  "durationLabel": "13-15 min",
+  "equipment": "A notebook and pen",
+  "primaryMuscle": "Reflection",
+  "secondaryMuscles": [
+    "Journaling",
+    "Mental Clarity"
+  ],
+  "instructions": [
+    "Spend 5-10 minutes writing freely about what is on your mind, without editing or worrying about how it sounds.",
+    "End with three lines: one win from today, one thing that did not go well, and one thing to try differently tomorrow.",
+    "Keep it low-pressure -- a few honest sentences are more valuable than a perfectly composed entry.",
+    "Watch today's video for how journaling can support both clarity and productivity."
+  ],
+  "videoId": "Ga0kYUKItOk",
+  "sets": 3,
+  "reps": "13 min",
+  "restSec": 300,
+  "statLabels": [
+    "Steps",
+    "Practice Time",
+    "Review"
+  ]
+}

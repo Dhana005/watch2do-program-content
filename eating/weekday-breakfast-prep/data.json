@@ -1,0 +1,27 @@
+{
+  "id": "weekday-breakfast-prep",
+  "name": "Weekday Breakfast Prep",
+  "level": "Beginner",
+  "durationLabel": "10-12 min",
+  "equipment": "Containers for 3-5 breakfast portions",
+  "primaryMuscle": "Meal Prep",
+  "secondaryMuscles": [
+    "Batch Cooking",
+    "Time Management"
+  ],
+  "instructions": [
+    "Pick one breakfast and make 4-5 servings at once (a big batch of oats, a tray of frittata muffins) -- variety is nice, but consistency beats decision fatigue on weekday mornings.",
+    "Store portions in grab-and-go containers in the fridge, and freeze any extra you will not eat within 4 days.",
+    "Add a piece of fresh fruit each morning rather than prepping that in advance, so it stays fresh.",
+    "Watch today's video for a full weekday breakfast prep session."
+  ],
+  "videoId": "EPFMtq7mCoM",
+  "sets": 5,
+  "reps": "11 min",
+  "restSec": 300,
+  "statLabels": [
+    "Ideas",
+    "Prep Time",
+    "Review"
+  ]
+}

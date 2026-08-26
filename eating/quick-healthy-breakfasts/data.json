@@ -1,0 +1,27 @@
+{
+  "id": "quick-healthy-breakfasts",
+  "name": "Quick Healthy Breakfasts",
+  "level": "Beginner",
+  "durationLabel": "8-10 min",
+  "equipment": "A blender or toaster, and basic pantry staples",
+  "primaryMuscle": "Balanced Breakfasts",
+  "secondaryMuscles": [
+    "Meal Speed",
+    "Whole Foods"
+  ],
+  "instructions": [
+    "Keep 2-3 go-to breakfasts on rotation so you are never deciding from scratch on a busy morning.",
+    "Favor whole foods (oats, eggs, fruit, nuts) over packaged \"breakfast bars,\" which are often mostly refined sugar.",
+    "Batch a base (a jar of overnight oats, a tray of egg muffins) on the weekend to cut morning prep to under 5 minutes.",
+    "Watch today's video for five more quick, healthy breakfast ideas."
+  ],
+  "videoId": "mtxH06LWXnM",
+  "sets": 5,
+  "reps": "10 min",
+  "restSec": 300,
+  "statLabels": [
+    "Ideas",
+    "Prep Time",
+    "Review"
+  ]
+}

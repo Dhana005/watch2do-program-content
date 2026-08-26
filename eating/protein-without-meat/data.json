@@ -1,0 +1,27 @@
+{
+  "id": "protein-without-meat",
+  "name": "Protein Without Meat",
+  "level": "Beginner",
+  "durationLabel": "10-12 min",
+  "equipment": "Beans, lentils, tofu, or tempeh",
+  "primaryMuscle": "Plant Protein",
+  "secondaryMuscles": [
+    "Legumes",
+    "Complete Protein"
+  ],
+  "instructions": [
+    "Lean on legumes (lentils, chickpeas, black beans), tofu, tempeh, and edamame as your main plant protein sources.",
+    "Combine grains with legumes over the course of a day (rice + beans, hummus + pita) to cover all essential amino acids.",
+    "Press and marinate tofu before cooking -- it absorbs flavor far better once excess water is removed.",
+    "Watch today's video for meal ideas built around a solid protein source, then swap in a plant-based one."
+  ],
+  "videoId": "7hCeh9w6DVU",
+  "sets": 5,
+  "reps": "11 min",
+  "restSec": 300,
+  "statLabels": [
+    "Ideas",
+    "Prep Time",
+    "Review"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "building-plant-based-plate",
+  "name": "Building a Plant-Based Plate",
+  "level": "Beginner",
+  "durationLabel": "10-12 min",
+  "equipment": "One pan or sheet pan",
+  "primaryMuscle": "Meal Structure",
+  "secondaryMuscles": [
+    "Plate Method",
+    "Vegetable Variety"
+  ],
+  "instructions": [
+    "Use the same plate method as any balanced meal: half vegetables, a quarter whole grains, a quarter plant protein.",
+    "Vary your vegetables by color through the week to widen the range of vitamins and antioxidants you get.",
+    "Add a healthy fat (olive oil, avocado, tahini) to help absorb fat-soluble vitamins from the vegetables.",
+    "Watch today's video for dinner ideas you can rebuild around this same plate method."
+  ],
+  "videoId": "dfH7eJcTx8c",
+  "sets": 5,
+  "reps": "12 min",
+  "restSec": 300,
+  "statLabels": [
+    "Ideas",
+    "Prep Time",
+    "Review"
+  ]
+}

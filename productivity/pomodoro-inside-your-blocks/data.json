@@ -1,0 +1,27 @@
+{
+  "id": "pomodoro-inside-your-blocks",
+  "name": "Prioritize with the Pomodoro Technique",
+  "level": "Beginner",
+  "durationLabel": "3-5 min",
+  "equipment": "A timer",
+  "primaryMuscle": "Focus Fundamentals",
+  "secondaryMuscles": [
+    "Time Boxing",
+    "Block Execution"
+  ],
+  "instructions": [
+    "Use Pomodoro sessions inside a time block for extra structure -- a 90-minute block can become three 25-minute pomodoros with breaks.",
+    "Treat the timer as a commitment device: during a pomodoro, only the block's task exists.",
+    "Take the break between pomodoros seriously, even inside a longer block -- it is what keeps focus sustainable.",
+    "Watch today's short video explaining the technique."
+  ],
+  "videoId": "aQ_xKuXo0D0",
+  "sets": 3,
+  "reps": "3 min",
+  "restSec": 300,
+  "statLabels": [
+    "Steps",
+    "Practice Time",
+    "Review"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "smoothie-basics",
+  "name": "Smoothie Basics",
+  "level": "Beginner",
+  "durationLabel": "5-7 min",
+  "equipment": "A blender",
+  "primaryMuscle": "Smoothies",
+  "secondaryMuscles": [
+    "Fruit & Veg Intake",
+    "Fiber"
+  ],
+  "instructions": [
+    "Build a balanced smoothie with four parts: a liquid base, a fruit, a leafy green or vegetable, and a protein (yogurt, protein powder, or nut butter).",
+    "Use frozen fruit instead of ice for a thicker texture without watering down the flavor.",
+    "Blend the greens with the liquid first before adding fruit -- it breaks them down more smoothly.",
+    "Watch today's video for five easy smoothie recipes to start with."
+  ],
+  "videoId": "yFhu3dm0224",
+  "sets": 5,
+  "reps": "5 min",
+  "restSec": 180,
+  "statLabels": [
+    "Ideas",
+    "Prep Time",
+    "Review"
+  ]
+}

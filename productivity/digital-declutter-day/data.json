@@ -1,0 +1,27 @@
+{
+  "id": "digital-declutter-day",
+  "name": "A Full Digital Declutter Day",
+  "level": "Intermediate",
+  "durationLabel": "10-12 min",
+  "equipment": "Your phone and computer",
+  "primaryMuscle": "Digital Focus",
+  "secondaryMuscles": [
+    "Digital Minimalism",
+    "Applied Practice"
+  ],
+  "instructions": [
+    "Go through your phone's home screen today and remove every app you have not opened in the last month.",
+    "Unsubscribe from at least five email lists you no longer read, to reduce daily inbox noise.",
+    "Turn off notifications for anything that is not a message from an actual person.",
+    "Revisit today's digital minimalism video as a refresher before you start."
+  ],
+  "videoId": "azb7J6TPTW4",
+  "sets": 3,
+  "reps": "10 min",
+  "restSec": 300,
+  "statLabels": [
+    "Steps",
+    "Practice Time",
+    "Review"
+  ]
+}

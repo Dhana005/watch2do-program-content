@@ -1,0 +1,27 @@
+{
+  "id": "time-management-fundamentals",
+  "name": "Time Management Fundamentals",
+  "level": "Beginner",
+  "durationLabel": "14-16 min",
+  "equipment": "A calendar or planner",
+  "primaryMuscle": "Time Management",
+  "secondaryMuscles": [
+    "Prioritization",
+    "Scheduling"
+  ],
+  "instructions": [
+    "List everything you need to do today, then rank each item by real importance, not just urgency.",
+    "Schedule your top 1-3 priorities during your highest-energy hours of the day, not whenever there happens to be a gap.",
+    "Batch small, similar tasks (replying to messages, quick admin) into one block instead of scattering them through the day.",
+    "Watch today's video for more concrete time management techniques."
+  ],
+  "videoId": "vDE8YzogGUI",
+  "sets": 5,
+  "reps": "14 min",
+  "restSec": 300,
+  "statLabels": [
+    "Steps",
+    "Practice Time",
+    "Review"
+  ]
+}

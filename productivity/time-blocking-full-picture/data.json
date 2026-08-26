@@ -1,0 +1,27 @@
+{
+  "id": "time-blocking-full-picture",
+  "name": "Time Blocking: Everything You Need to Know",
+  "level": "Intermediate",
+  "durationLabel": "10-12 min",
+  "equipment": "A calendar (paper or digital)",
+  "primaryMuscle": "Time Blocking",
+  "secondaryMuscles": [
+    "Scheduling",
+    "Refinement"
+  ],
+  "instructions": [
+    "Group similar tasks into shared blocks (all admin, all calls) instead of scattering them throughout the day.",
+    "Match your hardest, most important blocks to your natural peak-focus hours.",
+    "Track how close your actual time matched your planned block length, and adjust tomorrow's estimates.",
+    "Watch today's video for the complete picture of how time blocking works."
+  ],
+  "videoId": "0GXyRNi0Hsw",
+  "sets": 4,
+  "reps": "10 min",
+  "restSec": 300,
+  "statLabels": [
+    "Steps",
+    "Practice Time",
+    "Review"
+  ]
+}

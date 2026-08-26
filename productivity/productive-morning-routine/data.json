@@ -1,0 +1,27 @@
+{
+  "id": "productive-morning-routine",
+  "name": "A Productive Morning Routine",
+  "level": "Beginner",
+  "durationLabel": "3-5 min",
+  "equipment": "None",
+  "primaryMuscle": "Habit Building",
+  "secondaryMuscles": [
+    "Morning Routine",
+    "Momentum"
+  ],
+  "instructions": [
+    "Decide the night before what your first task tomorrow will be -- removing that decision in the morning saves real willpower.",
+    "Avoid checking email or social media in your first 20-30 minutes awake; let your own priorities set the day's tone first.",
+    "Do one small win early (a short task you can finish quickly) to build momentum for harder work later.",
+    "Watch today's short video on how a morning routine can shape the rest of the day."
+  ],
+  "videoId": "Vqu5cwAj94Q",
+  "sets": 3,
+  "reps": "3 min",
+  "restSec": 300,
+  "statLabels": [
+    "Steps",
+    "Practice Time",
+    "Review"
+  ]
+}

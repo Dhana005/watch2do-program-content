@@ -1,0 +1,27 @@
+{
+  "id": "green-smoothie-basics",
+  "name": "Green Smoothie Basics",
+  "level": "Beginner",
+  "durationLabel": "5-7 min",
+  "equipment": "A blender",
+  "primaryMuscle": "Smoothies",
+  "secondaryMuscles": [
+    "Leafy Greens",
+    "Fiber"
+  ],
+  "instructions": [
+    "Start with a mild green (spinach) before working up to stronger ones (kale) -- it blends in without changing the taste much.",
+    "Use a plant milk or water as your liquid base to keep the smoothie fully plant-based.",
+    "Add a plant protein (hemp seeds, a scoop of pea protein, or nut butter) so the smoothie holds you over, not just a sugar spike.",
+    "Watch today's video for smoothie recipes, then build your own green version from the same formula."
+  ],
+  "videoId": "yFhu3dm0224",
+  "sets": 5,
+  "reps": "5 min",
+  "restSec": 180,
+  "statLabels": [
+    "Ideas",
+    "Prep Time",
+    "Review"
+  ]
+}

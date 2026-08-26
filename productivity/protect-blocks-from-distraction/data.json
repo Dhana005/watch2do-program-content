@@ -1,0 +1,27 @@
+{
+  "id": "protect-blocks-from-distraction",
+  "name": "Protect Your Blocks from Screen Distraction",
+  "level": "Beginner",
+  "durationLabel": "6-8 min",
+  "equipment": "Your phone's screen time settings",
+  "primaryMuscle": "Digital Focus",
+  "secondaryMuscles": [
+    "Screen Time",
+    "Block Protection"
+  ],
+  "instructions": [
+    "Check your screen time report for how much of your \"blocked\" time actually got interrupted by your phone this week.",
+    "Physically move your phone out of reach during your top-priority block each day.",
+    "Use an app timer or grayscale mode as extra friction on your most tempting app during scheduled work.",
+    "Watch today's video for more on reclaiming blocked time from screens."
+  ],
+  "videoId": "MwXNOxhhYLg",
+  "sets": 3,
+  "reps": "6 min",
+  "restSec": 300,
+  "statLabels": [
+    "Steps",
+    "Practice Time",
+    "Review"
+  ]
+}

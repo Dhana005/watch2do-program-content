@@ -1,0 +1,27 @@
+{
+  "id": "first-pomodoro-session",
+  "name": "Practice: Your First Pomodoro Session",
+  "level": "Beginner",
+  "durationLabel": "30-35 min",
+  "equipment": "A timer and one task to focus on",
+  "primaryMuscle": "Focus Fundamentals",
+  "secondaryMuscles": [
+    "Time Boxing",
+    "Applied Practice"
+  ],
+  "instructions": [
+    "Pick one real task you have been putting off and set a timer for 25 minutes.",
+    "If a distracting thought pops up, jot it on a notepad to deal with later rather than acting on it now.",
+    "Take the full 5-minute break when the timer ends, away from your screen if possible.",
+    "Do a second round if the task needs it -- notice whether starting felt easier the second time."
+  ],
+  "videoId": "aQ_xKuXo0D0",
+  "sets": 4,
+  "reps": "30 min",
+  "restSec": 300,
+  "statLabels": [
+    "Steps",
+    "Practice Time",
+    "Review"
+  ]
+}

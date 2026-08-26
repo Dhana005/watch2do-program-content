@@ -1,0 +1,27 @@
+{
+  "id": "time-blocking-deep-dive",
+  "name": "Time Blocking: Everything You Need to Know",
+  "level": "Intermediate",
+  "durationLabel": "10-12 min",
+  "equipment": "A calendar (paper or digital)",
+  "primaryMuscle": "Time Blocking",
+  "secondaryMuscles": [
+    "Scheduling",
+    "Refinement"
+  ],
+  "instructions": [
+    "Group similar tasks into the same block (all emails, all calls) instead of scattering them across the day.",
+    "Match task type to your energy: schedule demanding work in your peak-focus hours, routine tasks in your lower-energy hours.",
+    "Review how accurately you estimated each block's length at the end of the day, and adjust tomorrow's blocks accordingly.",
+    "Watch today's video for the full deep dive on time blocking."
+  ],
+  "videoId": "0GXyRNi0Hsw",
+  "sets": 4,
+  "reps": "10 min",
+  "restSec": 300,
+  "statLabels": [
+    "Steps",
+    "Practice Time",
+    "Review"
+  ]
+}

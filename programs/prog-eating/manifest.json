@@ -1,0 +1,42 @@
+{
+  "programId": "prog-eating",
+  "title": "Clean Eating Challenge",
+  "days": {
+    "1": [
+      "high-protein-breakfast-basics"
+    ],
+    "2": [
+      "quick-healthy-breakfasts"
+    ],
+    "3": [
+      "weekday-breakfast-prep"
+    ],
+    "4": [
+      "clean-lunch-ideas"
+    ],
+    "5": [
+      "budget-clean-lunches"
+    ],
+    "6": [
+      "healthy-dinner-basics"
+    ],
+    "8": [
+      "quick-clean-dinners"
+    ],
+    "9": [
+      "batch-cook-clean-meals"
+    ],
+    "10": [
+      "clean-snacking"
+    ],
+    "11": [
+      "two-minute-snacks"
+    ],
+    "12": [
+      "smoothie-basics"
+    ],
+    "13": [
+      "wellness-smoothies"
+    ]
+  }
+}

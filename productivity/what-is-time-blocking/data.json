@@ -1,0 +1,27 @@
+{
+  "id": "what-is-time-blocking",
+  "name": "What Is Time Blocking?",
+  "level": "Beginner",
+  "durationLabel": "10-12 min",
+  "equipment": "A calendar (paper or digital)",
+  "primaryMuscle": "Time Blocking",
+  "secondaryMuscles": [
+    "Scheduling",
+    "Planning"
+  ],
+  "instructions": [
+    "Time blocking means assigning every task a specific slot on your calendar, rather than working from an open-ended list.",
+    "Start today by blocking just tomorrow morning -- one deep work block, and time for your most important task.",
+    "Anything not on the calendar tends to lose out to whatever feels most urgent in the moment -- that is the core problem time blocking solves.",
+    "Watch today's video for the full beginner's guide to time blocking."
+  ],
+  "videoId": "Fode0CHwnOA",
+  "sets": 4,
+  "reps": "10 min",
+  "restSec": 300,
+  "statLabels": [
+    "Steps",
+    "Practice Time",
+    "Review"
+  ]
+}

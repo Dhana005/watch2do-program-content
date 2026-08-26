@@ -1,0 +1,27 @@
+{
+  "id": "healthy-dinner-basics",
+  "name": "Healthy Dinner Basics",
+  "level": "Beginner",
+  "durationLabel": "10-12 min",
+  "equipment": "One pan or sheet pan",
+  "primaryMuscle": "Balanced Dinners",
+  "secondaryMuscles": [
+    "Portion Awareness",
+    "Vegetable Intake"
+  ],
+  "instructions": [
+    "Fill half your dinner plate with vegetables first, then add protein and a smaller portion of starch -- an easy visual rule that needs no counting.",
+    "Cook extra portions at dinner intentionally; tonight's dinner is often tomorrow's easiest lunch.",
+    "Season with herbs, spices, and citrus instead of leaning on heavy sauces for flavor.",
+    "Watch today's video for five healthy dinner ideas for busy weeknights."
+  ],
+  "videoId": "dfH7eJcTx8c",
+  "sets": 5,
+  "reps": "12 min",
+  "restSec": 300,
+  "statLabels": [
+    "Ideas",
+    "Prep Time",
+    "Review"
+  ]
+}

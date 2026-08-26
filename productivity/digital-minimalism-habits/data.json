@@ -1,0 +1,27 @@
+{
+  "id": "digital-minimalism-habits",
+  "name": "Digital Minimalism Habits",
+  "level": "Beginner",
+  "durationLabel": "8-10 min",
+  "equipment": "Your phone's screen time settings",
+  "primaryMuscle": "Digital Focus",
+  "secondaryMuscles": [
+    "Digital Minimalism",
+    "Screen Time"
+  ],
+  "instructions": [
+    "Remove the apps you check most compulsively from your home screen, or delete them for a week to see what changes.",
+    "Turn off non-essential notifications -- most are designed to interrupt you, not to inform you of something urgent.",
+    "Set specific times to check email and social media instead of leaving them open in the background all day.",
+    "Watch today's video for a few concrete digital minimalism habits to try."
+  ],
+  "videoId": "azb7J6TPTW4",
+  "sets": 3,
+  "reps": "8 min",
+  "restSec": 300,
+  "statLabels": [
+    "Steps",
+    "Practice Time",
+    "Review"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "declutter-your-task-list",
+  "name": "Declutter Your Task List",
+  "level": "Beginner",
+  "durationLabel": "18-20 min",
+  "equipment": "Your current task list or to-do app",
+  "primaryMuscle": "Task Systems",
+  "secondaryMuscles": [
+    "Decluttering",
+    "Reducing Overwhelm"
+  ],
+  "instructions": [
+    "Go through your task list and remove or archive anything that has sat untouched for weeks -- it is not getting done, and it is only adding noise.",
+    "Sort what remains into \"this week\" and \"someday,\" so your blocks are only built from things that genuinely matter now.",
+    "Set a 10-15 minute timer for this cleanup rather than letting it become its own overwhelming project.",
+    "Watch today's video for a gentler approach to decluttering an overwhelming list."
+  ],
+  "videoId": "nSDcrf78b8g",
+  "sets": 3,
+  "reps": "18 min",
+  "restSec": 300,
+  "statLabels": [
+    "Steps",
+    "Practice Time",
+    "Review"
+  ]
+}

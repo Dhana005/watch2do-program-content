@@ -1,0 +1,27 @@
+{
+  "id": "reading-labels-hidden-animal-products",
+  "name": "Reading Labels for Hidden Animal Products",
+  "level": "Beginner",
+  "durationLabel": "10-12 min",
+  "equipment": "A few packaged items from your pantry",
+  "primaryMuscle": "Label Literacy",
+  "secondaryMuscles": [
+    "Ingredient Awareness",
+    "Hidden Additives"
+  ],
+  "instructions": [
+    "Scan ingredient lists for less obvious animal-derived ingredients: whey, casein, gelatin, and some forms of vitamin D3 (D3 from lanolin vs. D2/vegan D3).",
+    "Look for a \"certified vegan\" or \"plant-based\" label when you want certainty without reading every ingredient.",
+    "Do not assume \"dairy-free\" means fully plant-based -- it only rules out dairy, not eggs, honey, or gelatin.",
+    "Watch today's video, then practice reading the label on one packaged food you buy regularly."
+  ],
+  "videoId": "EPFMtq7mCoM",
+  "sets": 4,
+  "reps": "10 min",
+  "restSec": 300,
+  "statLabels": [
+    "Ideas",
+    "Prep Time",
+    "Review"
+  ]
+}

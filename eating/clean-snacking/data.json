@@ -1,0 +1,27 @@
+{
+  "id": "clean-snacking",
+  "name": "Clean Snacking",
+  "level": "Beginner",
+  "durationLabel": "10-12 min",
+  "equipment": "Basic snack staples (nuts, fruit, yogurt)",
+  "primaryMuscle": "Snack Strategy",
+  "secondaryMuscles": [
+    "Blood Sugar Stability",
+    "Portion Control"
+  ],
+  "instructions": [
+    "Pair a protein or fat with a carb in every snack (apple + peanut butter, yogurt + berries) to avoid an energy crash.",
+    "Pre-portion snacks into small containers or bags so you are not eating straight from a large bag on autopilot.",
+    "Keep a few whole-food snacks visible and ready to go -- convenience determines what you actually reach for.",
+    "Watch today's video for easy healthy snack ideas."
+  ],
+  "videoId": "ydZedLblpFY",
+  "sets": 5,
+  "reps": "11 min",
+  "restSec": 300,
+  "statLabels": [
+    "Ideas",
+    "Prep Time",
+    "Review"
+  ]
+}

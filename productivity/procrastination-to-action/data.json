@@ -1,0 +1,27 @@
+{
+  "id": "procrastination-to-action",
+  "name": "From Procrastination to Action",
+  "level": "Beginner",
+  "durationLabel": "15-18 min",
+  "equipment": "A notebook and one delayed task",
+  "primaryMuscle": "Overcoming Procrastination",
+  "secondaryMuscles": [
+    "Task Initiation",
+    "Applied Practice"
+  ],
+  "instructions": [
+    "Pick the task you have been avoiding longest and write down the smallest possible first step.",
+    "Set a 10-minute timer and commit to just that first step -- you can stop after, but most people keep going once started.",
+    "Reward yourself (a short break, a coffee) immediately after taking action, to build a positive association with starting.",
+    "Watch today's video, then apply it to your own delayed task right after."
+  ],
+  "videoId": "8urzOH10LEM",
+  "sets": 4,
+  "reps": "15 min",
+  "restSec": 300,
+  "statLabels": [
+    "Steps",
+    "Practice Time",
+    "Review"
+  ]
+}

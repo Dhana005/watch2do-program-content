@@ -1,0 +1,27 @@
+{
+  "id": "procrastination-root-causes",
+  "name": "Procrastination: The Root Causes",
+  "level": "Beginner",
+  "durationLabel": "10-12 min",
+  "equipment": "A notebook",
+  "primaryMuscle": "Overcoming Procrastination",
+  "secondaryMuscles": [
+    "Self-Awareness",
+    "Task Initiation"
+  ],
+  "instructions": [
+    "Notice which specific tasks you delay most, and what feeling comes up right before you avoid them.",
+    "Common root causes include fear of failure, unclear next steps, and tasks that feel too big -- identify which applies to your delayed task today.",
+    "Address the root cause directly: break down an unclear task, or lower the stakes of a feared one by aiming for \"done,\" not perfect.",
+    "Watch today's video for more on why procrastination happens."
+  ],
+  "videoId": "km4pOGd_lHw",
+  "sets": 4,
+  "reps": "10 min",
+  "restSec": 300,
+  "statLabels": [
+    "Steps",
+    "Practice Time",
+    "Review"
+  ]
+}

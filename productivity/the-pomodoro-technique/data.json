@@ -1,0 +1,27 @@
+{
+  "id": "the-pomodoro-technique",
+  "name": "The Pomodoro Technique",
+  "level": "Beginner",
+  "durationLabel": "3-5 min",
+  "equipment": "A timer",
+  "primaryMuscle": "Focus Fundamentals",
+  "secondaryMuscles": [
+    "Time Boxing",
+    "Break Discipline"
+  ],
+  "instructions": [
+    "Work in focused 25-minute intervals (\"pomodoros\"), followed by a 5-minute break -- a simple structure that makes starting easier.",
+    "Take a longer 15-20 minute break after every four pomodoros to actually recover, not just switch tasks.",
+    "Use the timer as a commitment device: for 25 minutes, only the one task exists.",
+    "Watch today's short video explaining the technique before your first round."
+  ],
+  "videoId": "aQ_xKuXo0D0",
+  "sets": 4,
+  "reps": "3 min",
+  "restSec": 300,
+  "statLabels": [
+    "Steps",
+    "Practice Time",
+    "Review"
+  ]
+}
