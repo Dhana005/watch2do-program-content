@@ -1,0 +1,27 @@
+{
+  "id": "js-loop-patterns",
+  "name": "Loop Practice Patterns",
+  "level": "Beginner",
+  "durationLabel": "22-27 min",
+  "equipment": "A computer with a JS runtime (a browser console, Node.js, or an online REPL like replit.com)",
+  "primaryMuscle": "Control Flow",
+  "secondaryMuscles": [
+    "Problem Solving",
+    "Syntax"
+  ],
+  "instructions": [
+    "This lesson covers loop practice patterns.",
+    "Combine loops and conditionals to solve real small problems.",
+    "let sum = 0;\nfor (let i = 1; i <= 10; i++) {\n  sum += i;\n}\nconsole.log(sum); // 55",
+    "let evens = [];\nfor (let i = 0; i <= 20; i++) {\n  if (i % 2 === 0) evens.push(i);\n}",
+    "Type the example into a real file (or console/REPL), run it, then modify it until you understand why it behaves that way."
+  ],
+  "sets": 3,
+  "reps": "22 min",
+  "restSec": 45,
+  "statLabels": [
+    "Concepts",
+    "Practice Time",
+    "Review"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "js-callback-functions",
+  "name": "Callback Functions",
+  "level": "Beginner",
+  "durationLabel": "22-27 min",
+  "equipment": "A computer with a JS runtime (a browser console, Node.js, or an online REPL like replit.com)",
+  "primaryMuscle": "Data Structures & Functions",
+  "secondaryMuscles": [
+    "Problem Solving",
+    "Syntax"
+  ],
+  "instructions": [
+    "This lesson covers callback functions.",
+    "A callback is a function passed into another function to be called later.",
+    "function processUser(name, callback) {\n  const greeting = `Welcome, ${name}`;\n  callback(greeting);\n}",
+    "processUser('Ada', (message) => console.log(message));",
+    "Type the example into a real file (or console/REPL), run it, then modify it until you understand why it behaves that way."
+  ],
+  "sets": 3,
+  "reps": "22 min",
+  "restSec": 45,
+  "statLabels": [
+    "Concepts",
+    "Practice Time",
+    "Review"
+  ]
+}

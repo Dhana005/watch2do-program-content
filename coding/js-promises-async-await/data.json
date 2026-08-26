@@ -1,0 +1,27 @@
+{
+  "id": "js-promises-async-await",
+  "name": "Promises & Async/Await",
+  "level": "Beginner",
+  "durationLabel": "25-30 min",
+  "equipment": "A computer with a JS runtime (a browser console, Node.js, or an online REPL like replit.com)",
+  "primaryMuscle": "Modern JS & DOM",
+  "secondaryMuscles": [
+    "Problem Solving",
+    "Syntax"
+  ],
+  "instructions": [
+    "This lesson covers promises & async/await.",
+    "Promises represent a value that will be available later, usually from an async operation.",
+    "async function getData() {\n  const response = await fetch('/api/data');\n  const data = await response.json();\n  return data;\n}",
+    "getData().then(data => console.log(data));",
+    "Type the example into a real file (or console/REPL), run it, then modify it until you understand why it behaves that way."
+  ],
+  "sets": 3,
+  "reps": "25 min",
+  "restSec": 45,
+  "statLabels": [
+    "Concepts",
+    "Practice Time",
+    "Review"
+  ]
+}

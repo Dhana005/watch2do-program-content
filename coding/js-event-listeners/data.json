@@ -1,0 +1,26 @@
+{
+  "id": "js-event-listeners",
+  "name": "Event Listeners",
+  "level": "Beginner",
+  "durationLabel": "25-30 min",
+  "equipment": "A computer with a JS runtime (a browser console, Node.js, or an online REPL like replit.com)",
+  "primaryMuscle": "Modern JS & DOM",
+  "secondaryMuscles": [
+    "Problem Solving",
+    "Syntax"
+  ],
+  "instructions": [
+    "This lesson covers event listeners.",
+    "Event listeners run code in response to user actions like clicks.",
+    "const button = document.querySelector('#submit');\nbutton.addEventListener('click', () => {\n  console.log('Button was clicked!');\n});",
+    "Type the example into a real file (or console/REPL), run it, then modify it until you understand why it behaves that way."
+  ],
+  "sets": 3,
+  "reps": "25 min",
+  "restSec": 45,
+  "statLabels": [
+    "Concepts",
+    "Practice Time",
+    "Review"
+  ]
+}

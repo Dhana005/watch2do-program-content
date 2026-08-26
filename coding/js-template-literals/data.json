@@ -1,0 +1,28 @@
+{
+  "id": "js-template-literals",
+  "name": "Template Literals",
+  "level": "Beginner",
+  "durationLabel": "20-25 min",
+  "equipment": "A computer with a JS runtime (a browser console, Node.js, or an online REPL like replit.com)",
+  "primaryMuscle": "Fundamentals",
+  "secondaryMuscles": [
+    "Problem Solving",
+    "Syntax"
+  ],
+  "instructions": [
+    "This lesson covers template literals.",
+    "Template literals let you embed variables directly inside a string using backticks.",
+    "const name = 'Ada';",
+    "const greeting = `Hello, ${name}! You are ${age} years old.`;",
+    "console.log(greeting); // Hello, Ada! You are 30 years old.",
+    "Type the example into a real file (or console/REPL), run it, then modify it until you understand why it behaves that way."
+  ],
+  "sets": 3,
+  "reps": "20 min",
+  "restSec": 45,
+  "statLabels": [
+    "Concepts",
+    "Practice Time",
+    "Review"
+  ]
+}

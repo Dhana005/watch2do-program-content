@@ -1,0 +1,28 @@
+{
+  "id": "js-arrays",
+  "name": "Arrays",
+  "level": "Beginner",
+  "durationLabel": "22-27 min",
+  "equipment": "A computer with a JS runtime (a browser console, Node.js, or an online REPL like replit.com)",
+  "primaryMuscle": "Data Structures & Functions",
+  "secondaryMuscles": [
+    "Problem Solving",
+    "Syntax"
+  ],
+  "instructions": [
+    "This lesson covers arrays.",
+    "Arrays hold ordered lists of values.",
+    "const fruits = ['apple', 'banana', 'cherry'];",
+    "fruits.push('date'); // adds to the end",
+    "console.log(fruits[0]); // 'apple' -- arrays are zero-indexed",
+    "Type the example into a real file (or console/REPL), run it, then modify it until you understand why it behaves that way."
+  ],
+  "sets": 3,
+  "reps": "22 min",
+  "restSec": 45,
+  "statLabels": [
+    "Concepts",
+    "Practice Time",
+    "Review"
+  ]
+}

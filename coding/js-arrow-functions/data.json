@@ -1,0 +1,28 @@
+{
+  "id": "js-arrow-functions",
+  "name": "Arrow Functions",
+  "level": "Beginner",
+  "durationLabel": "22-27 min",
+  "equipment": "A computer with a JS runtime (a browser console, Node.js, or an online REPL like replit.com)",
+  "primaryMuscle": "Data Structures & Functions",
+  "secondaryMuscles": [
+    "Problem Solving",
+    "Syntax"
+  ],
+  "instructions": [
+    "This lesson covers arrow functions.",
+    "Arrow functions are a shorter syntax for writing functions, common in modern JS.",
+    "const add = (a, b) => a + b;",
+    "const square = n => n * n; // parentheses optional with one parameter",
+    "const greetArrow = (name) => { return `Hi, ${name}`; };",
+    "Type the example into a real file (or console/REPL), run it, then modify it until you understand why it behaves that way."
+  ],
+  "sets": 3,
+  "reps": "22 min",
+  "restSec": 45,
+  "statLabels": [
+    "Concepts",
+    "Practice Time",
+    "Review"
+  ]
+}

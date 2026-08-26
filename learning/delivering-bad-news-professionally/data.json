@@ -1,0 +1,28 @@
+{
+  "id": "delivering-bad-news-professionally",
+  "name": "Delivering Bad News Professionally",
+  "level": "Intermediate",
+  "durationLabel": "15-20 min",
+  "equipment": "A notebook and a colleague or mirror to practice speaking aloud",
+  "primaryMuscle": "Email & Written Communication",
+  "secondaryMuscles": [
+    "Speaking",
+    "Workplace English"
+  ],
+  "instructions": [
+    "This lesson focuses on delivering bad news professionally -- practice these key phrases out loud:",
+    "Unfortunately, we won't be able to meet the original deadline.",
+    "I wanted to flag a delay before it becomes a bigger issue.",
+    "I understand this isn't ideal news -- here's what we're doing to address it.",
+    "We're actively working on a solution and will update you by Friday.",
+    "Try using at least two of these phrases in a short role-play scenario at work."
+  ],
+  "sets": 4,
+  "reps": "15 min",
+  "restSec": 30,
+  "statLabels": [
+    "Phrases",
+    "Practice Time",
+    "Review"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "agreeing-disagreeing-politely",
+  "name": "Agreeing & Disagreeing Politely",
+  "level": "Intermediate",
+  "durationLabel": "15-20 min",
+  "equipment": "A notebook and a colleague or mirror to practice speaking aloud",
+  "primaryMuscle": "Meetings & Communication",
+  "secondaryMuscles": [
+    "Speaking",
+    "Workplace English"
+  ],
+  "instructions": [
+    "This lesson focuses on agreeing & disagreeing politely -- practice these key phrases out loud:",
+    "That's a fair point, I agree.",
+    "I see it a bit differently -- can I offer another perspective?",
+    "I'm not sure I fully agree, mainly because of the timeline.",
+    "That makes sense, though I'd add one consideration.",
+    "Try using at least two of these phrases in a short role-play scenario at work."
+  ],
+  "sets": 4,
+  "reps": "15 min",
+  "restSec": 30,
+  "statLabels": [
+    "Phrases",
+    "Practice Time",
+    "Review"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "js-json",
+  "name": "JSON",
+  "level": "Beginner",
+  "durationLabel": "25-30 min",
+  "equipment": "A computer with a JS runtime (a browser console, Node.js, or an online REPL like replit.com)",
+  "primaryMuscle": "Modern JS & DOM",
+  "secondaryMuscles": [
+    "Problem Solving",
+    "Syntax"
+  ],
+  "instructions": [
+    "This lesson covers json.",
+    "JSON is a text format for representing data, widely used by APIs.",
+    "const jsonString = JSON.stringify({ name: 'Ada', age: 30 });",
+    "const parsedBack = JSON.parse(jsonString);",
+    "console.log(parsedBack.name); // 'Ada'",
+    "Type the example into a real file (or console/REPL), run it, then modify it until you understand why it behaves that way."
+  ],
+  "sets": 3,
+  "reps": "25 min",
+  "restSec": 45,
+  "statLabels": [
+    "Concepts",
+    "Practice Time",
+    "Review"
+  ]
+}

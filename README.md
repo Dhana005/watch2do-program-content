@@ -42,12 +42,18 @@ learning/{lessonId}/
                # real, verified YouTube video matched to that exact
                # lesson's topic (e.g. Oxford Online English for
                # weather-talk) — a program named "Conversational" needs
-               # real spoken audio, not a static emoji.
+               # real spoken audio, not a static emoji. prog-learning-alt's
+               # 24 Business English lessons (added 2026-08) have no
+               # `videoId` — no real per-topic video match existed in the
+               # audited pool, so they use `icon` ('💼') instead, same as
+               # coding/.
 
 coding/{lessonId}/
   data.json    # same shape, no images or video yet — instructions hold a
-               # real, correct Python snippet; `icon` ('💻') shown in place
-               # of a photo (see Sourcing)
+               # real, correct Python snippet (or, for prog-coding-alt's
+               # 24 JavaScript lessons added 2026-08, a real correct JS
+               # snippet); `icon` ('💻') shown in place of a photo (see
+               # Sourcing)
 
 cooking/{recipeId}/
   data.json    # same shape, no images — instructions hold real cooking
@@ -179,11 +185,15 @@ script genuinely gets longer and deeper, not just repeated.
 - `learning/`: 36 English conversation lessons across 6 topic categories
   (Everyday Essentials, Food & Dining, Travel & Directions, Work &
   Technology, Social & Emotions, Health & Hobbies), each with 4 real key
-  phrases to practice.
+  phrases to practice, plus 24 real Business English lessons (Meetings &
+  Communication, Email & Written Communication, Presentations &
+  Negotiation, Networking & Career) added 2026-08.
 - `coding/`: 48 Python lessons across 8 topic categories (Fundamentals,
   Control Flow, Data Structures, Functions, Working with Data,
   Object-Oriented Python, Tools & Libraries, Real Projects), each with a
-  real, runnable code example.
+  real, runnable code example, plus 24 real JavaScript Essentials lessons
+  (Fundamentals, Control Flow, Data Structures & Functions, Modern JS &
+  DOM) added 2026-08.
 - `cooking/`: 11 real one-pot/meal-prep techniques, each with a real
   matched YouTube video from the already-audited `cooking` video pool.
 - `sleep/`: 18 real, evidence-based sleep-hygiene routines (consistency,
@@ -243,6 +253,14 @@ script genuinely gets longer and deeper, not just repeated.
 - `programs/prog-coding/` (Python Basics Bootcamp): all 48 lesson days
   covered, one lesson per day, one topic category per week, same linear
   structure as prog-learning.
+- `programs/prog-learning-alt/` (Business English Essentials): all 24
+  lesson days covered, one lesson per day, one topic category per week.
+  No `videoId` — the audited video pool had no real per-topic match for
+  business English scenarios (unlike prog-learning's everyday-conversation
+  topics), so it follows prog-coding's icon-only precedent instead of
+  force-fitting a mismatched video.
+- `programs/prog-coding-alt/` (JavaScript Essentials): all 24 lesson days
+  covered, same structure and no-video precedent as prog-coding.
 - `programs/prog-weight-alt/` (HIIT Cardio Blast Series): all 9 workout days
   covered, 6 exercises each, reusing prog-weight's exercise pool in
   explosive/cardio combos (jump squats, sprints, plyo push-ups) instead of
@@ -286,10 +304,11 @@ script genuinely gets longer and deeper, not just repeated.
   covered, the equivalent real piano curriculum.
 
 weight-alt/fitness-alt, cooking/cooking-alt, sleep/sleep-alt,
-eating/eating-alt/productivity/productivity-alt, reading/reading-alt, and
-music/music-alt were all added 2026-08, closing out the "-alt programs
-fall back to the generic video-details screen" gap for those seven goals
--- leaving only prog-learning-alt and prog-coding-alt uncurated.
+eating/eating-alt/productivity/productivity-alt, reading/reading-alt,
+music/music-alt, and finally learning-alt/coding-alt were all added
+2026-08. **All 24 programs across all 12 goals are now curated** — the
+"-alt programs fall back to the generic video-details screen" gap is
+fully closed.
 
 ## Consumed by
 

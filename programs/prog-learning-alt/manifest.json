@@ -1,0 +1,78 @@
+{
+  "programId": "prog-learning-alt",
+  "title": "Business English Essentials",
+  "days": {
+    "1": [
+      "starting-a-meeting"
+    ],
+    "2": [
+      "giving-updates-status-reports"
+    ],
+    "3": [
+      "asking-for-clarification"
+    ],
+    "4": [
+      "agreeing-disagreeing-politely"
+    ],
+    "5": [
+      "interrupting-politely"
+    ],
+    "6": [
+      "wrapping-up-a-meeting"
+    ],
+    "8": [
+      "professional-email-opening"
+    ],
+    "9": [
+      "making-a-request-by-email"
+    ],
+    "10": [
+      "following-up-politely"
+    ],
+    "11": [
+      "delivering-bad-news-professionally"
+    ],
+    "12": [
+      "cc-reply-all-email-etiquette"
+    ],
+    "13": [
+      "clear-subject-lines-closings"
+    ],
+    "15": [
+      "opening-a-presentation"
+    ],
+    "16": [
+      "structuring-talking-points"
+    ],
+    "17": [
+      "handling-questions-after-presentation"
+    ],
+    "18": [
+      "negotiating-basics"
+    ],
+    "19": [
+      "making-a-counteroffer"
+    ],
+    "20": [
+      "closing-a-negotiation"
+    ],
+    "22": [
+      "introducing-yourself-networking"
+    ],
+    "23": [
+      "small-talk-with-colleagues"
+    ],
+    "24": [
+      "discussing-work-experience"
+    ],
+    "25": [
+      "asking-for-raise-promotion"
+    ],
+    "26": [
+      "giving-receiving-feedback"
+    ],
+    "27": [
+      "following-up-after-meeting-interview"
+    ]
+  }
+}

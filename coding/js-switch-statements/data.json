@@ -1,0 +1,26 @@
+{
+  "id": "js-switch-statements",
+  "name": "Switch Statements",
+  "level": "Beginner",
+  "durationLabel": "22-27 min",
+  "equipment": "A computer with a JS runtime (a browser console, Node.js, or an online REPL like replit.com)",
+  "primaryMuscle": "Control Flow",
+  "secondaryMuscles": [
+    "Problem Solving",
+    "Syntax"
+  ],
+  "instructions": [
+    "This lesson covers switch statements.",
+    "Switch is a cleaner alternative to many if/else-if chains for a single value.",
+    "switch (day) {\n  case 'Mon':\n    console.log('Start of week');\n    break;\n  case 'Fri':\n    console.log('Almost weekend');\n    break;\n  default:\n    console.log('Midweek');\n}",
+    "Type the example into a real file (or console/REPL), run it, then modify it until you understand why it behaves that way."
+  ],
+  "sets": 3,
+  "reps": "22 min",
+  "restSec": 45,
+  "statLabels": [
+    "Concepts",
+    "Practice Time",
+    "Review"
+  ]
+}

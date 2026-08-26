@@ -1,0 +1,28 @@
+{
+  "id": "introducing-yourself-networking",
+  "name": "Introducing Yourself at a Networking Event",
+  "level": "Intermediate",
+  "durationLabel": "15-20 min",
+  "equipment": "A notebook and a colleague or mirror to practice speaking aloud",
+  "primaryMuscle": "Networking & Career",
+  "secondaryMuscles": [
+    "Speaking",
+    "Workplace English"
+  ],
+  "instructions": [
+    "This lesson focuses on introducing yourself at a networking event -- practice these key phrases out loud:",
+    "Hi, I'm Alex -- I work in product marketing over at Northwind.",
+    "Great to meet you -- what brings you to this event?",
+    "I'd love to hear more about what you're working on.",
+    "Here's my card -- would love to stay in touch.",
+    "Try using at least two of these phrases in a short role-play scenario at work."
+  ],
+  "sets": 4,
+  "reps": "15 min",
+  "restSec": 30,
+  "statLabels": [
+    "Phrases",
+    "Practice Time",
+    "Review"
+  ]
+}

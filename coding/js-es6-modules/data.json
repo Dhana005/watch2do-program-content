@@ -1,0 +1,27 @@
+{
+  "id": "js-es6-modules",
+  "name": "ES6 Modules",
+  "level": "Beginner",
+  "durationLabel": "25-30 min",
+  "equipment": "A computer with a JS runtime (a browser console, Node.js, or an online REPL like replit.com)",
+  "primaryMuscle": "Modern JS & DOM",
+  "secondaryMuscles": [
+    "Problem Solving",
+    "Syntax"
+  ],
+  "instructions": [
+    "This lesson covers es6 modules.",
+    "Modules let you split code across files and import only what you need.",
+    "// math.js\nexport function add(a, b) { return a + b; }",
+    "// main.js\nimport { add } from './math.js';\nconsole.log(add(2, 3)); // 5",
+    "Type the example into a real file (or console/REPL), run it, then modify it until you understand why it behaves that way."
+  ],
+  "sets": 3,
+  "reps": "25 min",
+  "restSec": 45,
+  "statLabels": [
+    "Concepts",
+    "Practice Time",
+    "Review"
+  ]
+}

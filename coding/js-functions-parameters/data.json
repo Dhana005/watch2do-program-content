@@ -1,0 +1,28 @@
+{
+  "id": "js-functions-parameters",
+  "name": "Functions & Parameters",
+  "level": "Beginner",
+  "durationLabel": "22-27 min",
+  "equipment": "A computer with a JS runtime (a browser console, Node.js, or an online REPL like replit.com)",
+  "primaryMuscle": "Data Structures & Functions",
+  "secondaryMuscles": [
+    "Problem Solving",
+    "Syntax"
+  ],
+  "instructions": [
+    "This lesson covers functions & parameters.",
+    "Functions let you reuse a block of logic with different inputs.",
+    "function greet(name, greeting = 'Hello') {\n  return `${greeting}, ${name}!`;\n}",
+    "console.log(greet('Ada')); // 'Hello, Ada!'",
+    "console.log(greet('Sam', 'Hey')); // 'Hey, Sam!'",
+    "Type the example into a real file (or console/REPL), run it, then modify it until you understand why it behaves that way."
+  ],
+  "sets": 3,
+  "reps": "22 min",
+  "restSec": 45,
+  "statLabels": [
+    "Concepts",
+    "Practice Time",
+    "Review"
+  ]
+}

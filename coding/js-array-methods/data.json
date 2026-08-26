@@ -1,0 +1,28 @@
+{
+  "id": "js-array-methods",
+  "name": "Array Methods (map/filter/reduce)",
+  "level": "Beginner",
+  "durationLabel": "22-27 min",
+  "equipment": "A computer with a JS runtime (a browser console, Node.js, or an online REPL like replit.com)",
+  "primaryMuscle": "Data Structures & Functions",
+  "secondaryMuscles": [
+    "Problem Solving",
+    "Syntax"
+  ],
+  "instructions": [
+    "This lesson covers array methods (map/filter/reduce).",
+    "These three methods are the core toolkit for transforming arrays.",
+    "const doubled = [1, 2, 3].map(n => n * 2); // [2, 4, 6]",
+    "const evens = [1, 2, 3, 4].filter(n => n % 2 === 0); // [2, 4]",
+    "const total = [1, 2, 3, 4].reduce((sum, n) => sum + n, 0); // 10",
+    "Type the example into a real file (or console/REPL), run it, then modify it until you understand why it behaves that way."
+  ],
+  "sets": 3,
+  "reps": "22 min",
+  "restSec": 45,
+  "statLabels": [
+    "Concepts",
+    "Practice Time",
+    "Review"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "js-break-continue",
+  "name": "Break & Continue",
+  "level": "Beginner",
+  "durationLabel": "22-27 min",
+  "equipment": "A computer with a JS runtime (a browser console, Node.js, or an online REPL like replit.com)",
+  "primaryMuscle": "Control Flow",
+  "secondaryMuscles": [
+    "Problem Solving",
+    "Syntax"
+  ],
+  "instructions": [
+    "This lesson covers break & continue.",
+    "break exits a loop entirely; continue skips to the next iteration.",
+    "for (let i = 0; i < 10; i++) {\n  if (i === 5) break;\n  console.log(i); // 0,1,2,3,4\n}",
+    "for (let i = 0; i < 5; i++) {\n  if (i % 2 === 0) continue;\n  console.log(i); // 1, 3\n}",
+    "Type the example into a real file (or console/REPL), run it, then modify it until you understand why it behaves that way."
+  ],
+  "sets": 3,
+  "reps": "22 min",
+  "restSec": 45,
+  "statLabels": [
+    "Concepts",
+    "Practice Time",
+    "Review"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "opening-a-presentation",
+  "name": "Opening a Presentation",
+  "level": "Intermediate",
+  "durationLabel": "18-23 min",
+  "equipment": "A notebook and a colleague or mirror to practice speaking aloud",
+  "primaryMuscle": "Presentations & Negotiation",
+  "secondaryMuscles": [
+    "Speaking",
+    "Workplace English"
+  ],
+  "instructions": [
+    "This lesson focuses on opening a presentation -- practice these key phrases out loud:",
+    "Good morning everyone, thanks for being here.",
+    "Today I'll be walking you through our Q3 results.",
+    "By the end of this presentation, you'll have a clear picture of our next steps.",
+    "Feel free to hold questions until the end, or jump in anytime.",
+    "Try using at least two of these phrases in a short role-play scenario at work."
+  ],
+  "sets": 4,
+  "reps": "18 min",
+  "restSec": 30,
+  "statLabels": [
+    "Phrases",
+    "Practice Time",
+    "Review"
+  ]
+}

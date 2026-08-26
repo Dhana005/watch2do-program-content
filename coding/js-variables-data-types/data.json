@@ -1,0 +1,28 @@
+{
+  "id": "js-variables-data-types",
+  "name": "Variables & Data Types",
+  "level": "Beginner",
+  "durationLabel": "20-25 min",
+  "equipment": "A computer with a JS runtime (a browser console, Node.js, or an online REPL like replit.com)",
+  "primaryMuscle": "Fundamentals",
+  "secondaryMuscles": [
+    "Problem Solving",
+    "Syntax"
+  ],
+  "instructions": [
+    "This lesson covers variables & data types.",
+    "A variable stores a value so you can use it later by name.",
+    "let name = 'Ada';",
+    "const age = 30;",
+    "let isStudent = false;",
+    "Type the example into a real file (or console/REPL), run it, then modify it until you understand why it behaves that way."
+  ],
+  "sets": 3,
+  "reps": "20 min",
+  "restSec": 45,
+  "statLabels": [
+    "Concepts",
+    "Practice Time",
+    "Review"
+  ]
+}

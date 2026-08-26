@@ -1,0 +1,28 @@
+{
+  "id": "small-talk-with-colleagues",
+  "name": "Small Talk with Colleagues",
+  "level": "Intermediate",
+  "durationLabel": "15-20 min",
+  "equipment": "A notebook and a colleague or mirror to practice speaking aloud",
+  "primaryMuscle": "Networking & Career",
+  "secondaryMuscles": [
+    "Speaking",
+    "Workplace English"
+  ],
+  "instructions": [
+    "This lesson focuses on small talk with colleagues -- practice these key phrases out loud:",
+    "How was your weekend?",
+    "Busy week so far, how about you?",
+    "Did you catch the game/news/latest release last night?",
+    "Looking forward to the long weekend coming up.",
+    "Try using at least two of these phrases in a short role-play scenario at work."
+  ],
+  "sets": 4,
+  "reps": "15 min",
+  "restSec": 30,
+  "statLabels": [
+    "Phrases",
+    "Practice Time",
+    "Review"
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "programId": "prog-coding-alt",
+  "title": "JavaScript Essentials",
+  "days": {
+    "1": [
+      "js-variables-data-types"
+    ],
+    "2": [
+      "js-operators-expressions"
+    ],
+    "3": [
+      "js-template-literals"
+    ],
+    "4": [
+      "js-type-coercion"
+    ],
+    "5": [
+      "js-console-debugging"
+    ],
+    "6": [
+      "js-comments-code-style"
+    ],
+    "8": [
+      "js-if-else-statements"
+    ],
+    "9": [
+      "js-switch-statements"
+    ],
+    "10": [
+      "js-for-loops"
+    ],
+    "11": [
+      "js-while-loops"
+    ],
+    "12": [
+      "js-break-continue"
+    ],
+    "13": [
+      "js-loop-patterns"
+    ],
+    "15": [
+      "js-arrays"
+    ],
+    "16": [
+      "js-array-methods"
+    ],
+    "17": [
+      "js-objects"
+    ],
+    "18": [
+      "js-functions-parameters"
+    ],
+    "19": [
+      "js-arrow-functions"
+    ],
+    "20": [
+      "js-callback-functions"
+    ],
+    "22": [
+      "js-promises-async-await"
+    ],
+    "23": [
+      "js-fetch-apis"
+    ],
+    "24": [
+      "js-dom-selection"
+    ],
+    "25": [
+      "js-event-listeners"
+    ],
+    "26": [
+      "js-json"
+    ],
+    "27": [
+      "js-es6-modules"
+    ]
+  }
+}

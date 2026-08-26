@@ -1,0 +1,26 @@
+{
+  "id": "js-fetch-apis",
+  "name": "Fetch & APIs",
+  "level": "Beginner",
+  "durationLabel": "25-30 min",
+  "equipment": "A computer with a JS runtime (a browser console, Node.js, or an online REPL like replit.com)",
+  "primaryMuscle": "Modern JS & DOM",
+  "secondaryMuscles": [
+    "Problem Solving",
+    "Syntax"
+  ],
+  "instructions": [
+    "This lesson covers fetch & apis.",
+    "fetch() is the standard way to make HTTP requests from JavaScript.",
+    "fetch('https://api.example.com/users')\n  .then(res => res.json())\n  .then(users => console.log(users))\n  .catch(err => console.error('Request failed:', err));",
+    "Type the example into a real file (or console/REPL), run it, then modify it until you understand why it behaves that way."
+  ],
+  "sets": 3,
+  "reps": "25 min",
+  "restSec": 45,
+  "statLabels": [
+    "Concepts",
+    "Practice Time",
+    "Review"
+  ]
+}

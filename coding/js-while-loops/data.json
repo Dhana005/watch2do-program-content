@@ -1,0 +1,27 @@
+{
+  "id": "js-while-loops",
+  "name": "While Loops",
+  "level": "Beginner",
+  "durationLabel": "22-27 min",
+  "equipment": "A computer with a JS runtime (a browser console, Node.js, or an online REPL like replit.com)",
+  "primaryMuscle": "Control Flow",
+  "secondaryMuscles": [
+    "Problem Solving",
+    "Syntax"
+  ],
+  "instructions": [
+    "This lesson covers while loops.",
+    "While loops repeat as long as a condition stays true.",
+    "let count = 0;\nwhile (count < 3) {\n  console.log(count);\n  count++;\n}",
+    "Always make sure the condition eventually becomes false, or you get an infinite loop.",
+    "Type the example into a real file (or console/REPL), run it, then modify it until you understand why it behaves that way."
+  ],
+  "sets": 3,
+  "reps": "22 min",
+  "restSec": 45,
+  "statLabels": [
+    "Concepts",
+    "Practice Time",
+    "Review"
+  ]
+}

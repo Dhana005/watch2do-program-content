@@ -1,0 +1,28 @@
+{
+  "id": "interrupting-politely",
+  "name": "Interrupting Politely",
+  "level": "Intermediate",
+  "durationLabel": "15-20 min",
+  "equipment": "A notebook and a colleague or mirror to practice speaking aloud",
+  "primaryMuscle": "Meetings & Communication",
+  "secondaryMuscles": [
+    "Speaking",
+    "Workplace English"
+  ],
+  "instructions": [
+    "This lesson focuses on interrupting politely -- practice these key phrases out loud:",
+    "Sorry to jump in, but I wanted to add something here.",
+    "Can I just come in on that point quickly?",
+    "If I could just add a thought before we move on...",
+    "Sorry to interrupt -- one quick clarification first.",
+    "Try using at least two of these phrases in a short role-play scenario at work."
+  ],
+  "sets": 4,
+  "reps": "15 min",
+  "restSec": 30,
+  "statLabels": [
+    "Phrases",
+    "Practice Time",
+    "Review"
+  ]
+}

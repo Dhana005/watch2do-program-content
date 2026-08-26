@@ -1,0 +1,28 @@
+{
+  "id": "wrapping-up-a-meeting",
+  "name": "Wrapping Up a Meeting",
+  "level": "Intermediate",
+  "durationLabel": "15-20 min",
+  "equipment": "A notebook and a colleague or mirror to practice speaking aloud",
+  "primaryMuscle": "Meetings & Communication",
+  "secondaryMuscles": [
+    "Speaking",
+    "Workplace English"
+  ],
+  "instructions": [
+    "This lesson focuses on wrapping up a meeting -- practice these key phrases out loud:",
+    "Let's recap the key decisions before we close.",
+    "So, to summarize, the next steps are...",
+    "I'll send a follow-up email with action items by end of day.",
+    "Thanks everyone, that was a productive session.",
+    "Try using at least two of these phrases in a short role-play scenario at work."
+  ],
+  "sets": 4,
+  "reps": "15 min",
+  "restSec": 30,
+  "statLabels": [
+    "Phrases",
+    "Practice Time",
+    "Review"
+  ]
+}

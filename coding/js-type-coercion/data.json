@@ -1,0 +1,28 @@
+{
+  "id": "js-type-coercion",
+  "name": "Type Coercion",
+  "level": "Beginner",
+  "durationLabel": "20-25 min",
+  "equipment": "A computer with a JS runtime (a browser console, Node.js, or an online REPL like replit.com)",
+  "primaryMuscle": "Fundamentals",
+  "secondaryMuscles": [
+    "Problem Solving",
+    "Syntax"
+  ],
+  "instructions": [
+    "This lesson covers type coercion.",
+    "JavaScript sometimes converts types automatically -- this is called coercion.",
+    "console.log('5' + 3); // '53' -- number is converted to a string",
+    "console.log('5' - 3); // 2 -- string is converted to a number here instead",
+    "console.log(Number('42')); // 42 -- explicit conversion avoids surprises",
+    "Type the example into a real file (or console/REPL), run it, then modify it until you understand why it behaves that way."
+  ],
+  "sets": 3,
+  "reps": "20 min",
+  "restSec": 45,
+  "statLabels": [
+    "Concepts",
+    "Practice Time",
+    "Review"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "js-operators-expressions",
+  "name": "Operators & Expressions",
+  "level": "Beginner",
+  "durationLabel": "20-25 min",
+  "equipment": "A computer with a JS runtime (a browser console, Node.js, or an online REPL like replit.com)",
+  "primaryMuscle": "Fundamentals",
+  "secondaryMuscles": [
+    "Problem Solving",
+    "Syntax"
+  ],
+  "instructions": [
+    "This lesson covers operators & expressions.",
+    "Operators combine values into new ones.",
+    "const total = 4 + 5 * 2; // 14 -- multiplication runs before addition",
+    "const isAdult = age >= 18;",
+    "const combined = 'Hello' + ' ' + 'World';",
+    "Type the example into a real file (or console/REPL), run it, then modify it until you understand why it behaves that way."
+  ],
+  "sets": 3,
+  "reps": "20 min",
+  "restSec": 45,
+  "statLabels": [
+    "Concepts",
+    "Practice Time",
+    "Review"
+  ]
+}

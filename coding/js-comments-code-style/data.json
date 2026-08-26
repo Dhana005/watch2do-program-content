@@ -1,0 +1,28 @@
+{
+  "id": "js-comments-code-style",
+  "name": "Comments & Code Style",
+  "level": "Beginner",
+  "durationLabel": "20-25 min",
+  "equipment": "A computer with a JS runtime (a browser console, Node.js, or an online REPL like replit.com)",
+  "primaryMuscle": "Fundamentals",
+  "secondaryMuscles": [
+    "Problem Solving",
+    "Syntax"
+  ],
+  "instructions": [
+    "This lesson covers comments & code style.",
+    "Comments explain the why, not the what -- good variable names should cover the what.",
+    "// Calculate discount only for orders over $100 (business rule from finance)",
+    "const discount = total > 100 ? total * 0.1 : 0;",
+    "/* Multi-line comments work too, for longer explanations */",
+    "Type the example into a real file (or console/REPL), run it, then modify it until you understand why it behaves that way."
+  ],
+  "sets": 3,
+  "reps": "20 min",
+  "restSec": 45,
+  "statLabels": [
+    "Concepts",
+    "Practice Time",
+    "Review"
+  ]
+}
