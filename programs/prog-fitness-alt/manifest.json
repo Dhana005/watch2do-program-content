@@ -1,0 +1,102 @@
+{
+  "programId": "prog-fitness-alt",
+  "title": "Bodyweight Basics",
+  "days": {
+    "1": [
+      "bodyweight-squat",
+      "incline-push-up",
+      "plank",
+      "bodyweight-walking-lunge",
+      "butt-lift-bridge",
+      "crunches"
+    ],
+    "2": [
+      "sit-up",
+      "dead-bug",
+      "standing-toe-touches",
+      "side-leg-raises",
+      "front-leg-raises",
+      "superman"
+    ],
+    "3": [
+      "incline-push-up-wide",
+      "bench-dips",
+      "arm-circles",
+      "shoulder-circles",
+      "incline-push-up-medium",
+      "isometric-chest-squeezes"
+    ],
+    "4": [
+      "bodyweight-squat",
+      "split-squats",
+      "step-up-knee-raise",
+      "glute-kickback",
+      "single-leg-glute-bridge",
+      "rear-leg-raises"
+    ],
+    "5": [
+      "bodyweight-walking-lunge",
+      "incline-push-up",
+      "plank",
+      "oblique-crunches",
+      "butt-lift-bridge",
+      "standing-toe-touches"
+    ],
+    "6": [
+      "dead-bug",
+      "elbow-to-knee",
+      "cross-body-crunch",
+      "knee-circles",
+      "hip-circles-prone",
+      "standing-hip-circles"
+    ],
+    "8": [
+      "bodyweight-squat",
+      "incline-push-up",
+      "plank",
+      "bodyweight-walking-lunge",
+      "butt-lift-bridge",
+      "crunches"
+    ],
+    "9": [
+      "sit-up",
+      "dead-bug",
+      "standing-toe-touches",
+      "side-leg-raises",
+      "front-leg-raises",
+      "superman"
+    ],
+    "10": [
+      "incline-push-up-wide",
+      "bench-dips",
+      "arm-circles",
+      "shoulder-circles",
+      "incline-push-up-medium",
+      "isometric-chest-squeezes"
+    ],
+    "11": [
+      "bodyweight-squat",
+      "split-squats",
+      "step-up-knee-raise",
+      "glute-kickback",
+      "single-leg-glute-bridge",
+      "rear-leg-raises"
+    ],
+    "12": [
+      "bodyweight-walking-lunge",
+      "incline-push-up",
+      "plank",
+      "oblique-crunches",
+      "butt-lift-bridge",
+      "standing-toe-touches"
+    ],
+    "13": [
+      "dead-bug",
+      "elbow-to-knee",
+      "cross-body-crunch",
+      "knee-circles",
+      "hip-circles-prone",
+      "standing-hip-circles"
+    ]
+  }
+}

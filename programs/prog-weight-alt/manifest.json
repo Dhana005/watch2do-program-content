@@ -1,0 +1,78 @@
+{
+  "programId": "prog-weight-alt",
+  "title": "HIIT Cardio Blast Series",
+  "days": {
+    "1": [
+      "star-jump",
+      "knee-tuck-jump",
+      "split-jump",
+      "mountain-climbers",
+      "plank",
+      "plyo-push-up"
+    ],
+    "2": [
+      "fast-skipping",
+      "lateral-bound",
+      "carioca-quick-step",
+      "scissors-jump",
+      "groiners",
+      "air-bike"
+    ],
+    "3": [
+      "freehand-jump-squat",
+      "rocket-jump",
+      "standing-long-jump",
+      "side-standing-long-jump",
+      "bench-jump",
+      "russian-twist"
+    ],
+    "4": [
+      "wind-sprints",
+      "double-leg-butt-kick",
+      "single-leg-butt-kick",
+      "frog-hops",
+      "alternate-leg-diagonal-bound",
+      "jackknife-sit-up"
+    ],
+    "5": [
+      "star-jump",
+      "split-jump",
+      "plyo-push-up",
+      "mountain-climbers",
+      "scissors-jump",
+      "crunches"
+    ],
+    "6": [
+      "fast-skipping",
+      "knee-tuck-jump",
+      "groiners",
+      "lateral-bound",
+      "freehand-jump-squat",
+      "air-bike"
+    ],
+    "8": [
+      "star-jump",
+      "knee-tuck-jump",
+      "split-jump",
+      "mountain-climbers",
+      "plank",
+      "plyo-push-up"
+    ],
+    "9": [
+      "fast-skipping",
+      "lateral-bound",
+      "carioca-quick-step",
+      "scissors-jump",
+      "groiners",
+      "air-bike"
+    ],
+    "10": [
+      "freehand-jump-squat",
+      "rocket-jump",
+      "standing-long-jump",
+      "side-standing-long-jump",
+      "bench-jump",
+      "russian-twist"
+    ]
+  }
+}
