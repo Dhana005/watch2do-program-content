@@ -1,0 +1,27 @@
+{
+  "id": "great-expectations",
+  "name": "Great Expectations",
+  "level": "Intermediate",
+  "durationLabel": "25-35 min",
+  "equipment": "A copy of the book (public domain -- free from Project Gutenberg or Standard Ebooks)",
+  "primaryMuscle": "Charles Dickens, 1861",
+  "secondaryMuscles": [
+    "Social Ambition",
+    "Identity"
+  ],
+  "instructions": [
+    "Great Expectations was written by Charles Dickens, first published in 1861.",
+    "Pip, a poor orphan, receives a mysterious fortune and rises into gentility -- one of Dickens's most tightly plotted novels, built around a genuinely surprising reveal.",
+    "Discussion prompt: Social Ambition is one of the novel's central threads -- note a passage where you saw it most clearly.",
+    "Read at your own pace this week; use today's video as background before or after your reading session."
+  ],
+  "videoId": "RzfbOKlCFTc",
+  "sets": 3,
+  "reps": "30 min",
+  "restSec": 300,
+  "statLabels": [
+    "Themes",
+    "Read Time",
+    "Reflect"
+  ]
+}

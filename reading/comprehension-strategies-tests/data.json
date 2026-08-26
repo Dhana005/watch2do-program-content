@@ -1,0 +1,27 @@
+{
+  "id": "comprehension-strategies-tests",
+  "name": "Comprehension Strategies for Tests",
+  "level": "Beginner",
+  "durationLabel": "10-12 min",
+  "equipment": "A book or article",
+  "primaryMuscle": "Comprehension",
+  "secondaryMuscles": [
+    "Focused Reading",
+    "Retention"
+  ],
+  "instructions": [
+    "Read with a specific question in mind rather than passively taking in every word equally.",
+    "Underline or note key terms and claims as you go rather than waiting to reread everything at the end.",
+    "Practice recalling what you just read from memory before checking the text again -- retrieval strengthens retention more than rereading.",
+    "Watch today's video for test-oriented comprehension strategies (useful for any dense material, not just exams)."
+  ],
+  "videoId": "xrEq-1UujOo",
+  "sets": 3,
+  "reps": "10 min",
+  "restSec": 300,
+  "statLabels": [
+    "Themes",
+    "Read Time",
+    "Reflect"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "frankenstein",
+  "name": "Frankenstein",
+  "level": "Intermediate",
+  "durationLabel": "25-35 min",
+  "equipment": "A copy of the book (public domain -- free from Project Gutenberg or Standard Ebooks)",
+  "primaryMuscle": "Mary Shelley, 1818",
+  "secondaryMuscles": [
+    "Ambition",
+    "Creation & Responsibility"
+  ],
+  "instructions": [
+    "Frankenstein was written by Mary Shelley, first published in 1818.",
+    "Victor Frankenstein creates life in his laboratory, only to abandon his creation -- often credited as one of the first true science fiction novels, written when Shelley was just 18.",
+    "Discussion prompt: Ambition is one of the novel's central threads -- note a passage where you saw it most clearly.",
+    "Read at your own pace this week; use today's video as background before or after your reading session."
+  ],
+  "videoId": "RzfbOKlCFTc",
+  "sets": 3,
+  "reps": "30 min",
+  "restSec": 300,
+  "statLabels": [
+    "Themes",
+    "Read Time",
+    "Reflect"
+  ]
+}

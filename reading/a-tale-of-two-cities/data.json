@@ -1,0 +1,27 @@
+{
+  "id": "a-tale-of-two-cities",
+  "name": "A Tale of Two Cities",
+  "level": "Intermediate",
+  "durationLabel": "25-35 min",
+  "equipment": "A copy of the book (public domain -- free from Project Gutenberg or Standard Ebooks)",
+  "primaryMuscle": "Charles Dickens, 1859",
+  "secondaryMuscles": [
+    "Revolution",
+    "Sacrifice"
+  ],
+  "instructions": [
+    "A Tale of Two Cities was written by Charles Dickens, first published in 1859.",
+    "Set in London and Paris before and during the French Revolution -- opens with the famous line \"It was the best of times, it was the worst of times.\"",
+    "Discussion prompt: Revolution is one of the novel's central threads -- note a passage where you saw it most clearly.",
+    "Read at your own pace this week; use today's video as background before or after your reading session."
+  ],
+  "videoId": "RzfbOKlCFTc",
+  "sets": 3,
+  "reps": "30 min",
+  "restSec": 300,
+  "statLabels": [
+    "Themes",
+    "Read Time",
+    "Reflect"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "dracula",
+  "name": "Dracula",
+  "level": "Intermediate",
+  "durationLabel": "25-35 min",
+  "equipment": "A copy of the book (public domain -- free from Project Gutenberg or Standard Ebooks)",
+  "primaryMuscle": "Bram Stoker, 1897",
+  "secondaryMuscles": [
+    "Fear of the Foreign",
+    "Modernity vs. the Ancient"
+  ],
+  "instructions": [
+    "Dracula was written by Bram Stoker, first published in 1897.",
+    "Told through letters and diary entries, Jonathan Harker's visit to Transylvania unleashes the vampire Count Dracula on Victorian London -- the novel that defined the modern vampire myth.",
+    "Discussion prompt: Fear of the Foreign is one of the novel's central threads -- note a passage where you saw it most clearly.",
+    "Read at your own pace this week; use today's video as background before or after your reading session."
+  ],
+  "videoId": "xu9VDsI58gk",
+  "sets": 3,
+  "reps": "30 min",
+  "restSec": 300,
+  "statLabels": [
+    "Themes",
+    "Read Time",
+    "Reflect"
+  ]
+}

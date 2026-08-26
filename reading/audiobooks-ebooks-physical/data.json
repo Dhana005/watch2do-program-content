@@ -1,0 +1,27 @@
+{
+  "id": "audiobooks-ebooks-physical",
+  "name": "Audiobooks vs eBooks vs Physical Books",
+  "level": "Beginner",
+  "durationLabel": "2-3 min",
+  "equipment": "None",
+  "primaryMuscle": "Format Choice",
+  "secondaryMuscles": [
+    "Reading Formats",
+    "Personal Fit"
+  ],
+  "instructions": [
+    "Consider mixing formats depending on the book and your situation -- there is no single \"correct\" format for every reader.",
+    "E-books are convenient for travel and adjustable text size; physical books are easier to flip through and leave no screen exposure before bed.",
+    "The best format is simply the one you will actually pick up consistently.",
+    "Watch today's short video comparing all three."
+  ],
+  "videoId": "mZdtR4QiGs8",
+  "sets": 3,
+  "reps": "2 min",
+  "restSec": 180,
+  "statLabels": [
+    "Themes",
+    "Read Time",
+    "Reflect"
+  ]
+}

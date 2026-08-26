@@ -1,0 +1,27 @@
+{
+  "id": "comprehension-techniques-practices",
+  "name": "Comprehension Techniques and Practices",
+  "level": "Intermediate",
+  "durationLabel": "11-13 min",
+  "equipment": "A book or article",
+  "primaryMuscle": "Comprehension",
+  "secondaryMuscles": [
+    "Deep Reading",
+    "Analysis"
+  ],
+  "instructions": [
+    "Identify the author's main argument or throughline for the chapter before getting lost in individual details.",
+    "Notice the evidence or examples the author uses, and whether they genuinely support the point being made.",
+    "Connect what you're reading now to something you already know -- new information sticks better when linked to existing knowledge.",
+    "Watch today's video for more advanced comprehension practices."
+  ],
+  "videoId": "HRVl4cBVqs8",
+  "sets": 3,
+  "reps": "11 min",
+  "restSec": 300,
+  "statLabels": [
+    "Themes",
+    "Read Time",
+    "Reflect"
+  ]
+}

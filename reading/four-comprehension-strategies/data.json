@@ -1,0 +1,27 @@
+{
+  "id": "four-comprehension-strategies",
+  "name": "4 Strategies to Master Reading Comprehension",
+  "level": "Beginner",
+  "durationLabel": "3-5 min",
+  "equipment": "A book or article",
+  "primaryMuscle": "Comprehension",
+  "secondaryMuscles": [
+    "Strategy",
+    "Active Reading"
+  ],
+  "instructions": [
+    "Preview the material's structure (headings, chapter titles) before diving into the details.",
+    "Question what you read as you go -- \"why does this matter\" and \"how does this connect to the last chapter.\"",
+    "Visualize scenes or concepts as you read; a mental picture aids recall far more than words alone.",
+    "Watch today's video for all four strategies explained."
+  ],
+  "videoId": "w_N2-366hL4",
+  "sets": 4,
+  "reps": "3 min",
+  "restSec": 300,
+  "statLabels": [
+    "Themes",
+    "Read Time",
+    "Reflect"
+  ]
+}

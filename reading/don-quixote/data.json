@@ -1,0 +1,27 @@
+{
+  "id": "don-quixote",
+  "name": "Don Quixote",
+  "level": "Advanced",
+  "durationLabel": "25-35 min",
+  "equipment": "A copy of the book (public domain -- free from Project Gutenberg or Standard Ebooks)",
+  "primaryMuscle": "Miguel de Cervantes, 1605",
+  "secondaryMuscles": [
+    "Idealism vs. Reality",
+    "Storytelling Itself"
+  ],
+  "instructions": [
+    "Don Quixote was written by Miguel de Cervantes, first published in 1605.",
+    "An aging man convinces himself he is a knight-errant and sets off on delusional adventures -- often called the first modern novel.",
+    "Discussion prompt: Idealism vs. Reality is one of the novel's central threads -- note a passage where you saw it most clearly.",
+    "Read at your own pace this week; use today's video as background before or after your reading session."
+  ],
+  "videoId": "1P7QYGdIT4Q",
+  "sets": 3,
+  "reps": "30 min",
+  "restSec": 300,
+  "statLabels": [
+    "Themes",
+    "Read Time",
+    "Reflect"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "persuasion",
+  "name": "Persuasion",
+  "level": "Beginner",
+  "durationLabel": "25-35 min",
+  "equipment": "A copy of the book (public domain -- free from Project Gutenberg or Standard Ebooks)",
+  "primaryMuscle": "Jane Austen, 1817",
+  "secondaryMuscles": [
+    "Second Chances",
+    "Regret & Constancy"
+  ],
+  "instructions": [
+    "Persuasion was written by Jane Austen, first published in 1817.",
+    "Anne Elliot reunites with the naval captain she was persuaded to reject years earlier -- Austen's last completed novel, quieter and more reflective than her earlier work.",
+    "Discussion prompt: Second Chances is one of the novel's central threads -- note a passage where you saw it most clearly.",
+    "Read at your own pace this week; use today's video as background before or after your reading session."
+  ],
+  "videoId": "HWX9yGUVWRE",
+  "sets": 3,
+  "reps": "30 min",
+  "restSec": 300,
+  "statLabels": [
+    "Themes",
+    "Read Time",
+    "Reflect"
+  ]
+}

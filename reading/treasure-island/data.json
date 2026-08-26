@@ -1,0 +1,27 @@
+{
+  "id": "treasure-island",
+  "name": "Treasure Island",
+  "level": "Beginner",
+  "durationLabel": "25-35 min",
+  "equipment": "A copy of the book (public domain -- free from Project Gutenberg or Standard Ebooks)",
+  "primaryMuscle": "Robert Louis Stevenson, 1883",
+  "secondaryMuscles": [
+    "Coming of Age",
+    "Greed & Loyalty"
+  ],
+  "instructions": [
+    "Treasure Island was written by Robert Louis Stevenson, first published in 1883.",
+    "Young Jim Hawkins sets sail with a treasure map and a crew that includes the unforgettable Long John Silver -- the novel that shaped much of modern pirate fiction.",
+    "Discussion prompt: Coming of Age is one of the novel's central threads -- note a passage where you saw it most clearly.",
+    "Read at your own pace this week; use today's video as background before or after your reading session."
+  ],
+  "videoId": "HWX9yGUVWRE",
+  "sets": 3,
+  "reps": "30 min",
+  "restSec": 300,
+  "statLabels": [
+    "Themes",
+    "Read Time",
+    "Reflect"
+  ]
+}

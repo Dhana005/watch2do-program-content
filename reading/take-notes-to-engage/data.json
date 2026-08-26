@@ -1,0 +1,27 @@
+{
+  "id": "take-notes-to-engage",
+  "name": "Taking Notes to Engage with a Book",
+  "level": "Beginner",
+  "durationLabel": "11-13 min",
+  "equipment": "A notebook or a note-taking app",
+  "primaryMuscle": "Note-Taking",
+  "secondaryMuscles": [
+    "Engagement",
+    "Retention"
+  ],
+  "instructions": [
+    "Try marginalia -- brief notes or reactions in the margin -- if you own the book, or a running notes doc if you do not.",
+    "Note down passages that surprised, challenged, or resonated with you, not just plot points.",
+    "Do a quick end-of-book review of your notes; it turns a passive read into something you can actually reference later.",
+    "Watch today's video for eight concrete note-taking techniques."
+  ],
+  "videoId": "YHetU_Y6cj4",
+  "sets": 4,
+  "reps": "11 min",
+  "restSec": 300,
+  "statLabels": [
+    "Themes",
+    "Read Time",
+    "Reflect"
+  ]
+}

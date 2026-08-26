@@ -1,0 +1,84 @@
+{
+  "programId": "prog-reading-alt",
+  "title": "Classic Literature Club",
+  "days": {
+    "1": [
+      "pride-and-prejudice"
+    ],
+    "2": [
+      "frankenstein"
+    ],
+    "3": [
+      "wuthering-heights"
+    ],
+    "4": [
+      "jane-eyre"
+    ],
+    "5": [
+      "great-expectations"
+    ],
+    "6": [
+      "a-tale-of-two-cities"
+    ],
+    "8": [
+      "moby-dick"
+    ],
+    "9": [
+      "adventures-of-huckleberry-finn"
+    ],
+    "10": [
+      "alices-adventures-in-wonderland"
+    ],
+    "11": [
+      "dracula"
+    ],
+    "12": [
+      "the-picture-of-dorian-gray"
+    ],
+    "13": [
+      "dr-jekyll-and-mr-hyde"
+    ],
+    "15": [
+      "sherlock-holmes"
+    ],
+    "16": [
+      "crime-and-punishment"
+    ],
+    "17": [
+      "anna-karenina"
+    ],
+    "18": [
+      "war-and-peace"
+    ],
+    "19": [
+      "the-brothers-karamazov"
+    ],
+    "20": [
+      "don-quixote"
+    ],
+    "22": [
+      "the-count-of-monte-cristo"
+    ],
+    "23": [
+      "les-miserables"
+    ],
+    "24": [
+      "the-odyssey"
+    ],
+    "25": [
+      "middlemarch"
+    ],
+    "26": [
+      "emma"
+    ],
+    "27": [
+      "persuasion"
+    ],
+    "29": [
+      "treasure-island"
+    ],
+    "30": [
+      "the-scarlet-letter"
+    ]
+  }
+}

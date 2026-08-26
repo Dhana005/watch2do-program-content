@@ -1,0 +1,27 @@
+{
+  "id": "wuthering-heights",
+  "name": "Wuthering Heights",
+  "level": "Intermediate",
+  "durationLabel": "25-35 min",
+  "equipment": "A copy of the book (public domain -- free from Project Gutenberg or Standard Ebooks)",
+  "primaryMuscle": "Emily Brontë, 1847",
+  "secondaryMuscles": [
+    "Obsession",
+    "Nature & the Moors"
+  ],
+  "instructions": [
+    "Wuthering Heights was written by Emily Brontë, first published in 1847.",
+    "A dark, generational story of Heathcliff and Catherine's destructive love on the Yorkshire moors -- Emily Brontë's only novel, published under the pen name Ellis Bell.",
+    "Discussion prompt: Obsession is one of the novel's central threads -- note a passage where you saw it most clearly.",
+    "Read at your own pace this week; use today's video as background before or after your reading session."
+  ],
+  "videoId": "RzfbOKlCFTc",
+  "sets": 3,
+  "reps": "30 min",
+  "restSec": 300,
+  "statLabels": [
+    "Themes",
+    "Read Time",
+    "Reflect"
+  ]
+}

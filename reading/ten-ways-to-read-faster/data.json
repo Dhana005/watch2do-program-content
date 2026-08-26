@@ -1,0 +1,27 @@
+{
+  "id": "ten-ways-to-read-faster",
+  "name": "10 Ways to Read Faster",
+  "level": "Beginner",
+  "durationLabel": "9-11 min",
+  "equipment": "A book",
+  "primaryMuscle": "Reading Speed",
+  "secondaryMuscles": [
+    "Speed Reading",
+    "Technique"
+  ],
+  "instructions": [
+    "Preview a chapter's headings and first lines before reading it fully -- your brain builds a mental map that speeds up comprehension.",
+    "Widen your peripheral vision practice by taking in 2-3 words per glance instead of reading word by word.",
+    "Reduce regression (rereading the same line) by trusting your first pass and continuing forward.",
+    "Watch today's video for ten concrete techniques to try."
+  ],
+  "videoId": "nHfWOSYRwxU",
+  "sets": 4,
+  "reps": "9 min",
+  "restSec": 300,
+  "statLabels": [
+    "Themes",
+    "Read Time",
+    "Reflect"
+  ]
+}

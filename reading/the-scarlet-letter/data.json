@@ -1,0 +1,27 @@
+{
+  "id": "the-scarlet-letter",
+  "name": "The Scarlet Letter",
+  "level": "Intermediate",
+  "durationLabel": "25-35 min",
+  "equipment": "A copy of the book (public domain -- free from Project Gutenberg or Standard Ebooks)",
+  "primaryMuscle": "Nathaniel Hawthorne, 1850",
+  "secondaryMuscles": [
+    "Sin & Judgment",
+    "Public vs. Private Self"
+  ],
+  "instructions": [
+    "The Scarlet Letter was written by Nathaniel Hawthorne, first published in 1850.",
+    "Hester Prynne is publicly shamed and forced to wear a scarlet \"A\" in Puritan Boston -- a close examination of guilt, hypocrisy, and social punishment.",
+    "Discussion prompt: Sin & Judgment is one of the novel's central threads -- note a passage where you saw it most clearly.",
+    "Read at your own pace this week; use today's video as background before or after your reading session."
+  ],
+  "videoId": "HWX9yGUVWRE",
+  "sets": 3,
+  "reps": "30 min",
+  "restSec": 300,
+  "statLabels": [
+    "Themes",
+    "Read Time",
+    "Reflect"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "the-count-of-monte-cristo",
+  "name": "The Count of Monte Cristo",
+  "level": "Intermediate",
+  "durationLabel": "25-35 min",
+  "equipment": "A copy of the book (public domain -- free from Project Gutenberg or Standard Ebooks)",
+  "primaryMuscle": "Alexandre Dumas, 1844",
+  "secondaryMuscles": [
+    "Betrayal",
+    "Revenge & Justice"
+  ],
+  "instructions": [
+    "The Count of Monte Cristo was written by Alexandre Dumas, first published in 1844.",
+    "Edmond Dantès is wrongly imprisoned and escapes to enact an elaborate revenge on those who betrayed him -- a sprawling, page-turning adventure classic.",
+    "Discussion prompt: Betrayal is one of the novel's central threads -- note a passage where you saw it most clearly.",
+    "Read at your own pace this week; use today's video as background before or after your reading session."
+  ],
+  "videoId": "1P7QYGdIT4Q",
+  "sets": 3,
+  "reps": "30 min",
+  "restSec": 300,
+  "statLabels": [
+    "Themes",
+    "Read Time",
+    "Reflect"
+  ]
+}

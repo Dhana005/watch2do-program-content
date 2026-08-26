@@ -1,0 +1,27 @@
+{
+  "id": "audiobooks-vs-physical",
+  "name": "Audiobooks vs Physical Books",
+  "level": "Beginner",
+  "durationLabel": "6-8 min",
+  "equipment": "None",
+  "primaryMuscle": "Format Choice",
+  "secondaryMuscles": [
+    "Audiobooks",
+    "Reading Formats"
+  ],
+  "instructions": [
+    "Research suggests comprehension is broadly similar between audiobooks and physical reading for most material -- the format matters less than active engagement.",
+    "Audiobooks are especially useful for reclaiming otherwise \"dead\" time (commuting, chores, exercise).",
+    "Physical or e-book reading tends to make flipping back to reread or check something easier, which matters more for dense material.",
+    "Watch today's video for the full comparison."
+  ],
+  "videoId": "teCJ1OxBwEQ",
+  "sets": 3,
+  "reps": "6 min",
+  "restSec": 300,
+  "statLabels": [
+    "Themes",
+    "Read Time",
+    "Reflect"
+  ]
+}

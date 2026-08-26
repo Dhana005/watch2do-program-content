@@ -1,0 +1,27 @@
+{
+  "id": "choosing-your-next-book",
+  "name": "Choosing Which Book to Read Next",
+  "level": "Beginner",
+  "durationLabel": "3-5 min",
+  "equipment": "Your reading list or a bookstore/library",
+  "primaryMuscle": "Book Selection",
+  "secondaryMuscles": [
+    "Reading List",
+    "Decision Making"
+  ],
+  "instructions": [
+    "Keep a running list of books you're curious about so you are never starting from a blank slate when one is finished.",
+    "Give a new book a fair but limited trial (the first 30-50 pages) before deciding to continue or set it aside.",
+    "It is fine to abandon a book that is not working for you -- finishing every book is not the goal, reading consistently is.",
+    "Watch today's video for a framework on choosing what to read next -- a fitting close to this reading habit challenge."
+  ],
+  "videoId": "sFOoJdkxZ7Y",
+  "sets": 3,
+  "reps": "3 min",
+  "restSec": 300,
+  "statLabels": [
+    "Themes",
+    "Read Time",
+    "Reflect"
+  ]
+}

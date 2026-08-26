@@ -1,0 +1,27 @@
+{
+  "id": "teach-yourself-comprehension",
+  "name": "Teaching Yourself Reading Comprehension",
+  "level": "Beginner",
+  "durationLabel": "10-12 min",
+  "equipment": "A book or article",
+  "primaryMuscle": "Comprehension",
+  "secondaryMuscles": [
+    "Self-Teaching",
+    "Practice"
+  ],
+  "instructions": [
+    "Explain what you just read to an imaginary listener (or actually out loud) -- gaps in your explanation reveal gaps in understanding.",
+    "Reread only the specific passage that confused you, not the whole section, once you have identified where clarity broke down.",
+    "Keep a running list of unfamiliar words or references and look them up in a batch rather than stopping constantly.",
+    "Watch today's video for more comprehension-teaching techniques."
+  ],
+  "videoId": "WnS-b-r59ZY",
+  "sets": 3,
+  "reps": "10 min",
+  "restSec": 300,
+  "statLabels": [
+    "Themes",
+    "Read Time",
+    "Reflect"
+  ]
+}

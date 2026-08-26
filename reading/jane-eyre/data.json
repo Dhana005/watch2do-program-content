@@ -1,0 +1,27 @@
+{
+  "id": "jane-eyre",
+  "name": "Jane Eyre",
+  "level": "Beginner",
+  "durationLabel": "25-35 min",
+  "equipment": "A copy of the book (public domain -- free from Project Gutenberg or Standard Ebooks)",
+  "primaryMuscle": "Charlotte Brontë, 1847",
+  "secondaryMuscles": [
+    "Independence",
+    "Moral Conviction"
+  ],
+  "instructions": [
+    "Jane Eyre was written by Charlotte Brontë, first published in 1847.",
+    "Follows orphaned Jane from a harsh childhood through her role as governess at Thornfield Hall -- notable for its strong first-person female narrator and moral independence.",
+    "Discussion prompt: Independence is one of the novel's central threads -- note a passage where you saw it most clearly.",
+    "Read at your own pace this week; use today's video as background before or after your reading session."
+  ],
+  "videoId": "RzfbOKlCFTc",
+  "sets": 3,
+  "reps": "30 min",
+  "restSec": 300,
+  "statLabels": [
+    "Themes",
+    "Read Time",
+    "Reflect"
+  ]
+}

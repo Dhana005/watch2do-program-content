@@ -1,0 +1,27 @@
+{
+  "id": "speed-reading-fundamentals",
+  "name": "Speed Reading Fundamentals",
+  "level": "Beginner",
+  "durationLabel": "10-12 min",
+  "equipment": "A book and a quiet space",
+  "primaryMuscle": "Reading Speed",
+  "secondaryMuscles": [
+    "Speed Reading",
+    "Foundations"
+  ],
+  "instructions": [
+    "Time yourself reading one page at your normal pace to get a baseline words-per-minute you can track improvement against.",
+    "Practice reducing \"subvocalizing\" (silently saying each word in your head) -- it is one of the biggest natural speed limits.",
+    "Use your finger or a pen to guide your eyes down the page slightly faster than feels comfortable; your eyes tend to follow the pacer.",
+    "Watch today's video for the full introduction to speed reading."
+  ],
+  "videoId": "YNtnP-j3DA8",
+  "sets": 3,
+  "reps": "10 min",
+  "restSec": 300,
+  "statLabels": [
+    "Themes",
+    "Read Time",
+    "Reflect"
+  ]
+}

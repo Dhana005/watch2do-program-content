@@ -1,0 +1,27 @@
+{
+  "id": "moby-dick",
+  "name": "Moby-Dick",
+  "level": "Advanced",
+  "durationLabel": "25-35 min",
+  "equipment": "A copy of the book (public domain -- free from Project Gutenberg or Standard Ebooks)",
+  "primaryMuscle": "Herman Melville, 1851",
+  "secondaryMuscles": [
+    "Obsession",
+    "Man vs. Nature"
+  ],
+  "instructions": [
+    "Moby-Dick was written by Herman Melville, first published in 1851.",
+    "Ishmael joins Captain Ahab's doomed hunt for the white whale that took his leg -- famously slow to gain recognition, now considered one of the greatest American novels.",
+    "Discussion prompt: Obsession is one of the novel's central threads -- note a passage where you saw it most clearly.",
+    "Read at your own pace this week; use today's video as background before or after your reading session."
+  ],
+  "videoId": "xu9VDsI58gk",
+  "sets": 3,
+  "reps": "30 min",
+  "restSec": 300,
+  "statLabels": [
+    "Themes",
+    "Read Time",
+    "Reflect"
+  ]
+}

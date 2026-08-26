@@ -1,0 +1,27 @@
+{
+  "id": "middlemarch",
+  "name": "Middlemarch",
+  "level": "Advanced",
+  "durationLabel": "25-35 min",
+  "equipment": "A copy of the book (public domain -- free from Project Gutenberg or Standard Ebooks)",
+  "primaryMuscle": "George Eliot, 1871",
+  "secondaryMuscles": [
+    "Idealism & Compromise",
+    "Provincial Life"
+  ],
+  "instructions": [
+    "Middlemarch was written by George Eliot, first published in 1871.",
+    "A richly detailed portrait of interconnected lives in a fictional English town -- Eliot (Mary Ann Evans) is often ranked among the greatest English novelists.",
+    "Discussion prompt: Idealism & Compromise is one of the novel's central threads -- note a passage where you saw it most clearly.",
+    "Read at your own pace this week; use today's video as background before or after your reading session."
+  ],
+  "videoId": "HWX9yGUVWRE",
+  "sets": 3,
+  "reps": "30 min",
+  "restSec": 300,
+  "statLabels": [
+    "Themes",
+    "Read Time",
+    "Reflect"
+  ]
+}

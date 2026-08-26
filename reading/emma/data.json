@@ -1,0 +1,27 @@
+{
+  "id": "emma",
+  "name": "Emma",
+  "level": "Beginner",
+  "durationLabel": "25-35 min",
+  "equipment": "A copy of the book (public domain -- free from Project Gutenberg or Standard Ebooks)",
+  "primaryMuscle": "Jane Austen, 1815",
+  "secondaryMuscles": [
+    "Matchmaking & Misjudgment",
+    "Self-Awareness"
+  ],
+  "instructions": [
+    "Emma was written by Jane Austen, first published in 1815.",
+    "Emma Woodhouse, confident and well-meaning, meddles in her friends' romantic lives with mixed results -- Austen called her \"a heroine whom no one but myself will much like.\"",
+    "Discussion prompt: Matchmaking & Misjudgment is one of the novel's central threads -- note a passage where you saw it most clearly.",
+    "Read at your own pace this week; use today's video as background before or after your reading session."
+  ],
+  "videoId": "HWX9yGUVWRE",
+  "sets": 3,
+  "reps": "30 min",
+  "restSec": 300,
+  "statLabels": [
+    "Themes",
+    "Read Time",
+    "Reflect"
+  ]
+}

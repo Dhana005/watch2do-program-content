@@ -1,0 +1,27 @@
+{
+  "id": "war-and-peace",
+  "name": "War and Peace",
+  "level": "Advanced",
+  "durationLabel": "25-35 min",
+  "equipment": "A copy of the book (public domain -- free from Project Gutenberg or Standard Ebooks)",
+  "primaryMuscle": "Leo Tolstoy, 1869",
+  "secondaryMuscles": [
+    "Fate & Free Will",
+    "War's Human Cost"
+  ],
+  "instructions": [
+    "War and Peace was written by Leo Tolstoy, first published in 1869.",
+    "Follows several Russian families through the Napoleonic Wars -- vast in scope, blending historical narrative with philosophical reflection.",
+    "Discussion prompt: Fate & Free Will is one of the novel's central threads -- note a passage where you saw it most clearly.",
+    "Read at your own pace this week; use today's video as background before or after your reading session."
+  ],
+  "videoId": "1P7QYGdIT4Q",
+  "sets": 3,
+  "reps": "30 min",
+  "restSec": 300,
+  "statLabels": [
+    "Themes",
+    "Read Time",
+    "Reflect"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "speed-reading-in-practice",
+  "name": "Speed Reading Techniques in Practice",
+  "level": "Beginner",
+  "durationLabel": "4-6 min",
+  "equipment": "A book and a timer",
+  "primaryMuscle": "Reading Speed",
+  "secondaryMuscles": [
+    "Speed Reading",
+    "Applied Practice"
+  ],
+  "instructions": [
+    "Pick a chapter and read it using yesterday's techniques -- pacer, wider glances, less subvocalizing.",
+    "Time yourself again and compare to your Day 1 baseline; even a small improvement compounds over the program.",
+    "Check comprehension with a quick self-summary afterward -- speed only counts if you still understood what you read.",
+    "Watch today's short video as a refresher before you practice."
+  ],
+  "videoId": "xiTK523Ot5U",
+  "sets": 3,
+  "reps": "4 min",
+  "restSec": 180,
+  "statLabels": [
+    "Themes",
+    "Read Time",
+    "Reflect"
+  ]
+}

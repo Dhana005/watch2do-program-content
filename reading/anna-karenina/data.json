@@ -1,0 +1,27 @@
+{
+  "id": "anna-karenina",
+  "name": "Anna Karenina",
+  "level": "Advanced",
+  "durationLabel": "25-35 min",
+  "equipment": "A copy of the book (public domain -- free from Project Gutenberg or Standard Ebooks)",
+  "primaryMuscle": "Leo Tolstoy, 1878",
+  "secondaryMuscles": [
+    "Society & Judgment",
+    "Love & Consequence"
+  ],
+  "instructions": [
+    "Anna Karenina was written by Leo Tolstoy, first published in 1878.",
+    "Anna's affair and its social consequences unfold alongside Levin's quieter search for meaning -- often cited among the greatest novels ever written.",
+    "Discussion prompt: Society & Judgment is one of the novel's central threads -- note a passage where you saw it most clearly.",
+    "Read at your own pace this week; use today's video as background before or after your reading session."
+  ],
+  "videoId": "1P7QYGdIT4Q",
+  "sets": 3,
+  "reps": "30 min",
+  "restSec": 300,
+  "statLabels": [
+    "Themes",
+    "Read Time",
+    "Reflect"
+  ]
+}

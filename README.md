@@ -86,6 +86,19 @@ productivity/{techniqueId}/
                # closely onto these real frameworks. `icon` ('🎯') is the
                # fallback.
 
+reading/{itemId}/
+  data.json    # same shape, no images. prog-reading's 18 entries hold real
+               # reading-skill guidance (speed reading, habit building,
+               # comprehension, note-taking, format choice); prog-reading-alt's
+               # 26 entries are real, correctly-attributed classic novels
+               # (title/author/year/themes/summary) -- `primaryMuscle` holds
+               # "Author, Year" for those instead of a skill category.
+               # `videoId` reused from the already-audited `reading` video
+               # pool throughout (26 real videos total across both
+               # programs; the 4 classic-lit videos are cycled across
+               # prog-reading-alt's 26 books since no per-novel video
+               # exists). `icon` ('📖'/'📚') is the fallback.
+
 programs/{programId}/
   manifest.json   # { programId, title, days: { "1": [id, ...], ... } }
 ```
@@ -170,6 +183,11 @@ script genuinely gets longer and deeper, not just repeated.
   frameworks (Deep Work, Pomodoro, SMART goals, GTD, time blocking,
   digital minimalism, journaling), each with a real matched video from the
   already-audited `productivity` pool.
+- `reading/`: 18 real reading-skill techniques (speed reading, habit
+  building, comprehension, note-taking, format choice) plus 26 real,
+  correctly-attributed classic novels (Austen, Dickens, Dostoevsky,
+  Tolstoy, Melville, and more) with real background and themes, all backed
+  by the already-audited `reading` video pool.
 - `programs/prog-weight/` (30-Day Fat Loss Challenge): all 26 workout days
   covered, 6 exercises each (156 slots). Days 1-20 use exercises unique to
   that stretch of the program; days 22-30 (Weeks 5-6) intentionally reuse
@@ -240,10 +258,15 @@ script genuinely gets longer and deeper, not just repeated.
   days covered, a focused subset of the same real techniques centered on
   building and protecting time blocks.
 
-weight-alt/fitness-alt, cooking/cooking-alt, sleep/sleep-alt, and
-eating/eating-alt/productivity/productivity-alt were all added 2026-08,
-closing out the "-alt programs fall back to the generic video-details
-screen" gap for those five goals.
+- `programs/prog-reading/` (21-Day Reading Habit Challenge): all 18 workout
+  days covered, one real reading-skill technique per day.
+- `programs/prog-reading-alt/` (Classic Literature Club): all 26 workout
+  days covered, one real classic novel per day, no repeats.
+
+weight-alt/fitness-alt, cooking/cooking-alt, sleep/sleep-alt,
+eating/eating-alt/productivity/productivity-alt, and reading/reading-alt
+were all added 2026-08, closing out the "-alt programs fall back to the
+generic video-details screen" gap for those six goals.
 
 ## Consumed by
 

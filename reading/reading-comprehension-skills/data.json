@@ -1,0 +1,27 @@
+{
+  "id": "reading-comprehension-skills",
+  "name": "Reading Comprehension Skills",
+  "level": "Beginner",
+  "durationLabel": "4-6 min",
+  "equipment": "A book or article",
+  "primaryMuscle": "Comprehension",
+  "secondaryMuscles": [
+    "Active Reading",
+    "Foundations"
+  ],
+  "instructions": [
+    "Pause at the end of each section and silently summarize it in one sentence before continuing.",
+    "Notice when your mind has wandered and you are \"reading\" without absorbing -- go back to the last point you actually remember.",
+    "Ask yourself what you expect to happen next; predicting keeps you actively engaged rather than passively scanning.",
+    "Watch today's video for the core comprehension skills."
+  ],
+  "videoId": "W7BW9gv_OkU",
+  "sets": 3,
+  "reps": "4 min",
+  "restSec": 300,
+  "statLabels": [
+    "Themes",
+    "Read Time",
+    "Reflect"
+  ]
+}

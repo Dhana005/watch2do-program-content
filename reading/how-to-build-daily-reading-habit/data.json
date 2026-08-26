@@ -1,0 +1,27 @@
+{
+  "id": "how-to-build-daily-reading-habit",
+  "name": "How to Build a Daily Reading Habit",
+  "level": "Beginner",
+  "durationLabel": "6-8 min",
+  "equipment": "A book you are currently reading",
+  "primaryMuscle": "Habit Building",
+  "secondaryMuscles": [
+    "Consistency",
+    "Environment Design"
+  ],
+  "instructions": [
+    "Remove friction between you and reading -- a bookmark always in place, the book on your pillow, not buried in a bag.",
+    "Track your streak somewhere visible; watching consecutive days build is its own motivation.",
+    "Give yourself permission to read \"badly\" some days -- a single page still counts and keeps the streak alive.",
+    "Watch today's video for more habit-building strategies."
+  ],
+  "videoId": "e4Tjsdvxxkw",
+  "sets": 3,
+  "reps": "6 min",
+  "restSec": 300,
+  "statLabels": [
+    "Themes",
+    "Read Time",
+    "Reflect"
+  ]
+}

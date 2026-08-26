@@ -1,0 +1,27 @@
+{
+  "id": "alices-adventures-in-wonderland",
+  "name": "Alice's Adventures in Wonderland",
+  "level": "Beginner",
+  "durationLabel": "25-35 min",
+  "equipment": "A copy of the book (public domain -- free from Project Gutenberg or Standard Ebooks)",
+  "primaryMuscle": "Lewis Carroll, 1865",
+  "secondaryMuscles": [
+    "Logic & Nonsense",
+    "Childhood Imagination"
+  ],
+  "instructions": [
+    "Alice's Adventures in Wonderland was written by Lewis Carroll, first published in 1865.",
+    "Alice falls down a rabbit hole into a world of riddles and strange characters -- a foundational work of literary nonsense, playful with language and logic.",
+    "Discussion prompt: Logic & Nonsense is one of the novel's central threads -- note a passage where you saw it most clearly.",
+    "Read at your own pace this week; use today's video as background before or after your reading session."
+  ],
+  "videoId": "xu9VDsI58gk",
+  "sets": 3,
+  "reps": "30 min",
+  "restSec": 300,
+  "statLabels": [
+    "Themes",
+    "Read Time",
+    "Reflect"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "best-method-daily-reading-habit",
+  "name": "Best Method to Build a Daily Reading Habit",
+  "level": "Beginner",
+  "durationLabel": "12-14 min",
+  "equipment": "A book you are currently reading",
+  "primaryMuscle": "Habit Building",
+  "secondaryMuscles": [
+    "Consistency",
+    "Habit Stacking"
+  ],
+  "instructions": [
+    "Attach reading to an existing habit (right after your morning coffee, right before you turn off the light) so it needs no extra willpower to remember.",
+    "Start with a small, almost-too-easy daily target (even 5 pages) -- consistency beats ambition in the first few weeks.",
+    "Keep your book visible and within arm's reach; out of sight genuinely means out of mind for most people.",
+    "Watch today's video for the full method."
+  ],
+  "videoId": "LbVpVpgbywk",
+  "sets": 3,
+  "reps": "12 min",
+  "restSec": 300,
+  "statLabels": [
+    "Themes",
+    "Read Time",
+    "Reflect"
+  ]
+}

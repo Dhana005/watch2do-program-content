@@ -1,0 +1,27 @@
+{
+  "id": "make-reading-routine-stick",
+  "name": "Make Your Reading Routine Actually Stick",
+  "level": "Beginner",
+  "durationLabel": "14-16 min",
+  "equipment": "A book you are currently reading",
+  "primaryMuscle": "Habit Building",
+  "secondaryMuscles": [
+    "Long-Term Consistency",
+    "Troubleshooting"
+  ],
+  "instructions": [
+    "Identify the specific moment your reading habit usually breaks down (a busy week, a boring chapter) and plan for it in advance.",
+    "Keep a backup book or format (an audiobook, a short story collection) for the days a long novel feels like too much.",
+    "Review your reading streak weekly rather than daily -- a single missed day matters less than the overall trend.",
+    "Watch today's video for why most reading routines fail and how to avoid it."
+  ],
+  "videoId": "GJAsnKiY74w",
+  "sets": 3,
+  "reps": "14 min",
+  "restSec": 300,
+  "statLabels": [
+    "Themes",
+    "Read Time",
+    "Reflect"
+  ]
+}

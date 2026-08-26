@@ -1,0 +1,27 @@
+{
+  "id": "the-odyssey",
+  "name": "The Odyssey",
+  "level": "Advanced",
+  "durationLabel": "25-35 min",
+  "equipment": "A copy of the book (public domain -- free from Project Gutenberg or Standard Ebooks)",
+  "primaryMuscle": "Homer, c. 8th century BCE",
+  "secondaryMuscles": [
+    "The Hero's Journey",
+    "Homecoming"
+  ],
+  "instructions": [
+    "The Odyssey was written by Homer, first published in c. 8th century BCE.",
+    "Odysseus's decade-long journey home after the Trojan War, filled with monsters, gods, and trials -- one of the oldest surviving works of Western literature.",
+    "Discussion prompt: The Hero's Journey is one of the novel's central threads -- note a passage where you saw it most clearly.",
+    "Read at your own pace this week; use today's video as background before or after your reading session."
+  ],
+  "videoId": "1P7QYGdIT4Q",
+  "sets": 3,
+  "reps": "30 min",
+  "restSec": 300,
+  "statLabels": [
+    "Themes",
+    "Read Time",
+    "Reflect"
+  ]
+}

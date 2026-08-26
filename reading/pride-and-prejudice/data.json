@@ -1,0 +1,27 @@
+{
+  "id": "pride-and-prejudice",
+  "name": "Pride and Prejudice",
+  "level": "Beginner",
+  "durationLabel": "25-35 min",
+  "equipment": "A copy of the book (public domain -- free from Project Gutenberg or Standard Ebooks)",
+  "primaryMuscle": "Jane Austen, 1813",
+  "secondaryMuscles": [
+    "Social Class",
+    "Marriage & Wit"
+  ],
+  "instructions": [
+    "Pride and Prejudice was written by Jane Austen, first published in 1813.",
+    "Follows Elizabeth Bennet as she navigates family, reputation, and her prickly first impressions of the wealthy Mr. Darcy -- one of the most widely read novels in the English language.",
+    "Discussion prompt: Social Class is one of the novel's central threads -- note a passage where you saw it most clearly.",
+    "Read at your own pace this week; use today's video as background before or after your reading session."
+  ],
+  "videoId": "RzfbOKlCFTc",
+  "sets": 3,
+  "reps": "30 min",
+  "restSec": 300,
+  "statLabels": [
+    "Themes",
+    "Read Time",
+    "Reflect"
+  ]
+}

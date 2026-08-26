@@ -1,0 +1,27 @@
+{
+  "id": "adventures-of-huckleberry-finn",
+  "name": "The Adventures of Huckleberry Finn",
+  "level": "Intermediate",
+  "durationLabel": "25-35 min",
+  "equipment": "A copy of the book (public domain -- free from Project Gutenberg or Standard Ebooks)",
+  "primaryMuscle": "Mark Twain, 1884",
+  "secondaryMuscles": [
+    "Freedom",
+    "Morality & Society"
+  ],
+  "instructions": [
+    "The Adventures of Huckleberry Finn was written by Mark Twain, first published in 1884.",
+    "Huck and the escaped enslaved man Jim raft down the Mississippi -- written in vernacular dialect and widely regarded as a foundational American novel.",
+    "Discussion prompt: Freedom is one of the novel's central threads -- note a passage where you saw it most clearly.",
+    "Read at your own pace this week; use today's video as background before or after your reading session."
+  ],
+  "videoId": "xu9VDsI58gk",
+  "sets": 3,
+  "reps": "30 min",
+  "restSec": 300,
+  "statLabels": [
+    "Themes",
+    "Read Time",
+    "Reflect"
+  ]
+}

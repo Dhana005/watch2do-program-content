@@ -1,0 +1,27 @@
+{
+  "id": "improve-reading-comprehension",
+  "name": "Deep-Dive: Improve Your Comprehension",
+  "level": "Intermediate",
+  "durationLabel": "35-40 min",
+  "equipment": "A book or article",
+  "primaryMuscle": "Comprehension",
+  "secondaryMuscles": [
+    "Deep Dive",
+    "Mastery"
+  ],
+  "instructions": [
+    "Read a chapter in full, then immediately write a short summary from memory before checking anything.",
+    "Compare your summary against the actual text and note specifically what you missed.",
+    "Repeat with a slightly harder or denser text over the next few days to build the skill under real difficulty.",
+    "Watch today's in-depth video for the complete picture."
+  ],
+  "videoId": "ia5Q7pCXnlU",
+  "sets": 3,
+  "reps": "35 min",
+  "restSec": 300,
+  "statLabels": [
+    "Themes",
+    "Read Time",
+    "Reflect"
+  ]
+}

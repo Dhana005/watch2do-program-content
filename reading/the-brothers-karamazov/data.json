@@ -1,0 +1,27 @@
+{
+  "id": "the-brothers-karamazov",
+  "name": "The Brothers Karamazov",
+  "level": "Advanced",
+  "durationLabel": "25-35 min",
+  "equipment": "A copy of the book (public domain -- free from Project Gutenberg or Standard Ebooks)",
+  "primaryMuscle": "Fyodor Dostoevsky, 1880",
+  "secondaryMuscles": [
+    "Faith & Doubt",
+    "Family & Guilt"
+  ],
+  "instructions": [
+    "The Brothers Karamazov was written by Fyodor Dostoevsky, first published in 1880.",
+    "Three brothers and their father's murder become the lens for Dostoevsky's deepest questions about faith, free will, and morality -- his final novel.",
+    "Discussion prompt: Faith & Doubt is one of the novel's central threads -- note a passage where you saw it most clearly.",
+    "Read at your own pace this week; use today's video as background before or after your reading session."
+  ],
+  "videoId": "1P7QYGdIT4Q",
+  "sets": 3,
+  "reps": "30 min",
+  "restSec": 300,
+  "statLabels": [
+    "Themes",
+    "Read Time",
+    "Reflect"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "the-picture-of-dorian-gray",
+  "name": "The Picture of Dorian Gray",
+  "level": "Intermediate",
+  "durationLabel": "25-35 min",
+  "equipment": "A copy of the book (public domain -- free from Project Gutenberg or Standard Ebooks)",
+  "primaryMuscle": "Oscar Wilde, 1890",
+  "secondaryMuscles": [
+    "Vanity",
+    "Morality & Corruption"
+  ],
+  "instructions": [
+    "The Picture of Dorian Gray was written by Oscar Wilde, first published in 1890.",
+    "Dorian Gray stays young while his portrait ages and bears the marks of his sins -- Wilde's only novel, controversial on publication for its themes.",
+    "Discussion prompt: Vanity is one of the novel's central threads -- note a passage where you saw it most clearly.",
+    "Read at your own pace this week; use today's video as background before or after your reading session."
+  ],
+  "videoId": "xu9VDsI58gk",
+  "sets": 3,
+  "reps": "30 min",
+  "restSec": 300,
+  "statLabels": [
+    "Themes",
+    "Read Time",
+    "Reflect"
+  ]
+}

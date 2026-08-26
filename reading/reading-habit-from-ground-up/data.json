@@ -1,0 +1,27 @@
+{
+  "id": "reading-habit-from-ground-up",
+  "name": "Build a Reading Habit from the Ground Up",
+  "level": "Beginner",
+  "durationLabel": "10-12 min",
+  "equipment": "A book you are currently reading",
+  "primaryMuscle": "Habit Building",
+  "secondaryMuscles": [
+    "Foundations",
+    "Realistic Goals"
+  ],
+  "instructions": [
+    "If earlier attempts have not stuck, restart with a genuinely smaller commitment than you think you need.",
+    "Choose a book you are excited about over one you feel you \"should\" read -- enjoyment is what carries a new habit through its first weeks.",
+    "Give yourself a specific, low-stakes time and place, not just an intention to \"read more.\"",
+    "Watch today's video for a ground-up approach to habit building."
+  ],
+  "videoId": "sb1tUGglvzQ",
+  "sets": 3,
+  "reps": "10 min",
+  "restSec": 300,
+  "statLabels": [
+    "Themes",
+    "Read Time",
+    "Reflect"
+  ]
+}

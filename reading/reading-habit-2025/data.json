@@ -1,0 +1,27 @@
+{
+  "id": "reading-habit-2025",
+  "name": "Building Your Reading Habit",
+  "level": "Beginner",
+  "durationLabel": "5-7 min",
+  "equipment": "A book you are currently reading",
+  "primaryMuscle": "Habit Building",
+  "secondaryMuscles": [
+    "Consistency",
+    "Motivation"
+  ],
+  "instructions": [
+    "Reconnect with why you wanted to read more in the first place -- a concrete reason sustains a habit longer than a vague goal.",
+    "Swap one low-value screen habit (a specific app, a specific time slot) directly for reading time this week.",
+    "Notice what time of day you actually have energy to focus, and protect that slot for reading rather than hoping to \"find time.\"",
+    "Watch today's video for a fresh take on building the habit."
+  ],
+  "videoId": "gwPjO_d2Sfo",
+  "sets": 3,
+  "reps": "5 min",
+  "restSec": 300,
+  "statLabels": [
+    "Themes",
+    "Read Time",
+    "Reflect"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "sherlock-holmes",
+  "name": "The Adventures of Sherlock Holmes",
+  "level": "Beginner",
+  "durationLabel": "25-35 min",
+  "equipment": "A copy of the book (public domain -- free from Project Gutenberg or Standard Ebooks)",
+  "primaryMuscle": "Arthur Conan Doyle, 1892",
+  "secondaryMuscles": [
+    "Deduction & Logic",
+    "Victorian London"
+  ],
+  "instructions": [
+    "The Adventures of Sherlock Holmes was written by Arthur Conan Doyle, first published in 1892.",
+    "A collection of twelve short stories featuring the detective Sherlock Holmes and his companion Dr. Watson -- foundational to the entire detective fiction genre.",
+    "Discussion prompt: Deduction & Logic is one of the novel's central threads -- note a passage where you saw it most clearly.",
+    "Read at your own pace this week; use today's video as background before or after your reading session."
+  ],
+  "videoId": "1P7QYGdIT4Q",
+  "sets": 3,
+  "reps": "30 min",
+  "restSec": 300,
+  "statLabels": [
+    "Themes",
+    "Read Time",
+    "Reflect"
+  ]
+}

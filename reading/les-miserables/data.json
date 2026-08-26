@@ -1,0 +1,27 @@
+{
+  "id": "les-miserables",
+  "name": "Les Misérables",
+  "level": "Advanced",
+  "durationLabel": "25-35 min",
+  "equipment": "A copy of the book (public domain -- free from Project Gutenberg or Standard Ebooks)",
+  "primaryMuscle": "Victor Hugo, 1862",
+  "secondaryMuscles": [
+    "Redemption",
+    "Justice & Poverty"
+  ],
+  "instructions": [
+    "Les Misérables was written by Victor Hugo, first published in 1862.",
+    "Jean Valjean's journey from convict to redeemed man unfolds against the backdrop of 19th-century France -- an epic examination of justice and mercy.",
+    "Discussion prompt: Redemption is one of the novel's central threads -- note a passage where you saw it most clearly.",
+    "Read at your own pace this week; use today's video as background before or after your reading session."
+  ],
+  "videoId": "1P7QYGdIT4Q",
+  "sets": 3,
+  "reps": "30 min",
+  "restSec": 300,
+  "statLabels": [
+    "Themes",
+    "Read Time",
+    "Reflect"
+  ]
+}
