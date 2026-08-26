@@ -135,6 +135,14 @@ script genuinely gets longer and deeper, not just repeated.
 - `programs/prog-yoga/` (4-Week Yoga Foundations): all 24 practice days
   covered, 6 poses each (144 slots) — the same 6 poses per theme every week,
   by design (repetition builds familiarity in a foundations program).
+- `programs/prog-yoga-alt/` (Power Yoga Intensive): all 12 practice days
+  covered, 6 poses each (72 slots), reusing the same 36-pose `yoga/` library
+  as prog-yoga — no new poses or images. Days mix poses across prog-yoga's
+  6 themes into faster-paced, cross-category "power flow" combos (e.g.
+  Standing Strength: Mountain, Warrior I/II, Triangle, Chair, Half Moon)
+  instead of one theme per day, repeating the same 6-day split across its
+  2 weeks. Added 2026-08 (previously fell back to the generic single-video
+  screen, the only yoga-goal program still uncurated).
 - `programs/prog-meditation/` (21-Day Mindfulness Challenge): all 18 session
   days covered, one guided session per day — the 6 techniques repeat across
   the 3 weeks with longer, deeper guidance each time (5 → 10 → 15 min), real

@@ -1,0 +1,102 @@
+{
+  "programId": "prog-yoga-alt",
+  "title": "Power Yoga Intensive",
+  "days": {
+    "1": [
+      "mountain-pose",
+      "warrior-one",
+      "warrior-two",
+      "triangle-pose",
+      "chair-pose",
+      "half-moon-pose"
+    ],
+    "2": [
+      "yoga-plank-pose",
+      "boat-pose",
+      "side-plank-pose",
+      "tree-pose",
+      "eagle-pose",
+      "downward-dog"
+    ],
+    "3": [
+      "cobra-pose",
+      "upward-dog",
+      "locust-pose",
+      "bridge-pose",
+      "camel-pose",
+      "fish-pose"
+    ],
+    "4": [
+      "revolved-triangle-pose",
+      "half-moon-pose",
+      "eagle-pose",
+      "seated-spinal-twist",
+      "gate-pose",
+      "wide-legged-forward-fold"
+    ],
+    "5": [
+      "warrior-two",
+      "chair-pose",
+      "boat-pose",
+      "side-plank-pose",
+      "camel-pose",
+      "standing-forward-fold"
+    ],
+    "6": [
+      "pigeon-pose",
+      "lizard-pose",
+      "supine-spinal-twist",
+      "cat-cow-pose",
+      "childs-pose",
+      "easy-seated-pose"
+    ],
+    "8": [
+      "mountain-pose",
+      "warrior-one",
+      "warrior-two",
+      "triangle-pose",
+      "chair-pose",
+      "half-moon-pose"
+    ],
+    "9": [
+      "yoga-plank-pose",
+      "boat-pose",
+      "side-plank-pose",
+      "tree-pose",
+      "eagle-pose",
+      "downward-dog"
+    ],
+    "10": [
+      "cobra-pose",
+      "upward-dog",
+      "locust-pose",
+      "bridge-pose",
+      "camel-pose",
+      "fish-pose"
+    ],
+    "11": [
+      "revolved-triangle-pose",
+      "half-moon-pose",
+      "eagle-pose",
+      "seated-spinal-twist",
+      "gate-pose",
+      "wide-legged-forward-fold"
+    ],
+    "12": [
+      "warrior-two",
+      "chair-pose",
+      "boat-pose",
+      "side-plank-pose",
+      "camel-pose",
+      "standing-forward-fold"
+    ],
+    "13": [
+      "pigeon-pose",
+      "lizard-pose",
+      "supine-spinal-twist",
+      "cat-cow-pose",
+      "childs-pose",
+      "easy-seated-pose"
+    ]
+  }
+}
