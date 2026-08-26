@@ -1,0 +1,24 @@
+{
+  "id": "4-7-8-breathing",
+  "name": "4-7-8 Breathing",
+  "level": "Beginner",
+  "durationLabel": "5-10 min",
+  "equipment": "A quiet space, seated or lying down",
+  "primaryMuscle": "Breath Control",
+  "secondaryMuscles": [
+    "Relaxation",
+    "Sleep Prep"
+  ],
+  "instructions": [
+    "Sit or lie down, and rest the tip of your tongue behind your upper front teeth.",
+    "Exhale completely through your mouth with a soft whoosh sound.",
+    "Close your mouth and inhale quietly through your nose for a count of 4.",
+    "Hold your breath for a count of 7.",
+    "Exhale completely through your mouth for a count of 8, making the whoosh sound again.",
+    "Repeat for 4 rounds total, letting each cycle feel a little more settled than the last."
+  ],
+  "videoId": "LiUnFJ8P4gM",
+  "sets": 4,
+  "reps": "19 sec per round",
+  "restSec": 20
+}

@@ -1,0 +1,23 @@
+{
+  "id": "breath-counting",
+  "name": "Breath Counting",
+  "level": "Beginner",
+  "durationLabel": "5-10 min",
+  "equipment": "A quiet space and a comfortable seat",
+  "primaryMuscle": "Breath Control",
+  "secondaryMuscles": [
+    "Focus",
+    "Mindfulness"
+  ],
+  "instructions": [
+    "Sit comfortably with your eyes closed or your gaze softened, and let your breathing settle into its natural rhythm.",
+    "Silently count \"one\" as you exhale, then \"two\" on the next exhale, continuing up to \"ten\".",
+    "Once you reach ten, start again from \"one\" — you're only counting the exhale, not the inhale.",
+    "Whenever you notice your mind has wandered or you've lost count, simply start again from \"one\" without judgment.",
+    "Continue this cycle for 5-10 minutes, treating every restart as part of the practice, not a failure of it."
+  ],
+  "videoId": "invL2KEt15Q",
+  "sets": 1,
+  "reps": "7 min",
+  "restSec": 30
+}

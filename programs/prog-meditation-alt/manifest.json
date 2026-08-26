@@ -1,0 +1,33 @@
+{
+  "programId": "prog-meditation-alt",
+  "title": "Guided Breathing Series",
+  "days": {
+    "1": [
+      "box-breathing"
+    ],
+    "2": [
+      "4-7-8-breathing"
+    ],
+    "3": [
+      "diaphragmatic-breathing"
+    ],
+    "4": [
+      "alternate-nostril-breathing"
+    ],
+    "5": [
+      "extended-exhale-breathing"
+    ],
+    "6": [
+      "coherent-breathing"
+    ],
+    "8": [
+      "ujjayi-breathing"
+    ],
+    "9": [
+      "breath-counting"
+    ],
+    "10": [
+      "lions-breath"
+    ]
+  }
+}

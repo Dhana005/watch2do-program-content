@@ -1,0 +1,23 @@
+{
+  "id": "coherent-breathing",
+  "name": "Coherent (Resonant) Breathing",
+  "level": "Beginner",
+  "durationLabel": "5-10 min",
+  "equipment": "A quiet space, seated or lying down",
+  "primaryMuscle": "Breath Control",
+  "secondaryMuscles": [
+    "Heart Rate Variability",
+    "Calm Focus"
+  ],
+  "instructions": [
+    "Sit or lie down comfortably, letting your body settle and your jaw soften.",
+    "Inhale gently through your nose for a count of 5.",
+    "Exhale gently through your nose for a count of 5, with no pause held at either end.",
+    "Keep the pace steady — around 5-6 breaths per minute total, smoother and slower than a normal breath.",
+    "Continue for 5-10 minutes, letting each breath stay effortless and even."
+  ],
+  "videoId": "Vi0_7idqcFI",
+  "sets": 1,
+  "reps": "8 min",
+  "restSec": 30
+}

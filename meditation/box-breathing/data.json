@@ -1,0 +1,24 @@
+{
+  "id": "box-breathing",
+  "name": "Box Breathing (4-4-4-4)",
+  "level": "Beginner",
+  "durationLabel": "5-10 min",
+  "equipment": "A quiet space, seated or lying down",
+  "primaryMuscle": "Breath Control",
+  "secondaryMuscles": [
+    "Stress Relief",
+    "Focus"
+  ],
+  "instructions": [
+    "Sit or lie down comfortably with your spine tall and shoulders relaxed.",
+    "Exhale fully, then inhale slowly through your nose for a count of 4.",
+    "Hold the breath gently for a count of 4 — no straining.",
+    "Exhale slowly through your nose for a count of 4.",
+    "Hold the breath out for a count of 4, then begin the next round.",
+    "Repeat for 4 rounds, keeping each side of the \"box\" the same length."
+  ],
+  "videoId": "oN8xV3Kb5-Q",
+  "sets": 4,
+  "reps": "4 sec each phase",
+  "restSec": 20
+}

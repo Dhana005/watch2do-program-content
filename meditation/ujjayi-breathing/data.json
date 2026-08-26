@@ -1,0 +1,23 @@
+{
+  "id": "ujjayi-breathing",
+  "name": "Ujjayi Breathing (Ocean's Breath)",
+  "level": "Intermediate",
+  "durationLabel": "5-10 min",
+  "equipment": "A quiet space and a comfortable seat",
+  "primaryMuscle": "Breath Control",
+  "secondaryMuscles": [
+    "Focus",
+    "Steady Rhythm"
+  ],
+  "instructions": [
+    "Sit comfortably with a tall spine, and take a few natural breaths through your nose.",
+    "Slightly constrict the back of your throat, as if quietly fogging up a mirror, but keep your mouth closed.",
+    "Inhale through your nose, letting the breath make a soft, steady ocean-like sound in your throat.",
+    "Exhale through your nose with the same gentle constriction, keeping the sound smooth and even.",
+    "Continue for 5-10 minutes, keeping the sound consistent without straining your throat."
+  ],
+  "videoId": "IQrsJ-yZWV8",
+  "sets": 1,
+  "reps": "8 min",
+  "restSec": 30
+}

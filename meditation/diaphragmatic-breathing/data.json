@@ -1,0 +1,23 @@
+{
+  "id": "diaphragmatic-breathing",
+  "name": "Diaphragmatic (Belly) Breathing",
+  "level": "Beginner",
+  "durationLabel": "5-10 min",
+  "equipment": "A quiet space, seated or lying down",
+  "primaryMuscle": "Breath Control",
+  "secondaryMuscles": [
+    "Core Awareness",
+    "Relaxation"
+  ],
+  "instructions": [
+    "Lie on your back with knees bent, or sit comfortably with a straight spine.",
+    "Place one hand on your chest and the other on your belly, just below your ribs.",
+    "Inhale slowly through your nose, letting your belly rise while keeping your chest still.",
+    "Exhale slowly through pursed lips, feeling your belly gently fall and your hand follow it in.",
+    "Continue for 5-10 minutes, keeping the breath slow, smooth, and centered in your belly rather than your chest."
+  ],
+  "videoId": "7Ep5mKuRmAA",
+  "sets": 1,
+  "reps": "8 min",
+  "restSec": 30
+}

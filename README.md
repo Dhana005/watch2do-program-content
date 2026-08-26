@@ -30,6 +30,10 @@ meditation/{sessionId}/
   data.json    # same shape, statLabels relabels sets/reps/rest for display,
                # videoId added 2026-08 (see below)
   0.jpg, 1.jpg # AI-generated, shared across a technique's 3 duration-tier ids
+               # (prog-meditation's 18 sessions only — the 9 real breathing
+               # techniques curated 2026-08 for prog-meditation-alt have a
+               # real videoId and no images at all, since they never had a
+               # fake-photo phase to begin with — see Sourcing)
 
 learning/{lessonId}/
   data.json    # same shape, no images — instructions hold real phrases to
@@ -104,7 +108,10 @@ script genuinely gets longer and deeper, not just repeated.
   Folds, Restorative).
 - `meditation/`: 18 guided sessions — 6 techniques (breath awareness, body
   scan, loving-kindness, thought observation, progressive muscle relaxation,
-  gratitude reflection) × 3 duration tiers each.
+  gratitude reflection) × 3 duration tiers each — plus 9 real breathing
+  techniques (box breathing, 4-7-8, diaphragmatic, alternate nostril,
+  extended exhale, coherent, ujjayi, breath counting, lion's breath) added
+  2026-08 for prog-meditation-alt, each with a real videoId from the start.
 - `learning/`: 36 English conversation lessons across 6 topic categories
   (Everyday Essentials, Food & Dining, Travel & Directions, Work &
   Technology, Social & Emotions, Health & Hobbies), each with 4 real key
@@ -132,6 +139,10 @@ script genuinely gets longer and deeper, not just repeated.
   days covered, one guided session per day — the 6 techniques repeat across
   the 3 weeks with longer, deeper guidance each time (5 → 10 → 15 min), real
   progression rather than a literal repeat.
+- `programs/prog-meditation-alt/` (Guided Breathing Series): all 9 workout
+  days covered, one real breathing technique per day, no repeats — added
+  2026-08 (previously fell back to the generic single-video screen, the
+  only meditation-goal program still uncurated).
 - `programs/prog-learning/` (Conversational English Bootcamp): all 36 lesson
   days covered, one lesson per day, one topic category per week (e.g. all of
   "Food & Dining" in week 2) — a linear curriculum, not a repeating split.
@@ -141,11 +152,14 @@ script genuinely gets longer and deeper, not just repeated.
 
 ## Consumed by
 
-[Dhana005/Watch2Do](https://github.com/Dhana005/Watch2Do) — `src/data/exerciseLibrary.ts`
-is a generated, bundled copy of this repo's content (so the app works
-offline and without an extra network round-trip on every program screen);
-only the `exercises/`/`yoga/`/`meditation/` `0.jpg`/`1.jpg` reference photos
-are fetched from this repo's raw URLs live (`learning/`/`coding/` have none).
-This repo is the source of truth — when curating a new program, author/
-derive the data here first, generate the matching copy in
-`exerciseLibrary.ts`, and keep both in sync going forward.
+[Dhana005/Watch2Do](https://github.com/Dhana005/Watch2Do) — `src/data/programContent.ts`
+(renamed from `exerciseLibrary.ts` 2026-08 — it covers yoga/meditation/
+learning/coding too, not just exercises) is a generated, bundled copy of
+this repo's data fields (so the app works offline and without an extra
+network round-trip on every program screen); only real media is fetched
+live from elsewhere: `exercises/`/`yoga/`/`meditation/`'s `0.jpg`/`1.jpg`
+reference photos from this repo's raw URLs, and any `videoId` (meditation,
+learning) from YouTube directly via the app's `VideoEmbed` component —
+`coding/` has neither yet. This repo is the source of truth — when
+curating a new program, author/derive the data here first, generate the
+matching copy in `programContent.ts`, and keep both in sync going forward.

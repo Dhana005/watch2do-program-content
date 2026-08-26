@@ -1,0 +1,23 @@
+{
+  "id": "alternate-nostril-breathing",
+  "name": "Alternate Nostril Breathing (Nadi Shodhana)",
+  "level": "Intermediate",
+  "durationLabel": "5-10 min",
+  "equipment": "A quiet space and a comfortable seat",
+  "primaryMuscle": "Breath Control",
+  "secondaryMuscles": [
+    "Balance",
+    "Focus"
+  ],
+  "instructions": [
+    "Sit comfortably with a tall spine, and bring your right hand up, folding your index and middle fingers into your palm.",
+    "Close your right nostril with your right thumb, and inhale slowly through your left nostril.",
+    "Close your left nostril with your ring finger, release your thumb, and exhale slowly through your right nostril.",
+    "Inhale through your right nostril, then close it and exhale through your left nostril.",
+    "That completes one round — continue alternating for 5 rounds, keeping each breath smooth and unhurried."
+  ],
+  "videoId": "8VwufJrUhic",
+  "sets": 5,
+  "reps": "1 round",
+  "restSec": 15
+}

@@ -1,0 +1,23 @@
+{
+  "id": "extended-exhale-breathing",
+  "name": "Extended Exhale Breathing",
+  "level": "Beginner",
+  "durationLabel": "5-10 min",
+  "equipment": "A quiet space, seated or lying down",
+  "primaryMuscle": "Breath Control",
+  "secondaryMuscles": [
+    "Anxiety Relief",
+    "Nervous System Reset"
+  ],
+  "instructions": [
+    "Sit or lie down comfortably, and let your first few breaths settle into a natural rhythm.",
+    "Inhale through your nose for a count of 4.",
+    "Exhale slowly through your nose or mouth for a count of 8 — twice as long as the inhale.",
+    "Let your exhale be smooth and unforced, not squeezed out.",
+    "Repeat for 6 rounds, noticing your body settling more with each longer exhale."
+  ],
+  "videoId": "vtXQrdsVysg",
+  "sets": 6,
+  "reps": "12 sec per round",
+  "restSec": 15
+}

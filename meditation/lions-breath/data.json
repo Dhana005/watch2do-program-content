@@ -1,0 +1,23 @@
+{
+  "id": "lions-breath",
+  "name": "Lion's Breath (Simhasana)",
+  "level": "Beginner",
+  "durationLabel": "5-10 min",
+  "equipment": "A quiet space, kneeling or seated",
+  "primaryMuscle": "Breath Control",
+  "secondaryMuscles": [
+    "Tension Release",
+    "Energy"
+  ],
+  "instructions": [
+    "Kneel or sit comfortably, placing your hands on your knees with fingers spread wide.",
+    "Inhale deeply through your nose, letting your belly fill with air.",
+    "Open your mouth wide, stick your tongue out and down toward your chin, and open your eyes wide.",
+    "Exhale forcefully through your mouth with an audible \"ha\" sound, from deep in your belly.",
+    "Relax your face and breathe normally for a moment, then repeat for 3 rounds."
+  ],
+  "videoId": "xdUyHPa66A4",
+  "sets": 3,
+  "reps": "1 round",
+  "restSec": 30
+}
