@@ -1,0 +1,27 @@
+{
+  "id": "digital-sunset",
+  "name": "Digital Sunset: Screens Off an Hour Early",
+  "level": "Beginner",
+  "durationLabel": "10 min",
+  "equipment": "None -- a plan for the evening, and something screen-free to do instead",
+  "primaryMuscle": "Sleep Hygiene",
+  "secondaryMuscles": [
+    "Blue Light",
+    "Evening Routine"
+  ],
+  "instructions": [
+    "Set every screen (phone, TV, laptop, tablet) aside a full hour before bed tonight.",
+    "Replace that hour with something screen-free and calm: reading on paper, stretching, journaling, or a warm shower.",
+    "Notice if you fall asleep faster or wake up feeling more rested -- most people find even one screen-free hour makes a real difference.",
+    "Close the hour with tonight's wind-down meditation."
+  ],
+  "sets": 3,
+  "reps": "10 min",
+  "restSec": 300,
+  "statLabels": [
+    "Steps",
+    "Wind-Down Time",
+    "Lights Out"
+  ],
+  "videoId": "_3fvhTO3pLM"
+}

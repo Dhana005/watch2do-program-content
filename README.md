@@ -49,6 +49,24 @@ coding/{lessonId}/
                # real, correct Python snippet; `icon` ('💻') shown in place
                # of a photo (see Sourcing)
 
+cooking/{recipeId}/
+  data.json    # same shape, no images — instructions hold real cooking
+               # technique guidance; `videoId` is a real, verified recipe
+               # video reused from the `cooking` entry in
+               # scripts/seed-videos.mjs (already-audited real durations),
+               # not fresh per-recipe research. `icon` ('🍱') is the
+               # program-day.tsx fallback.
+
+sleep/{routineId}/
+  data.json    # same shape, no images — instructions hold real,
+               # evidence-based sleep-hygiene guidance (consistent
+               # schedule, wind-down routine, room temperature/darkness,
+               # caffeine timing, morning light for circadian reset);
+               # `videoId` reused from the `sleep` entry in
+               # scripts/seed-videos.mjs (a small real pool of guided
+               # sleep meditation / bedtime yoga videos, cycled across
+               # nights). `icon` ('😴') is the fallback.
+
 programs/{programId}/
   manifest.json   # { programId, title, days: { "1": [id, ...], ... } }
 ```
@@ -120,6 +138,12 @@ script genuinely gets longer and deeper, not just repeated.
   Control Flow, Data Structures, Functions, Working with Data,
   Object-Oriented Python, Tools & Libraries, Real Projects), each with a
   real, runnable code example.
+- `cooking/`: 11 real one-pot/meal-prep techniques, each with a real
+  matched YouTube video from the already-audited `cooking` video pool.
+- `sleep/`: 18 real, evidence-based sleep-hygiene routines (consistency,
+  wind-down, environment, relaxation technique, caffeine/screen timing,
+  circadian light exposure), reusing a small real video pool (guided sleep
+  meditation + bedtime yoga) from the already-audited `sleep` video pool.
 - `programs/prog-weight/` (30-Day Fat Loss Challenge): all 26 workout days
   covered, 6 exercises each (156 slots). Days 1-20 use exercises unique to
   that stretch of the program; days 22-30 (Weeks 5-6) intentionally reuse
@@ -157,6 +181,29 @@ script genuinely gets longer and deeper, not just repeated.
 - `programs/prog-coding/` (Python Basics Bootcamp): all 48 lesson days
   covered, one lesson per day, one topic category per week, same linear
   structure as prog-learning.
+- `programs/prog-weight-alt/` (HIIT Cardio Blast Series): all 9 workout days
+  covered, 6 exercises each, reusing prog-weight's exercise pool in
+  explosive/cardio combos (jump squats, sprints, plyo push-ups) instead of
+  the strength-focused split.
+- `programs/prog-fitness-alt/` (Bodyweight Basics): all 12 workout days
+  covered, 6 exercises each, same pool as prog-fitness in a gentler,
+  beginner-focused split.
+- `programs/prog-cooking/` (Meal Prep Mastery Series): all 5 days covered,
+  one real one-pot/meal-prep technique per day.
+- `programs/prog-cooking-alt/` (One-Pot Dinners): all 6 workout days
+  covered, one real one-pot technique per day (pasta, sheet-pan, stir-fry,
+  soup/stew, grain bowl, freezer-friendly) — distinct combos from
+  prog-cooking, same `cooking/` library.
+- `programs/prog-sleep/` (Better Sleep in 7 Nights): all 6 workout nights
+  covered, one real sleep-hygiene routine per night.
+- `programs/prog-sleep-alt/` (Deep Sleep Reset): all 12 workout nights
+  covered, a deeper 12-routine sequence from the same `sleep/` library
+  (progressive muscle relaxation, journaling, circadian light exposure,
+  etc. — routines prog-sleep's shorter program doesn't reach).
+
+Both weight-alt/fitness-alt and cooking/cooking-alt and sleep/sleep-alt
+were added 2026-08, closing out the "-alt programs fall back to the
+generic video-details screen" gap for those three goals.
 
 ## Consumed by
 

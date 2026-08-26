@@ -1,0 +1,27 @@
+{
+  "id": "lazy-weeknight-dinners",
+  "name": "Lazy Weeknight Dinners",
+  "level": "Beginner",
+  "durationLabel": "15-20 min",
+  "equipment": "One large pot or skillet",
+  "primaryMuscle": "Low-Effort Cooking",
+  "secondaryMuscles": [
+    "Pantry Staples",
+    "One-Pan Cleanup"
+  ],
+  "instructions": [
+    "Build the meal around one starch (pasta, rice, or frozen dumplings) that cooks directly in the sauce or broth -- one less pot to watch.",
+    "Use pre-chopped, frozen, or canned vegetables on nights you are too tired to prep from scratch; they are still real food.",
+    "Stir in a jarred or freezer-stashed sauce instead of building one from scratch when time is short.",
+    "Finish with something fresh -- herbs, a squeeze of lime, grated cheese -- to make a shortcut dinner taste intentional."
+  ],
+  "sets": 4,
+  "reps": "18 min",
+  "restSec": 180,
+  "statLabels": [
+    "Servings",
+    "Active Time",
+    "Cool Down"
+  ],
+  "videoId": "lWqYFp8rf2Y"
+}

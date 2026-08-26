@@ -1,0 +1,27 @@
+{
+  "id": "skillet-stir-fry",
+  "name": "Skillet Stir-Fry",
+  "level": "Beginner",
+  "durationLabel": "15-20 min",
+  "equipment": "A large skillet or wok",
+  "primaryMuscle": "High-Heat One-Pan Cooking",
+  "secondaryMuscles": [
+    "Quick Cooking",
+    "Sauce Building"
+  ],
+  "instructions": [
+    "Have every ingredient chopped and ready before you turn on the heat -- stir-frying moves fast once it starts.",
+    "Cook protein first over high heat until just done, then remove it from the pan so it does not overcook.",
+    "Stir-fry vegetables in the same pan, hardest ones first, adding quicker-cooking ones later.",
+    "Return the protein, add sauce, and toss everything together for the last minute so it coats evenly."
+  ],
+  "sets": 4,
+  "reps": "18 min",
+  "restSec": 120,
+  "statLabels": [
+    "Servings",
+    "Active Time",
+    "Cool Down"
+  ],
+  "videoId": "lWqYFp8rf2Y"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "wind-down-routine",
+  "name": "Build a Wind-Down Routine",
+  "level": "Beginner",
+  "durationLabel": "12 min",
+  "equipment": "A dim lamp and a comfortable spot away from your bed",
+  "primaryMuscle": "Pre-Sleep Routine",
+  "secondaryMuscles": [
+    "Relaxation",
+    "Screen-Free Time"
+  ],
+  "instructions": [
+    "Start winding down 30-45 minutes before bed with the same short sequence every night -- your brain learns to associate it with sleep.",
+    "Dim overhead lights and switch to a lamp; bright light in the evening delays your body's natural melatonin release.",
+    "Put your phone in another room or on do-not-disturb -- even silent notifications interrupt the wind-down signal.",
+    "Follow tonight's guided deep sleep meditation as the last step of the routine, right before lights out."
+  ],
+  "sets": 4,
+  "reps": "12 min",
+  "restSec": 300,
+  "statLabels": [
+    "Steps",
+    "Wind-Down Time",
+    "Lights Out"
+  ],
+  "videoId": "PvG28KqwVNM"
+}

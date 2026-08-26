@@ -1,0 +1,27 @@
+{
+  "id": "freezer-friendly-one-pot",
+  "name": "Freezer-Friendly One-Pot Meal",
+  "level": "Intermediate",
+  "durationLabel": "15-20 min",
+  "equipment": "One pot and freezer-safe containers",
+  "primaryMuscle": "Freezer Meal Prep",
+  "secondaryMuscles": [
+    "Batch Cooking",
+    "Food Safety"
+  ],
+  "instructions": [
+    "Choose a saucy, stew-like, or grain-based one-pot dish -- these freeze and reheat far better than anything with crisp textures.",
+    "Cook a double batch in the same time it takes to make one, since the pot is already out and hot.",
+    "Cool the extra portion fully before freezing to avoid ice crystals and preserve texture.",
+    "Label with the date and reheat gently from frozen (stovetop or microwave, stirring often) rather than thawing on the counter."
+  ],
+  "sets": 4,
+  "reps": "18 min",
+  "restSec": 180,
+  "statLabels": [
+    "Servings",
+    "Active Time",
+    "Cool Down"
+  ],
+  "videoId": "CRd8dHqU1AM"
+}

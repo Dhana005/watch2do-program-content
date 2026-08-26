@@ -1,0 +1,27 @@
+{
+  "id": "cool-dark-room-reset",
+  "name": "Cool, Dark Room Reset",
+  "level": "Beginner",
+  "durationLabel": "10 min",
+  "equipment": "Blackout curtains or an eye mask, if available",
+  "primaryMuscle": "Sleep Environment",
+  "secondaryMuscles": [
+    "Room Temperature",
+    "Darkness"
+  ],
+  "instructions": [
+    "Lower the thermostat a degree or two tonight if your room has been running warm -- cooler rooms support deeper sleep.",
+    "Add an eye mask or blackout curtains if any light leaks into the room.",
+    "Remove or cover any small glowing lights (chargers, standby LEDs) within view of the bed.",
+    "Follow tonight's wind-down yoga flow once the room is set."
+  ],
+  "sets": 3,
+  "reps": "10 min",
+  "restSec": 300,
+  "statLabels": [
+    "Steps",
+    "Wind-Down Time",
+    "Lights Out"
+  ],
+  "videoId": "BiWDsfZ3zbo"
+}

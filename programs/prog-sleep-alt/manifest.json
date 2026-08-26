@@ -1,0 +1,42 @@
+{
+  "programId": "prog-sleep-alt",
+  "title": "Deep Sleep Reset",
+  "days": {
+    "1": [
+      "audit-sleep-environment"
+    ],
+    "2": [
+      "guided-deep-sleep-meditation"
+    ],
+    "3": [
+      "bedtime-stretch-reset"
+    ],
+    "4": [
+      "progressive-muscle-relaxation"
+    ],
+    "5": [
+      "wind-down-yoga-flow-2"
+    ],
+    "6": [
+      "digital-sunset"
+    ],
+    "8": [
+      "brain-dump-journaling"
+    ],
+    "9": [
+      "deepen-bedtime-stretch-2"
+    ],
+    "10": [
+      "consistent-wake-time"
+    ],
+    "11": [
+      "cool-dark-room-reset"
+    ],
+    "12": [
+      "caffeine-alcohol-curfew"
+    ],
+    "13": [
+      "morning-light-circadian-reset"
+    ]
+  }
+}

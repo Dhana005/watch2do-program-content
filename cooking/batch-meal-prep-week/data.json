@@ -1,0 +1,27 @@
+{
+  "id": "batch-meal-prep-week",
+  "name": "Batch Meal Prep for the Week",
+  "level": "Intermediate",
+  "durationLabel": "35-40 min",
+  "equipment": "A sheet pan, a large pot, and 6+ containers",
+  "primaryMuscle": "Weekly Batch Cooking",
+  "secondaryMuscles": [
+    "Ingredient Rotation",
+    "Food Storage"
+  ],
+  "instructions": [
+    "Cook 2 proteins, 2 starches, and 3 vegetables in parallel (oven + stovetop) so everything finishes around the same time.",
+    "Keep components separate rather than fully assembled meals -- it is easier to mix and match through the week and avoids soggy leftovers.",
+    "Cool everything to room temperature before sealing containers, then refrigerate; this keeps food safe and prevents condensation buildup.",
+    "Label each container with the date -- most cooked components keep well for 4 days in the fridge."
+  ],
+  "sets": 6,
+  "reps": "38 min",
+  "restSec": 300,
+  "statLabels": [
+    "Servings",
+    "Active Time",
+    "Cool Down"
+  ],
+  "videoId": "SVYqXLPzPZU"
+}

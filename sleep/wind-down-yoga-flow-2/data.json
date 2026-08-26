@@ -1,0 +1,27 @@
+{
+  "id": "wind-down-yoga-flow-2",
+  "name": "Wind-Down Yoga Flow",
+  "level": "Beginner",
+  "durationLabel": "12 min",
+  "equipment": "A bed or mat",
+  "primaryMuscle": "Physical Wind-Down",
+  "secondaryMuscles": [
+    "Relaxation",
+    "Breath Awareness"
+  ],
+  "instructions": [
+    "Move through a slow, connected flow, keeping every transition unhurried.",
+    "Let each exhale get a little longer than the inhale before it -- a simple, reliable way to downshift your nervous system.",
+    "Skip anything that feels effortful tonight; the only goal is calming down before bed.",
+    "Follow tonight's wind-down yoga video as your last activity before lights out."
+  ],
+  "sets": 4,
+  "reps": "12 min",
+  "restSec": 300,
+  "statLabels": [
+    "Steps",
+    "Wind-Down Time",
+    "Lights Out"
+  ],
+  "videoId": "BiWDsfZ3zbo"
+}

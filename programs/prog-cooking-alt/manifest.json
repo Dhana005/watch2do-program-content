@@ -1,0 +1,24 @@
+{
+  "programId": "prog-cooking-alt",
+  "title": "One-Pot Dinners",
+  "days": {
+    "1": [
+      "one-pot-pasta-night"
+    ],
+    "2": [
+      "sheet-pan-dinner"
+    ],
+    "3": [
+      "skillet-stir-fry"
+    ],
+    "4": [
+      "one-pot-soup-stew"
+    ],
+    "5": [
+      "one-pot-grain-bowl"
+    ],
+    "6": [
+      "freezer-friendly-one-pot"
+    ]
+  }
+}

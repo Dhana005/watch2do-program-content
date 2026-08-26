@@ -1,0 +1,27 @@
+{
+  "id": "consistent-wake-time",
+  "name": "Lock In a Consistent Wake-Up Time",
+  "level": "Beginner",
+  "durationLabel": "10 min",
+  "equipment": "An alarm clock or phone alarm",
+  "primaryMuscle": "Sleep Consistency",
+  "secondaryMuscles": [
+    "Circadian Rhythm",
+    "Habit Building"
+  ],
+  "instructions": [
+    "Set your alarm for the same time every morning this week, weekends included -- a fixed wake time anchors your whole sleep cycle.",
+    "Get out of bed within a few minutes of the alarm rather than snoozing repeatedly, which fragments the last stretch of sleep.",
+    "Expect bedtime to naturally become easier within 1-2 weeks as your body adjusts to the fixed wake time.",
+    "End tonight with the wind-down meditation as usual."
+  ],
+  "sets": 3,
+  "reps": "10 min",
+  "restSec": 300,
+  "statLabels": [
+    "Steps",
+    "Wind-Down Time",
+    "Lights Out"
+  ],
+  "videoId": "5sKIdUn7lPU"
+}

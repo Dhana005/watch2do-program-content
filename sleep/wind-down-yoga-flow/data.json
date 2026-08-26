@@ -1,0 +1,27 @@
+{
+  "id": "wind-down-yoga-flow",
+  "name": "Wind-Down Yoga Flow",
+  "level": "Beginner",
+  "durationLabel": "12 min",
+  "equipment": "A bed or mat, and comfortable clothing",
+  "primaryMuscle": "Physical Wind-Down",
+  "secondaryMuscles": [
+    "Relaxation",
+    "Breath Awareness"
+  ],
+  "instructions": [
+    "Move through a short, slow flow that connects breath and movement -- this is about downshifting, not stretching hard.",
+    "Keep transitions unhurried; there is no benefit to moving quickly through a wind-down sequence.",
+    "Let your exhales get slightly longer than your inhales as you go, a simple way to cue your body toward rest.",
+    "Follow tonight's wind-down yoga video as your last activity of the day, then go straight to bed."
+  ],
+  "sets": 4,
+  "reps": "12 min",
+  "restSec": 300,
+  "statLabels": [
+    "Steps",
+    "Wind-Down Time",
+    "Lights Out"
+  ],
+  "videoId": "BiWDsfZ3zbo"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "meal-prep-15-min-basics",
+  "name": "15-Minute Meal Basics",
+  "level": "Beginner",
+  "durationLabel": "8-10 min",
+  "equipment": "A skillet, a sheet pan, and 3-4 airtight containers",
+  "primaryMuscle": "Meal Prep Efficiency",
+  "secondaryMuscles": [
+    "Batch Cooking",
+    "Time Management"
+  ],
+  "instructions": [
+    "Pick one quick-cooking protein (eggs, canned beans, or pre-cooked chicken) and 2-3 vegetables that all roast or saute in under 15 minutes.",
+    "Prep everything in one pan or sheet at once instead of cooking components separately -- fewer dishes, less total time.",
+    "Season simply (salt, pepper, one dried herb, a squeeze of citrus) so the same base works across several different meals.",
+    "Portion into containers as soon as it cools slightly, so it is grab-and-go for the next few days."
+  ],
+  "sets": 4,
+  "reps": "15 min",
+  "restSec": 300,
+  "statLabels": [
+    "Servings",
+    "Active Time",
+    "Cool Down"
+  ],
+  "videoId": "syYbau6eIxU"
+}

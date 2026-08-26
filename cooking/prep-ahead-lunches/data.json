@@ -1,0 +1,27 @@
+{
+  "id": "prep-ahead-lunches",
+  "name": "Prep-Ahead Lunches",
+  "level": "Beginner",
+  "durationLabel": "12-15 min",
+  "equipment": "Lunch-sized containers",
+  "primaryMuscle": "Grab-and-Go Prep",
+  "secondaryMuscles": [
+    "Portion Control",
+    "Reheating"
+  ],
+  "instructions": [
+    "Build lunches around a grain base, a protein, and a raw or quick-cooked vegetable so nothing goes soggy by day 3.",
+    "Keep any dressing or sauce in a small separate container and add it right before eating.",
+    "Pack proteins and grains warm-to-room-temperature, not hot, before sealing to avoid excess condensation in the container.",
+    "Reheat gently (30-60 sec increments) if using a microwave, stirring in between, so nothing overcooks around the edges."
+  ],
+  "sets": 5,
+  "reps": "13 min",
+  "restSec": 180,
+  "statLabels": [
+    "Servings",
+    "Active Time",
+    "Cool Down"
+  ],
+  "videoId": "kMqEhgCB1vk"
+}

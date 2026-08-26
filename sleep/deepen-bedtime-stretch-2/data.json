@@ -1,0 +1,27 @@
+{
+  "id": "deepen-bedtime-stretch-2",
+  "name": "Deepen the Bedtime Stretch",
+  "level": "Beginner",
+  "durationLabel": "10 min",
+  "equipment": "A bed or mat",
+  "primaryMuscle": "Physical Wind-Down",
+  "secondaryMuscles": [
+    "Tension Relief",
+    "Gentle Movement"
+  ],
+  "instructions": [
+    "Return to tonight's stretch sequence, but hold each position a few seconds longer than last time.",
+    "Notice how much easier the sequence feels now compared to your first night -- consistency compounds.",
+    "Keep the room dim while you stretch; bright light works against the routine's purpose.",
+    "Follow tonight's bedtime yoga video through to the end, then head straight to bed."
+  ],
+  "sets": 4,
+  "reps": "10 min",
+  "restSec": 300,
+  "statLabels": [
+    "Steps",
+    "Wind-Down Time",
+    "Lights Out"
+  ],
+  "videoId": "cRo0ss2Kc3o"
+}

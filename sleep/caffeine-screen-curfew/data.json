@@ -1,0 +1,27 @@
+{
+  "id": "caffeine-screen-curfew",
+  "name": "Cut Caffeine & Screens Before Bed",
+  "level": "Beginner",
+  "durationLabel": "10 min",
+  "equipment": "None -- just a plan for the evening",
+  "primaryMuscle": "Sleep Hygiene",
+  "secondaryMuscles": [
+    "Caffeine Timing",
+    "Blue Light"
+  ],
+  "instructions": [
+    "Stop caffeine (coffee, tea, soda, energy drinks) by early-to-mid afternoon -- it can still affect sleep quality 6+ hours after you drink it.",
+    "Set a screen curfew 30-60 minutes before bed; the blue light from phones and TVs suppresses melatonin production.",
+    "If you must use a screen, switch on a night-mode/warm-light filter to reduce the effect.",
+    "Use tonight's wind-down meditation as your screen-free replacement activity for that last half hour."
+  ],
+  "sets": 3,
+  "reps": "10 min",
+  "restSec": 300,
+  "statLabels": [
+    "Steps",
+    "Wind-Down Time",
+    "Lights Out"
+  ],
+  "videoId": "_3fvhTO3pLM"
+}

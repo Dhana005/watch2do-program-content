@@ -1,0 +1,27 @@
+{
+  "id": "caffeine-alcohol-curfew",
+  "name": "Caffeine & Alcohol Curfew",
+  "level": "Beginner",
+  "durationLabel": "10 min",
+  "equipment": "None -- just a plan for the day",
+  "primaryMuscle": "Sleep Hygiene",
+  "secondaryMuscles": [
+    "Caffeine Timing",
+    "Alcohol & Sleep"
+  ],
+  "instructions": [
+    "Keep caffeine to the morning and early afternoon today -- its effects can linger for 6+ hours.",
+    "If you drink alcohol, know that while it can make you feel drowsy, it fragments sleep later in the night and reduces deep sleep.",
+    "Swap an evening drink for herbal tea or water if you'd normally have one close to bedtime.",
+    "Close the day with tonight's wind-down meditation."
+  ],
+  "sets": 3,
+  "reps": "10 min",
+  "restSec": 300,
+  "statLabels": [
+    "Steps",
+    "Wind-Down Time",
+    "Lights Out"
+  ],
+  "videoId": "_3fvhTO3pLM"
+}

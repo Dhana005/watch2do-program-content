@@ -1,0 +1,27 @@
+{
+  "id": "bedtime-stretch-reset",
+  "name": "Bedtime Stretch Reset",
+  "level": "Beginner",
+  "durationLabel": "10 min",
+  "equipment": "A bed or mat",
+  "primaryMuscle": "Physical Wind-Down",
+  "secondaryMuscles": [
+    "Muscle Tension Release",
+    "Gentle Movement"
+  ],
+  "instructions": [
+    "Do a slow bedtime stretch sequence, holding each position long enough to actually feel the muscle release.",
+    "Keep your breathing slow and nasal throughout -- this is a relaxation practice, not a flexibility workout.",
+    "Notice which areas feel tightest tonight; that often shifts night to night depending on your day.",
+    "Follow tonight's bedtime yoga video, ending lying still for a moment before sleep."
+  ],
+  "sets": 4,
+  "reps": "10 min",
+  "restSec": 300,
+  "statLabels": [
+    "Steps",
+    "Wind-Down Time",
+    "Lights Out"
+  ],
+  "videoId": "cRo0ss2Kc3o"
+}

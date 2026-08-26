@@ -1,0 +1,27 @@
+{
+  "id": "consistent-sleep-schedule",
+  "name": "Set a Consistent Sleep Schedule",
+  "level": "Beginner",
+  "durationLabel": "10 min",
+  "equipment": "A notebook or phone reminder to set a fixed bedtime",
+  "primaryMuscle": "Sleep Consistency",
+  "secondaryMuscles": [
+    "Circadian Rhythm",
+    "Habit Building"
+  ],
+  "instructions": [
+    "Pick a bedtime and wake-up time you can hold seven days a week, weekends included -- consistency matters more than the exact hours you choose.",
+    "Work backward from your wake time to give yourself a genuine 7-8 hour window in bed.",
+    "Set a phone alarm 30 minutes before your target bedtime as a \"start winding down\" cue, not just a wake-up alarm.",
+    "Follow along with tonight's wind-down meditation to end the day on the same cue your body will learn to recognize."
+  ],
+  "sets": 4,
+  "reps": "10 min",
+  "restSec": 300,
+  "statLabels": [
+    "Steps",
+    "Wind-Down Time",
+    "Lights Out"
+  ],
+  "videoId": "_3fvhTO3pLM"
+}

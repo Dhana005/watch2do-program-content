@@ -1,0 +1,27 @@
+{
+  "id": "one-pot-pasta-night",
+  "name": "One-Pot Pasta Night",
+  "level": "Beginner",
+  "durationLabel": "25-30 min",
+  "equipment": "One large pot or deep skillet",
+  "primaryMuscle": "One-Pot Technique",
+  "secondaryMuscles": [
+    "Pasta Cookery",
+    "Easy Cleanup"
+  ],
+  "instructions": [
+    "Add dry pasta directly to a pot with just enough liquid (broth, water, and canned tomatoes) to cover it -- no separate boiling pot needed.",
+    "Simmer uncovered, stirring occasionally, until the pasta is tender and most of the liquid has been absorbed into a light sauce.",
+    "Stir in any quick-cooking vegetables (spinach, peas) during the last 2 minutes so they stay bright, not mushy.",
+    "Finish with cheese or fresh herbs off the heat -- the residual warmth is enough to melt or wilt them."
+  ],
+  "sets": 4,
+  "reps": "25 min",
+  "restSec": 180,
+  "statLabels": [
+    "Servings",
+    "Active Time",
+    "Cool Down"
+  ],
+  "videoId": "jkHrTTCTozA"
+}

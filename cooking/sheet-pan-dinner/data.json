@@ -1,0 +1,27 @@
+{
+  "id": "sheet-pan-dinner",
+  "name": "Sheet-Pan Dinner",
+  "level": "Beginner",
+  "durationLabel": "25-30 min",
+  "equipment": "One large sheet pan",
+  "primaryMuscle": "One-Pan Roasting",
+  "secondaryMuscles": [
+    "Even Cooking",
+    "Minimal Cleanup"
+  ],
+  "instructions": [
+    "Cut protein and vegetables to similar sizes so everything finishes roasting at the same time on one pan.",
+    "Toss everything in oil and seasoning directly on the pan -- one bowl, one pan, one cleanup.",
+    "Space pieces out with room between them; overcrowding steams the food instead of browning it.",
+    "Roast at high heat, flipping once halfway through, until everything is caramelized at the edges."
+  ],
+  "sets": 4,
+  "reps": "25 min",
+  "restSec": 180,
+  "statLabels": [
+    "Servings",
+    "Active Time",
+    "Cool Down"
+  ],
+  "videoId": "syYbau6eIxU"
+}

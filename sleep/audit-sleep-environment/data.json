@@ -1,0 +1,27 @@
+{
+  "id": "audit-sleep-environment",
+  "name": "Audit Your Sleep Environment",
+  "level": "Beginner",
+  "durationLabel": "10 min",
+  "equipment": "None -- just your bedroom",
+  "primaryMuscle": "Sleep Environment",
+  "secondaryMuscles": [
+    "Room Temperature",
+    "Darkness"
+  ],
+  "instructions": [
+    "Check your room temperature -- most people sleep best between 60-67°F (15-19°C); a room that runs warm disrupts deep sleep.",
+    "Block out light sources: streetlights, standby LEDs, or gaps in curtains can all interrupt melatonin production.",
+    "Reduce noise where you can, or add a consistent background sound (a fan or white noise) to mask sudden disruptions.",
+    "Follow tonight's wind-down meditation once your environment is set up for the night."
+  ],
+  "sets": 4,
+  "reps": "10 min",
+  "restSec": 300,
+  "statLabels": [
+    "Steps",
+    "Wind-Down Time",
+    "Lights Out"
+  ],
+  "videoId": "_3fvhTO3pLM"
+}

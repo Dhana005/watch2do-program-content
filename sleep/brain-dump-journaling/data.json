@@ -1,0 +1,27 @@
+{
+  "id": "brain-dump-journaling",
+  "name": "Brain Dump Journaling Before Bed",
+  "level": "Beginner",
+  "durationLabel": "10 min",
+  "equipment": "A notebook and pen",
+  "primaryMuscle": "Mental Wind-Down",
+  "secondaryMuscles": [
+    "Worry Offloading",
+    "Journaling"
+  ],
+  "instructions": [
+    "Spend 5-10 minutes writing down anything on your mind -- tomorrow's to-do list, unresolved worries, or just how the day went.",
+    "Do not try to solve anything while writing; the goal is just to get it out of your head and onto paper.",
+    "Close the notebook when you're done as a physical cue that you're setting those thoughts aside for the night.",
+    "Follow with tonight's guided deep sleep meditation to settle in."
+  ],
+  "sets": 3,
+  "reps": "10 min",
+  "restSec": 300,
+  "statLabels": [
+    "Steps",
+    "Wind-Down Time",
+    "Lights Out"
+  ],
+  "videoId": "PvG28KqwVNM"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "one-pot-soup-stew",
+  "name": "One-Pot Soup or Stew",
+  "level": "Intermediate",
+  "durationLabel": "35-40 min",
+  "equipment": "A large pot or Dutch oven",
+  "primaryMuscle": "Braising & Simmering",
+  "secondaryMuscles": [
+    "Layered Flavor",
+    "Big-Batch Cooking"
+  ],
+  "instructions": [
+    "Brown protein and saute aromatics directly in the pot first to build a flavorful base before adding liquid.",
+    "Add broth or water along with your heartiest vegetables (root vegetables, beans) first, since they take longest to soften.",
+    "Simmer, partially covered, until everything is tender -- resist a hard boil, which can toughen meat.",
+    "Add quicker-cooking vegetables or greens in the last 5-10 minutes so they do not turn to mush."
+  ],
+  "sets": 6,
+  "reps": "38 min",
+  "restSec": 300,
+  "statLabels": [
+    "Servings",
+    "Active Time",
+    "Cool Down"
+  ],
+  "videoId": "SVYqXLPzPZU"
+}

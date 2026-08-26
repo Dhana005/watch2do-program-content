@@ -1,0 +1,27 @@
+{
+  "id": "morning-light-circadian-reset",
+  "name": "Morning Light for Circadian Reset",
+  "level": "Beginner",
+  "durationLabel": "10 min",
+  "equipment": "Access to daylight, even through a window",
+  "primaryMuscle": "Circadian Rhythm",
+  "secondaryMuscles": [
+    "Morning Light",
+    "Sleep-Wake Cycle"
+  ],
+  "instructions": [
+    "Get outside or near a bright window within 30-60 minutes of waking tomorrow -- morning light is one of the strongest signals your body uses to set its sleep-wake clock.",
+    "Aim for at least 10 minutes of natural light exposure, even on a cloudy day (outdoor light is far brighter than indoor lighting).",
+    "Pair this with your consistent wake time from earlier in the program for the strongest circadian effect.",
+    "Close tonight with the guided deep sleep meditation as usual."
+  ],
+  "sets": 3,
+  "reps": "10 min",
+  "restSec": 300,
+  "statLabels": [
+    "Steps",
+    "Wind-Down Time",
+    "Lights Out"
+  ],
+  "videoId": "PvG28KqwVNM"
+}

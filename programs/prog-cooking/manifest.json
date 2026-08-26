@@ -1,0 +1,21 @@
+{
+  "programId": "prog-cooking",
+  "title": "Meal Prep Mastery Series",
+  "days": {
+    "1": [
+      "meal-prep-15-min-basics"
+    ],
+    "2": [
+      "lazy-weeknight-dinners"
+    ],
+    "3": [
+      "one-pot-meal-prep"
+    ],
+    "4": [
+      "batch-meal-prep-week"
+    ],
+    "5": [
+      "prep-ahead-lunches"
+    ]
+  }
+}

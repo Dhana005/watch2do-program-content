@@ -1,0 +1,27 @@
+{
+  "id": "deepen-bedtime-yoga",
+  "name": "Deepen with Bedtime Yoga",
+  "level": "Beginner",
+  "durationLabel": "15 min",
+  "equipment": "A bed or mat, and comfortable clothing",
+  "primaryMuscle": "Physical Wind-Down",
+  "secondaryMuscles": [
+    "Tension Relief",
+    "Gentle Movement"
+  ],
+  "instructions": [
+    "Extend tonight's stretch a little longer than usual, moving slowly between shapes and holding each one.",
+    "Pay extra attention to your hips, shoulders, and neck -- common spots where a day of sitting or stress accumulates.",
+    "Let your breath lead the pace rather than rushing through positions to finish faster.",
+    "Follow tonight's full bedtime yoga video, ending lying down with your eyes closed for a minute before sleep."
+  ],
+  "sets": 4,
+  "reps": "15 min",
+  "restSec": 300,
+  "statLabels": [
+    "Steps",
+    "Wind-Down Time",
+    "Lights Out"
+  ],
+  "videoId": "5sKIdUn7lPU"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "guided-deep-sleep-meditation",
+  "name": "Guided Deep Sleep Meditation",
+  "level": "Beginner",
+  "durationLabel": "10 min",
+  "equipment": "A quiet space to lie down",
+  "primaryMuscle": "Guided Relaxation",
+  "secondaryMuscles": [
+    "Deep Sleep",
+    "Body Relaxation"
+  ],
+  "instructions": [
+    "Lie down in your sleep position rather than sitting up -- this session is meant to carry you straight into sleep.",
+    "Let your body get heavy with each exhale; there is no goal here except releasing tension.",
+    "If your mind wanders to tomorrow's tasks, gently return attention to the guide's voice without frustration.",
+    "Follow tonight's full guided deep sleep meditation through to the end."
+  ],
+  "sets": 3,
+  "reps": "10 min",
+  "restSec": 300,
+  "statLabels": [
+    "Steps",
+    "Wind-Down Time",
+    "Lights Out"
+  ],
+  "videoId": "PvG28KqwVNM"
+}

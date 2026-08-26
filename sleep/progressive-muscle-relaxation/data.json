@@ -1,0 +1,27 @@
+{
+  "id": "progressive-muscle-relaxation",
+  "name": "Progressive Muscle Relaxation",
+  "level": "Beginner",
+  "durationLabel": "15 min",
+  "equipment": "A bed or mat, comfortable clothing",
+  "primaryMuscle": "Physical Wind-Down",
+  "secondaryMuscles": [
+    "Muscle Relaxation",
+    "Body Scan"
+  ],
+  "instructions": [
+    "Starting at your feet, tense each muscle group hard for about 5 seconds, then release and notice the relaxation that follows.",
+    "Work upward through your body -- calves, thighs, stomach, hands, arms, shoulders, face -- one group at a time.",
+    "Move slower than feels necessary; rushing defeats the point of noticing the tension-release contrast.",
+    "Follow tonight's bedtime yoga video as a physical complement to the muscle-relaxation sequence."
+  ],
+  "sets": 6,
+  "reps": "15 min",
+  "restSec": 300,
+  "statLabels": [
+    "Steps",
+    "Wind-Down Time",
+    "Lights Out"
+  ],
+  "videoId": "5sKIdUn7lPU"
+}

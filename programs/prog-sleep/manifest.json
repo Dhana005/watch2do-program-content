@@ -1,0 +1,24 @@
+{
+  "programId": "prog-sleep",
+  "title": "Better Sleep in 7 Nights",
+  "days": {
+    "1": [
+      "consistent-sleep-schedule"
+    ],
+    "2": [
+      "wind-down-routine"
+    ],
+    "3": [
+      "bedtime-stretch"
+    ],
+    "4": [
+      "deepen-bedtime-yoga"
+    ],
+    "5": [
+      "wind-down-yoga-flow"
+    ],
+    "6": [
+      "caffeine-screen-curfew"
+    ]
+  }
+}

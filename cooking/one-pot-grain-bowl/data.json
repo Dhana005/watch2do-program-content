@@ -1,0 +1,27 @@
+{
+  "id": "one-pot-grain-bowl",
+  "name": "One-Pot Rice & Grain Bowl",
+  "level": "Beginner",
+  "durationLabel": "20-25 min",
+  "equipment": "One pot with a lid",
+  "primaryMuscle": "Grain Cookery",
+  "secondaryMuscles": [
+    "Bowl Assembly",
+    "Meal Balance"
+  ],
+  "instructions": [
+    "Toast rice or another grain briefly in a little oil before adding liquid -- it keeps the grains separate instead of gummy.",
+    "Cook the grain covered at a low simmer, resisting the urge to lift the lid, until the liquid is fully absorbed.",
+    "While the grain cooks, quickly saute or steam a vegetable and warm a protein in a separate small pan.",
+    "Assemble in bowls: grain as the base, protein and vegetables on top, finished with a simple dressing or sauce."
+  ],
+  "sets": 4,
+  "reps": "22 min",
+  "restSec": 120,
+  "statLabels": [
+    "Servings",
+    "Active Time",
+    "Cool Down"
+  ],
+  "videoId": "kMqEhgCB1vk"
+}

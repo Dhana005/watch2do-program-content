@@ -1,0 +1,27 @@
+{
+  "id": "bedtime-stretch",
+  "name": "Bedtime Stretch to Release Tension",
+  "level": "Beginner",
+  "durationLabel": "10 min",
+  "equipment": "A bed or mat, and comfortable clothing",
+  "primaryMuscle": "Physical Wind-Down",
+  "secondaryMuscles": [
+    "Muscle Tension Release",
+    "Gentle Movement"
+  ],
+  "instructions": [
+    "Do a short, gentle stretch sequence in bed -- physical tension from the day often keeps the mind from settling too.",
+    "Focus on slow, held stretches (20-30 seconds each) rather than anything active; the goal is calming down, not working out.",
+    "Breathe slowly through your nose throughout -- long exhales signal your nervous system to shift out of \"alert\" mode.",
+    "Follow along with tonight's bedtime yoga video, then move straight into lying down for sleep."
+  ],
+  "sets": 4,
+  "reps": "10 min",
+  "restSec": 300,
+  "statLabels": [
+    "Steps",
+    "Wind-Down Time",
+    "Lights Out"
+  ],
+  "videoId": "cRo0ss2Kc3o"
+}

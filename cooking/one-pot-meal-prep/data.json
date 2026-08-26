@@ -1,0 +1,27 @@
+{
+  "id": "one-pot-meal-prep",
+  "name": "One-Pot Meal Prep",
+  "level": "Intermediate",
+  "durationLabel": "25-30 min",
+  "equipment": "A large pot or Dutch oven",
+  "primaryMuscle": "One-Pot Technique",
+  "secondaryMuscles": [
+    "Layered Flavor",
+    "Big-Batch Cooking"
+  ],
+  "instructions": [
+    "Brown your protein first directly in the pot to build a flavor base, then set it aside.",
+    "Saute aromatics (onion, garlic) in the same pot, then add your starch (rice, pasta, or lentils) so it soaks up that flavor as it cooks.",
+    "Return the protein, add liquid (broth or water), cover, and simmer until the starch is fully cooked -- no separate pots needed.",
+    "Let it rest off the heat for a few minutes before portioning; it thickens and the flavors settle."
+  ],
+  "sets": 5,
+  "reps": "28 min",
+  "restSec": 300,
+  "statLabels": [
+    "Servings",
+    "Active Time",
+    "Cool Down"
+  ],
+  "videoId": "jkHrTTCTozA"
+}
